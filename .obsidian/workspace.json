@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Worldbuilding/Unsorted Notes/Optic Colors.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Optic Colors"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Worldbuilding/Unsorted Notes/Optic Colors.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Optic Colors"
+              "title": "Backlinks for conflict-files-obsidian-git"
             }
           },
           {
@@ -163,16 +163,26 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Worldbuilding/Unsorted Notes/Optic Colors.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Optic Colors"
+              "title": "Outgoing links from conflict-files-obsidian-git"
+            }
+          },
+          {
+            "id": "8b87ac2814cf56e7",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -193,11 +203,13 @@
   },
   "active": "ed19c435a3ceeaea",
   "lastOpenFiles": [
+    "Notes/Worldbuilding/Unsorted Notes/Optic Colors.md",
+    "conflict-files-obsidian-git.md",
+    "Notes/Worldbuilding/Groups/Seekers/Seekers.md",
+    "Notes/Worldbuilding/Character Pages/Decepticons/Decepticon High Command/Starscream.md",
     "New Text Document.txt",
     "New folder",
     "Confused",
-    "Notes/Worldbuilding/Character Pages/Decepticons/Decepticon High Command/Starscream.md",
-    "Notes/Worldbuilding/Unsorted Notes/Optic Colors.md",
     "Notes/Worldbuilding/Unsorted Notes",
     "Notes/Worldbuilding/Groups/Seekers/Generation Two.md",
     "Notes/Worldbuilding/Groups/Seekers/Generation One.md",
@@ -207,7 +219,6 @@
     "Notes/Worldbuilding/Character Pages/Decepticons/Seekers",
     "Notes/Worldbuilding/Character Pages/Decepticons",
     "Notes/Worldbuilding/Character Pages",
-    "Notes/Worldbuilding/Groups/Seekers/Seekers.md",
     "Notes/Worldbuilding/Unsorted Notes/Cold Constructs.md",
     "Notes/Worldbuilding/Seekers.md",
     "Notes/Worldbuilding/Groups/Seekers",
@@ -216,7 +227,6 @@
     "Notes/Worldbuilding/Groups/Groups.md",
     "Notes/Worldbuilding/Groups/Seekers/Seekers General Notes.md",
     "Notes/Worldbuilding/Worldbuilding.md",
-    "Notes/Worldbuilding/Groups/Scavengers",
     "Lleliri Nyr.md",
     "Meredith Early-Dawn.md",
     "Ideas.md",
