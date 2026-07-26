@@ -187,11 +187,15 @@
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "ed19c435a3ceeaea",
   "lastOpenFiles": [
+    "New Text Document.txt",
+    "New folder",
+    "Confused",
     "Notes/Worldbuilding/Character Pages/Decepticons/Decepticon High Command/Starscream.md",
     "Notes/Worldbuilding/Unsorted Notes/Optic Colors.md",
     "Notes/Worldbuilding/Unsorted Notes",
@@ -213,8 +217,6 @@
     "Notes/Worldbuilding/Groups/Seekers/Seekers General Notes.md",
     "Notes/Worldbuilding/Worldbuilding.md",
     "Notes/Worldbuilding/Groups/Scavengers",
-    "Notes/Worldbuilding/Groups/Seekers",
-    "Notes/Worldbuilding",
     "Lleliri Nyr.md",
     "Meredith Early-Dawn.md",
     "Ideas.md",
@@ -229,7 +231,6 @@
     "The Bookening/Plot Notes/Seren Alkmene.md",
     "The Bookening/Worldbuilding Notes/Familiars.md",
     "The Bookening/Worldbuilding Notes/Worldbuilding Notes.md",
-    "The Bookening/Worldbuilding Notes/Minority Classes in Felle.md",
     "The Bookening/Plot Notes/Plot Outline.canvas",
     "Spells Chart.canvas",
     "The Bookening/Plot Notes/Reveals Chart.canvas",
