@@ -10,5 +10,6 @@ Stereotyped as being the “Point One Percenter” optic color. Surprisingly rar
 # Blue Optics
 The new norm. Exceedingly common due to the other two common colors (red and yellow) having strong stereotypes. 
 # Purple Optics
-
+The rarest type of colored optic. Typically denotes some sort of frame issue, such as illness or an outlier ability.
 # White Optics
+White optics are the result of some sort of injury or illness affecting either the optics itself, the brainmodule, or repair nanites within the optics. 
