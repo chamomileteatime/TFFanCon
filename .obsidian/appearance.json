@@ -1,0 +1,11 @@
+{
+  "textFontFamily": "Sylfaen",
+  "cssTheme": "Minimal",
+  "accentColor": "#996aaf",
+  "theme": "obsidian",
+  "nativeMenus": false,
+  "interfaceFontFamily": "Monocraft",
+  "baseFontSize": 14,
+  "showViewHeader": false,
+  "showRibbon": true
+}
