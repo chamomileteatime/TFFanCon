@@ -1,1 +1,1 @@
-:)
+in truth it is about control
