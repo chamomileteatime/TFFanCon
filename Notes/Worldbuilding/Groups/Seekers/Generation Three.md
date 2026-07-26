@@ -9,7 +9,7 @@ Color palette is generally mostly grey, with a faceplate color and a bright body
 
 # List of Gen3 Seekers
 
-## Brainstorm’s UNNAMED Trine
+## Brainstorm’s Unnamed Trine
 **Brainstorm**
 *Colors:* White & Orange Helm, Cyan Body
 *Outlier:* None
@@ -42,3 +42,4 @@ Color palette is generally mostly grey, with a faceplate color and a bright body
 *Outlier:* None
 
 (Malformed TCog, unable to fly correctly.)
+
