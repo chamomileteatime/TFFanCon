@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "caad2eef772b605d",
+        "id": "9345bd303ad1d3a6",
         "type": "tabs",
         "children": [
           {
-            "id": "ed19c435a3ceeaea",
+            "id": "4ce8d16097951237",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Notes/Worldbuilding/Character Pages/Decepticons/Decepticon High Command/Starscream.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Starscream"
             }
           }
         ]
@@ -73,16 +73,6 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "d88504b21d083c1b",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
           }
         ]
       }
@@ -134,8 +124,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "lucide-ghost",
+              "title": "todo"
             }
           },
           {
@@ -144,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Notes/Worldbuilding/Character Pages/Decepticons/Decepticon High Command/Starscream.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for conflict-files-obsidian-git"
+              "title": "Backlinks for Starscream"
             }
           },
           {
@@ -163,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Notes/Worldbuilding/Character Pages/Decepticons/Decepticon High Command/Starscream.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from conflict-files-obsidian-git"
+              "title": "Outgoing links from Starscream"
             }
           },
           {
@@ -177,12 +167,25 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "history",
-              "title": "History"
+              "icon": "lucide-ghost",
+              "title": "git-history-view"
+            }
+          },
+          {
+            "id": "f3b660bf468f06e7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -197,14 +200,13 @@
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed19c435a3ceeaea",
+  "active": "83d4512150c947f6",
   "lastOpenFiles": [
-    "Notes/Worldbuilding/Unsorted Notes/Optic Colors.md",
     "conflict-files-obsidian-git.md",
+    "Notes/Worldbuilding/Unsorted Notes/Optic Colors.md",
     "Notes/Worldbuilding/Groups/Seekers/Seekers.md",
     "Notes/Worldbuilding/Character Pages/Decepticons/Decepticon High Command/Starscream.md",
     "New Text Document.txt",
