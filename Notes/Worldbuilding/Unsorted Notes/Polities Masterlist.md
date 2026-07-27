@@ -102,11 +102,11 @@ Notable Cybertronians: Rodimus,
 ## Minor Polities
 ### Altihex
 Faction: Autobot
-Subdivisions:
+Subdivisions: N/A
 Points of Interest:
 Hotspots (if any): 
-Brief Information: 
-Relevant Neighbors: Iacon
+Brief Information: Smaller than and elevated above neighboring polities, very run-down
+Relevant Neighbors: Iacon, Nova Cronum, Polyhex
 Notable Cybertronians: Pharma
 
 ### Vaporex
@@ -114,7 +114,7 @@ Faction: Autobot
 Subdivisions:
 Points of Interest:
 Hotspots (if any): Eugenesis
-Brief Information:
+Brief Information: Patient Zero of Chromatic Fever; paired with Pescus Hex and Hydrax. 
 Relevant Neighbors: Pescus Hex, Hydrax
 Notable Cybertronians: Ratchet
 
@@ -174,10 +174,10 @@ Notable Cybertronians:
 
 ### Rodion
 Faction: Neutral
-Subdivisions:
+Subdivisions: Slums
 Points of Interest: Dead End, Maccadam's New Oil House
 Hotspots (if any):
-Brief Information:
+Brief Information: Small neutral urban district
 Relevant Neighbors:
 Notable Cybertronians:
 
