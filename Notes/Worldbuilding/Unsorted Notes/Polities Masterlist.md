@@ -17,12 +17,12 @@ Notable Cybertronians:
 ## Major Polities
 ### Iacon
 Faction: Autobot
-Subdivisions:
-Points of Interest:
-Hotspots (if any):
-Brief Information:
-Relevant Neighbors:
-Notable Cybertronians:
+Subdivisions: Translucentica Heights,
+Points of Interest: Academy of Science and Technology, 
+Hotspots (if any): Rivets Field, Vespertine Blue, Port Residua
+Brief Information: One of the older polities;
+Relevant Neighbors: Polyhex, Nova Cronum, Altihex
+Notable Cybertronians: Tailgate, Shockwave
 
 ### Polyhex
 Faction: Autobot
@@ -30,17 +30,17 @@ Subdivisions:
 Points of Interest:
 Hotspots (if any):
 Brief Information:
-Relevant Neighbors:
+Relevant Neighbors: Iacon, Nova Cronum, Altihex
 Notable Cybertronians:
 
 ### Praxus
 Faction: N/A (Autobot)
 Subdivisions:
 Points of Interest:
-Hotspots (if any):
+Hotspots (if any): Warrior's Gate (Disabled)
 Brief Information:
 Relevant Neighbors:
-Notable Cybertronians:
+Notable Cybertronians: Prowl, Smokescreen, Bluestreak
 
 ### Vos
 Faction: Decepticon
@@ -55,10 +55,10 @@ Notable Cybertronians:
 Faction: Decepticon
 Subdivisions:
 Points of Interest:
-Hotspots (if any):
+Hotspots (if any): Nova Point
 Brief Information:
-Relevant Neighbors:
-Notable Cybertronians:
+Relevant Neighbors: 
+Notable Cybertronians: Megatron
 
 ### Kaon
 Faction: Decepticon
@@ -92,9 +92,9 @@ Faction: N/A
 Subdivisions:
 Points of Interest:
 Hotspots (if any):
-Brief Information:
+Brief Information: Cybertron Vegas
 Relevant Neighbors:
-Notable Cybertronians:
+Notable Cybertronians: Rodimus, 
 
 
 ---
@@ -104,18 +104,36 @@ Notable Cybertronians:
 Faction: Autobot
 Subdivisions:
 Points of Interest:
-Hotspots (if any):
-Brief Information:
-Relevant Neighbors:
-Notable Cybertronians:
+Hotspots (if any): 
+Brief Information: 
+Relevant Neighbors: Iacon
+Notable Cybertronians: Pharma
 
 ### Vaporex
 Faction: Autobot
 Subdivisions:
 Points of Interest:
+Hotspots (if any): Eugenesis
+Brief Information:
+Relevant Neighbors: Pescus Hex, Hydrax
+Notable Cybertronians: Ratchet
+
+### Pescus Hex
+Faction: Autobot
+Subdivisions:
+Points of Interest:
 Hotspots (if any):
 Brief Information:
-Relevant Neighbors:
+Relevant Neighbors: Hydrax, Vaporex
+Notable Cybertronians:
+
+### Hydrax
+Faction: Autobot
+Subdivisions:
+Points of Interest:
+Hotspots (if any):
+Brief Information:
+Relevant Neighbors: Pescus Hex, Vaporex
 Notable Cybertronians:
 
 ### Carpessa
@@ -143,7 +161,7 @@ Points of Interest:
 Hotspots (if any):
 Brief Information:
 Relevant Neighbors:
-Notable Cybertronians:
+Notable Cybertronians: Ravage
 
 ### Kalis
 Faction:
@@ -157,7 +175,7 @@ Notable Cybertronians:
 ### Rodion
 Faction: Neutral
 Subdivisions:
-Points of Interest:
+Points of Interest: Dead End, Maccadam's New Oil House
 Hotspots (if any):
 Brief Information:
 Relevant Neighbors:
@@ -170,7 +188,7 @@ Points of Interest:
 Hotspots (if any):
 Brief Information:
 Relevant Neighbors:
-Notable Cybertronians:
+Notable Cybertronians: Perceptor
 
 ### Tyger Pax
 Faction:
@@ -181,25 +199,7 @@ Brief Information:
 Relevant Neighbors:
 Notable Cybertronians:
 
-### Hydrax
-Faction:
-Subdivisions:
-Points of Interest:
-Hotspots (if any):
-Brief Information:
-Relevant Neighbors:
-Notable Cybertronians:
-
 ### Petrex
-Faction:
-Subdivisions:
-Points of Interest:
-Hotspots (if any):
-Brief Information:
-Relevant Neighbors:
-Notable Cybertronians:
-
-### Pescus Hex
 Faction:
 Subdivisions:
 Points of Interest:
