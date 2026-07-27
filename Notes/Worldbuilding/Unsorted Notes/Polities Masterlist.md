@@ -201,7 +201,7 @@ Brief Information:
 Relevant Neighbors:
 Notable Cybertronians:
 
-### Petrex
+### Petrohex
 Faction:
 Subdivisions:
 Points of Interest:
