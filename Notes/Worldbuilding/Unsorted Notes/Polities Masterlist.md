@@ -57,9 +57,9 @@ Faction: Decepticon
 Subdivisions:
 Points of Interest:
 Hotspots (if any):
-Brief Information:
+Brief Information: Stereotypically known for Seekers
 Relevant Neighbors:
-Notable Cybertronians:
+Notable Cybertronians: Starscream
 
 ### Tarn
 Faction: Decepticon
