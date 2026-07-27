@@ -17,7 +17,7 @@ Notable Cybertronians:
 ## Major Polities
 ### Iacon
 Faction: Autobot
-Subdivisions: Translucentica Heights,
+Subdivisions: Translucentica Heights, Central City,
 Points of Interest: Academy of Science and Technology, 
 Hotspots (if any): Rivets Field, Vespertine Blue, Port Residua
 Brief Information: One of the older polities;
@@ -27,11 +27,21 @@ Notable Cybertronians: Tailgate, Shockwave
 ### Polyhex
 Faction: Autobot
 Subdivisions:
-Points of Interest:
+Points of Interest: Parks/stadiums/arenas, Security HQ
 Hotspots (if any):
-Brief Information:
+Brief Information: 
 Relevant Neighbors: Iacon, Nova Cronum, Altihex
 Notable Cybertronians:
+
+### Nova Cronum
+Faction: Autobot
+Subdivisions: Research Campus, 
+Points of Interest: (Insert Graduate Research Facility here)
+Hotspots (if any):
+Brief Information: Known for research and science facilities
+Relevant Neighbors: Iacon, Polyhex, Altihex
+Notable Cybertronians: Perceptor
+- [ ] #todo name the big research facility in nova cronum
 
 ### Praxus
 Faction: N/A (Autobot)
@@ -179,16 +189,7 @@ Points of Interest: Dead End, Maccadam's New Oil House
 Hotspots (if any):
 Brief Information: Small neutral urban district
 Relevant Neighbors:
-Notable Cybertronians:
-
-### Nova Cronum
-Faction:
-Subdivisions:
-Points of Interest:
-Hotspots (if any):
-Brief Information:
-Relevant Neighbors:
-Notable Cybertronians: Perceptor
+Notable Cybertronians: Drift
 
 ### Tyger Pax
 Faction:
