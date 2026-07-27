@@ -94,7 +94,7 @@ Subdivisions:
 Points of Interest:
 Hotspots (if any):
 Brief Information:
-Relevant Neighbors:
+Relevant Neighbors: Kalis
 Notable Cybertronians:
 
 ### Nyon
@@ -170,17 +170,26 @@ Faction: Decepticon
 Subdivisions:
 Points of Interest:
 Hotspots (if any):
-Brief Information:
-Relevant Neighbors:
+Brief Information: Port polity
+Relevant Neighbors: Mithril Sea
 Notable Cybertronians: Ravage
 
-### Kalis
+### Kalis/Adaptica
 Faction:
 Subdivisions:
 Points of Interest:
 Hotspots (if any):
 Brief Information:
-Relevant Neighbors:
+Relevant Neighbors: Tyrest
+Notable Cybertronians:
+
+### Galvahex
+Faction:
+Subdivisions:
+Points of Interest:
+Hotspots (if any):
+Brief Information: Named after Galvatron
+Relevant Neighbors: Tyrest
 Notable Cybertronians:
 
 ### Rodion

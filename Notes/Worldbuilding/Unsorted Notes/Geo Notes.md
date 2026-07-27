@@ -10,6 +10,10 @@ tetrahex is also separated into upper/lower
 - [ ] #todo figure out orientation of polities along the rust sea
 - [ ] #todo figure out tetrahex
 
+rust sea: bad, evil, don't walk through that, it's a little radioactive
+mithril sea: good, pure of heart, not radioactive
+argon sea: purple
+
 three seas (rust sea, mithril sea, argon sea)
 
 mindwipe used his magic to do dark science in kalis
