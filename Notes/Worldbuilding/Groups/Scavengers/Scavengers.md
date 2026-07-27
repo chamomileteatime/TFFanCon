@@ -1,8 +1,7 @@
----
-sticker: lucide//brain-circuit
----
 
-# Members
+# Scavengers
+## Members
 ## Decepticon Members
 ## Autobot Members
+###
 ## Other
