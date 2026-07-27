@@ -211,13 +211,13 @@ Relevant Neighbors:
 Notable Cybertronians:
 
 ### Petrohex
-Faction:
-Subdivisions:
+Faction: Autobot
+Subdivisions: Upper Petrohex, Lower Petrohex
 Points of Interest:
 Hotspots (if any):
 Brief Information:
-Relevant Neighbors:
-Notable Cybertronians:
+Relevant Neighbors: Praxus, Iacon, Rodion
+Notable Cybertronians: Rewind
 
 ### Dodecahex
 Faction:
@@ -230,8 +230,8 @@ Notable Cybertronians:
 
 ### Tetrahex
 Faction:
-Subdivisions: Upper Tetrahex
-Points of Interest: 
+Subdivisions: Upper Tetrahex, Lower Tetrahex
+Points of Interest:
 Hotspots (if any):
 Brief Information:
 Relevant Neighbors:
