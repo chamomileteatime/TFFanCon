@@ -14,7 +14,7 @@
 *Mental Health Status:* Shadowplay (Empathy-Removal)
 
 <u><b>Appearance:</b></u>
-*Size Class:* Point One Percenter
+*Size Class:* Heavyweight
 *Optic Color:* Yellow
 *Plating Colors:* Purple
 *Notable Features:* Empurata

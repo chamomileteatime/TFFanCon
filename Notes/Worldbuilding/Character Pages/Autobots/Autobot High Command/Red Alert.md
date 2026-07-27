@@ -2,14 +2,13 @@
 <u><b>Relevant Background:</b></u>
 *Faction:* Autobot
 *Occupation:* Head of Security
-*Polity of Origin:* 
+*Polity of Origin:* Iacon
 
 <u><b>Medical Information:</b></u>
-*Method of Creation:* 
+*Method of Creation:* Cold-Construct
 *Age:* 4.75mil
 *Altmode:* Ambulance
 *Sparktype:* \*Vitreous Positive
-
 \* Receives regular infusions to make energon more inert due to complications with TBMI
 
 *Physical Health Status:* Chronic Traumatic Brain Module Injury
