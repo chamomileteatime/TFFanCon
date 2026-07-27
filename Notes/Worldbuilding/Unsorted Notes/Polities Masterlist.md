@@ -101,8 +101,8 @@ Notable Cybertronians:
 Faction: N/A
 Subdivisions:
 Points of Interest:
-Hotspots (if any):
-Brief Information: Cybertron Vegas
+Hotspots (if any): Alyon
+Brief Information: Cybertron New Vegas
 Relevant Neighbors:
 Notable Cybertronians: Rodimus, 
 
@@ -118,6 +118,7 @@ Hotspots (if any):
 Brief Information: Smaller than and elevated above neighboring polities, very run-down
 Relevant Neighbors: Iacon, Nova Cronum, Polyhex
 Notable Cybertronians: Pharma
+- [ ] #todo name pharma's hotspot
 
 ### Vaporex
 Faction: Autobot
@@ -125,7 +126,7 @@ Subdivisions:
 Points of Interest:
 Hotspots (if any): Eugenesis
 Brief Information: Patient Zero of Chromatic Fever; paired with Pescus Hex and Hydrax. 
-Relevant Neighbors: Pescus Hex, Hydrax
+Relevant Neighbors: Hydrax Plateau (Pescus Hex, Carpessa, Hydrax)
 Notable Cybertronians: Ratchet
 
 ### Pescus Hex
@@ -134,7 +135,7 @@ Subdivisions:
 Points of Interest:
 Hotspots (if any):
 Brief Information:
-Relevant Neighbors: Hydrax, Vaporex
+Relevant Neighbors: Hydrax Plateau (Hydrax, Carpessa, Vaporex)
 Notable Cybertronians:
 
 ### Hydrax
@@ -143,17 +144,17 @@ Subdivisions:
 Points of Interest:
 Hotspots (if any):
 Brief Information:
-Relevant Neighbors: Pescus Hex, Vaporex
+Relevant Neighbors: Hydrax Plateau (Pescus Hex, Vaporex, Carpessa)
 Notable Cybertronians:
 
 ### Carpessa
-Faction: N/A
+Faction: N/A (Neutral)
 Subdivisions:
 Points of Interest:
-Hotspots (if any):
+Hotspots (if any): 
 Brief Information:
-Relevant Neighbors:
-Notable Cybertronians:
+Relevant Neighbors: Hydrax Plateau (Pescus Hex, Vaporex, Hydrax)
+Notable Cybertronians: Cerebros
 
 ### Protihex
 Faction:
@@ -220,12 +221,12 @@ Notable Cybertronians:
 
 ### Tetrahex
 Faction:
-Subdivisions:
-Points of Interest:
+Subdivisions: Upper Tetrahex
+Points of Interest: 
 Hotspots (if any):
 Brief Information:
 Relevant Neighbors:
-Notable Cybertronians:
+Notable Cybertronians: Cyclonus
 
 ### Hyperious
 Faction:
