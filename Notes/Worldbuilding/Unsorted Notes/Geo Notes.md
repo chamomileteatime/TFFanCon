@@ -11,8 +11,8 @@ tetrahex is also separated into upper/lower
 - [ ] #todo figure out tetrahex
 
 rust sea: bad, evil, don't walk through that, it's a little radioactive
-mithril sea: good, pure of heart, not radioactive
-argon sea: purple
+mithril sea: good, pure of heart, not radioactive, used for mining operations
+argon sea: purple, has mechanimals
 
 three seas (rust sea, mithril sea, argon sea)
 
