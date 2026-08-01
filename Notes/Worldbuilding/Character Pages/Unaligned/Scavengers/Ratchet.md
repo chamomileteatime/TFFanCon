@@ -1,5 +1,6 @@
 # Ratchet
 <u><b>Relevant Background:</b></u>
+*Caste:* Civilian Caste, Civil Function, Medical Caste
 *Faction:* Unaligned, ex-Autobot
 *Occupation:* Medic for the Scavengers (“Temporary”)
 *Polity of Origin:* Vaporex

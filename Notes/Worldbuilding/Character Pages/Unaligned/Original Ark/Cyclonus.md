@@ -1,5 +1,6 @@
 # Cyclonus
 <u><b>Relevant Background:</b></u>
+*Caste:* N/A (Principal Caste, Religious, Noble Caste)
 *Faction:* Quintessons
 *Occupation:* Warrior
 *Polity of Origin:* Upper Tetrahex

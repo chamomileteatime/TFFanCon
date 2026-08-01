@@ -1,5 +1,6 @@
 # Whirl
 <u><b>Relevant Background:</b></u>
+*Caste:* Civilian Exemption (Forged: Military Caste, Logistics, Courier Caste)
 *Faction:* Unaligned, ex-Autobot
 *Occupation:* Scavenger, ex-Wrecker
 *Polity of Origin:* Polyhex

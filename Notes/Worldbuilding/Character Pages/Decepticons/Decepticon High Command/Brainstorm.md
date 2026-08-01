@@ -1,5 +1,6 @@
 # Brainstorm
 <u><b>Relevant Background:</b></u>
+*Caste:* N/A, Warbuild
 *Faction:* Decepticons
 *Occupation:* Lead Researcher
 *Polity of Origin:* 

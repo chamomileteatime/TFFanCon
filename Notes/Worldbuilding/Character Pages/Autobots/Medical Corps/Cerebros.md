@@ -1,5 +1,6 @@
 # Cerebros
 <u><b>Relevant Background:</b></u>
+*Caste:* Civilian Caste, Civil Function, Medical Caste (Forged: Undesirable Caste (Animal Altmode))
 *Faction:* Autobots
 *Occupation:* Mental Health Specialist
 *Polity of Origin:* Carpessa

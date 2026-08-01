@@ -1,5 +1,6 @@
 # Tailgate
 <u><b>Relevant Background:</b></u>
+*Caste:* N/A (Working Caste, Labor, Janitorial Caste)
 *Faction:* Unaligned
 *Occupation:* ex-Custodian (Ark 1)
 *Polity of Origin:* Rivets Field

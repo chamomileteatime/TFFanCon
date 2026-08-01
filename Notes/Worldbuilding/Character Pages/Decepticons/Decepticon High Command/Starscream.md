@@ -1,5 +1,6 @@
 # Starscream
 <u><b>Relevant Background:</b></u>
+*Caste:* Military Caste, Military Cold-Construction, Seeker Caste
 *Faction:* Decepticons
 *Occupation:* Second-in-Command, Air Commander
 *Polity of Origin:* Built in Vos

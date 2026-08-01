@@ -1,5 +1,6 @@
 # Fortress Maximus
 <u><b>Relevant Background:</b></u>
+*Caste:* Principal Caste, Exotic, Titan Caste
 *Faction:* Autobots
 *Occupation:* Titan
 *Polity of Origin:* N/A, Warforged

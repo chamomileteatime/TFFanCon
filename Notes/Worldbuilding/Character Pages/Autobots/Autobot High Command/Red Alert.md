@@ -1,5 +1,6 @@
 # Red Alert
 <u><b>Relevant Background:</b></u>
+*Caste:* Disposable Caste, Private Commission
 *Faction:* Autobot
 *Occupation:* Head of Security
 *Polity of Origin:* Iacon

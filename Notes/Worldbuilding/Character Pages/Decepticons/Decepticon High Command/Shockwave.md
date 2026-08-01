@@ -1,5 +1,6 @@
 # Shockwave
 <u><b>Relevant Background:</b></u>
+*Caste:* Prinicpal Caste, Governmental Exemption (Forged: Erudite Caste, Research, Interstellar Caste) 
 *Faction:* Decepticons
 *Occupation:* Chief Medical Officer, ex-Lead Researcher
 *Polity of Origin:* Iacon 
