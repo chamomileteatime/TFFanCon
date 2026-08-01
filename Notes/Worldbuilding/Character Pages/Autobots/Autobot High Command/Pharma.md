@@ -19,3 +19,6 @@
 *Optic Color:* Blue
 *Plating Colors:* White, Blue, Red, and Yellow
 *Notable Features:* Blue Chevron, Medical Symbols on Wings (Shoulder-Mounted)
+
+## Background
+Longterm acquaintance of [[Ratchet]] of Vaporex. Greatly disturbed by Ratchet’s removal from Autobot forces in response to being caught sending Autobot medical research to Decepticon medics. 

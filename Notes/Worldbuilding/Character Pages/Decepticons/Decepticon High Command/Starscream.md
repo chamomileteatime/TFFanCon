@@ -8,7 +8,7 @@
 <u><b>Medical Information:</b></u>
 *Method of Creation:* Cold-Construct
 *Age:* 5.0mil
-*Altmode:* Seeker (Gen2)
+*Altmode:* Seeker ([[Generation Two]])
 *Sparktype:* Isomeric Negative
 
 *Physical Health Status:*

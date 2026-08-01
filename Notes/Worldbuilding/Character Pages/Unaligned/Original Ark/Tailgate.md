@@ -14,6 +14,8 @@
 *Physical Health Status:*
 *Mental Health Status:*
 
+*Conjunx Endura:* [[Cyclonus]]
+
 <u><b>Appearance:</b></u>
 *Size Class:* Minibot
 *Optic Color:* Red

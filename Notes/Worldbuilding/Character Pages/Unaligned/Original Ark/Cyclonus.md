@@ -8,11 +8,13 @@
 <u><b>Medical Information:</b></u>
 *Method of Creation:* Forged
 *Age:* 8.75mil
-*Altmode:* Seeker Jet
+*Altmode:* Seeker Jet ([[Generation One]])
 *Sparktype:* Ferrum Negative
 
 *Physical Health Status:*
 *Mental Health Status:*
+
+*Conjunx Endura:* [[Tailgate]]
 
 <u><b>Appearance:</b></u>
 *Size Class:* Average-Sized

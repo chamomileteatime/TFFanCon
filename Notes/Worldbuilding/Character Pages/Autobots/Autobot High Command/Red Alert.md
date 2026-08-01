@@ -7,7 +7,7 @@
 
 <u><b>Medical Information:</b></u>
 *Method of Creation:* Cold-Construct
-*Age:* 4.75mil
+*Age:* 4.5mil
 *Altmode:* Ambulance
 *Sparktype:* \*Vitreous Positive
 \* Receives regular infusions to make energon more inert due to complications with TBMI
@@ -21,3 +21,6 @@
 *Optic Color:*
 *Plating Colors:* 
 *Notable Features:* 
+
+## Background
+Cold-Constructed as a Private Commission Ambulance, Red Alert was the first student of [[Pharma]] of Altihex, before leaving the medical field due to a Traumatic Brain Module Injury.

@@ -1,5 +1,5 @@
 # Background
-The second generation of Seekers lines up with the First Wave of [[Cold Constructs]]. They make up the majority of cold-constructed Decepticon Fliers, with somewhere around a 3:1 ratio when compared to [[Generation Three]] Seekers. 
+The second generation of Seekers lines up with the First Wave of [[Cold Constructs]]. They make up the majority of cold-constructed Decepticon Fliers, with somewhere around a 3:1 ratio when compared to [[Generation Three]] Seekers. Heavily inspired by the original [[Generation One]] Seekers, who were forged, not Cold-Constructed.
 # Appearance
 Gen2 Seekers have the most standardized appearance of any Cybertronian group. Their frames are standardized to the point that parts are almost entirely exchangeable between Seekers—minus perhaps nanite immune reactions, although these are much less severe or likely when it comes to frame transplants between Seekers.
 Most seekers have three paint colors, including their grey and black plating, although minor variations such as an additional paint color or a darker faceplate are not unexpected.

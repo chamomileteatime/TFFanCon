@@ -125,7 +125,7 @@
 	*General Perception:*
 
 ### Freight Caste
-<b><u>Freight Automotive Caste</b></u>
+<b><u>Convoy Caste</b></u>
 	*Altmodes:*
 	*Notable Characters:* Orion Pax (Forging)
 	*General Perception:*
