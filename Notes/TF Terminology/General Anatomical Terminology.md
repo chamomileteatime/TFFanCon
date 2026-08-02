@@ -21,7 +21,7 @@
 **Sparkchamber:** Metal Sphere with contains the Spark
 **Transformation Cog (T-Cog):** Transformation organ. Central to almost all movement, similar too but more than a spine.
 **Biolights:** Small Lights scattered across the form
-**Voxcoder:** Voicebox
+**Voxcoder/Voxbox:** Voicebox
 
 # Head Region
 **Helm:** Head (_typically_ does not include face)
