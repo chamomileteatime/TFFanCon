@@ -188,11 +188,11 @@
 	*Notable Characters:*
 	*General Perception:*
 
-<b><u>Forged Monoformer Caste</b></u>
+<b><u>Forged/Cold-Constructed Monoformer Caste</b></u>
 	*Altmodes:* None
 	*Notable Characters:*
 	*General Perception:*
-### Deformed Caste
+### (Deformed Caste – Unofficial)
 <b><u>Non-Functional Altmode Caste</b></u>
 	*Altmodes:* Non-Functional
 	*Notable Characters:*
