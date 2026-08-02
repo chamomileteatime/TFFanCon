@@ -1,6 +1,6 @@
 # Cybertronian Timeline
 ## Ancient Era
-10mil-7mil (EXAMPLE, NOT FINAL)
+undefined - 8 mil BCE
 ### Example Age
 #### Notable Historical Events
 Unification
@@ -9,7 +9,7 @@ More skeletal proto-forms alongside thicker armor plating and simplified designs
 #### Notable Cybertronians
 Galvatron, Cyclonus, Scourge, Tailgate, Nova
 ## Transition Era
-??-?? (EXAMPLE, NOT FINAL)
+8 mil BCE - 6.5 mil BCE
 ### Golden Age
 #### Notable Historical Events
 solidifying functionist government, Ark launch, plague begins
@@ -18,28 +18,31 @@ Mixture of ancient and modern traits, not fully leaning to one appearance or the
 #### Notable Cybertronians
 Soundwave, Shockwave, Rewind, The Ambii
 ## Modern Era
-??-?? (EXAMPLE, NOT FINAL)
+6.5 mil BCE - 2 mil BCE
 ### Example Age
 #### Notable Historical Events
 plague ends
 #### Notable Physical Traits
 Filled out proto-forms, more variance in plating thickness and more complex designs
 #### Notable Cybertronians
-Pharma, Ratchet
+Pharma, Ratchet, Optimus Prime
 ## Warring Era
-??-?? (EXAMPLE, NOT FINAL)
+2 mil BCE - 0 CE
 ### Example Age
 #### Notable Historical Events
 it’s the war baby
 #### Notable Physical Traits
+low resources for cold constructs, almost no forged
 
 #### Notable Cybertronians
+Fort Max, second wave cold constructs
 
 ## Post-Modern Era
-??-?? (EXAMPLE, NOT FINAL)
+0 CE - TBD
 ### Example Age
 #### Notable Historical Events
 war ends, treaty is signed, Quintessons return
 #### Notable Physical Traits
+everyone born now is still grub
 
 #### Notable Cybertronians
