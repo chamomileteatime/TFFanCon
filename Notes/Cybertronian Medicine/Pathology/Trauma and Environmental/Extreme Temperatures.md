@@ -14,4 +14,16 @@ text
 text
 
 ### Exposure to Heat
+Text description
 
+#### Stage One
+text
+
+#### Stage Two
+text
+
+#### Stage Three
+text
+
+#### Stage Four
+text
