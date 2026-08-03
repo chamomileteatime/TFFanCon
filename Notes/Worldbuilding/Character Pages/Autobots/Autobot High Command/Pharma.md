@@ -12,7 +12,7 @@
 *Sparktype:* Vitreous Negative
 
 *Physical Health Status:*
-*Mental Health Status:*
+*Mental Health Status:* Hot-Cold Conduct Disorder (see: [[Psychiatric Diagnoses]])
 
 <u><b>Appearance:</b></u>
 *Size Class:* Average-Sized

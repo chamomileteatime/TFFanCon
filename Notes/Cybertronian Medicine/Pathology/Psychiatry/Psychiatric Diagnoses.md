@@ -16,13 +16,15 @@ Cybertronian equivalent of *Paranoid Personality Disorder*, some *Obsessive-Comp
 ##### Rigid CCD
 Cybertronian equivalent of *Obsessive-Compulsive Personality Disorder*. Defined as someone who struggles outside of highly rigid environments, and is completely unable to function without clear rules or guidance. 
 ##### egocentric ccd
-Cybertronian equivalent of *Narcissistic Personality Disorder*. Defined as someone who centers themself over the greater public. Can either present as someone highly egocentric or someone with a strong need for external validation.
+Cybertronian equivalent of *Narcissistic Personality Disorder*. Defined as someone who centers **specifically** themself over the greater public. Can either present as someone highly egocentric or someone with a strong need for external validation.
 #####  classical ccd
 Cybertronian equivalent of *Anti-Social Personality Disorder*. Defined as someone who disregards both other’s needs as well as rules and responsibilities.
 #### Hot Conduct Disorders (hcd)
 Categorized as the more extroverted of the Conduct Disorders.
 ##### Hyperactive hcd
 Cybertronian equivalent of *Attention-Deficit Hyperactivity Disorder*. Defined as someone who struggles to work for even short periods of time due to an excess of energy.
+##### Incendiary HCD
+No human equivalent. Defined as someone who values the needs of the few (particularly those they are “close” to) over the needs of the greater public. Often diagnosed in those who push back against the Functionist Council.
 ##### Classical hcd
 Cybertronian equivalent of *Borderline Personality Disorder*, *Avoidant Personality Disorder*, and  *Dependent Personality Disorder*. Defined as someone who relies on others for emotional regulation, and struggles to function without external relationships.
 ##### classical-like HCD
@@ -37,6 +39,13 @@ Cybertronian equivalent of *Schizophrenia*. Defined as anyone who regularly expe
 Cybertronian equivalent of *Schizotypal Personality Disorder*. Defined as anyone who regularly experiences delusions, but without visual or audial hallucinations.
 ##### Double-Abnormal ACD
 Cybertronian equivalent of *Schizoaffective Disorder*. Defined as anyone who experiences **both** Hot-Cold Conduct Disorder and Classical ACD.
+### Frame-Specific Psychiatric Issues
+##### Flight-Frame Hysteria
+Frametype: Any Flier
+##### elopement disorder
+Frametype: Typically Diagnosed in sports cars
+##### Medic’s Delirium
+Frametype: Typically Ambulances? Anyone in healthcare is considered “susceptible”
 
 ## coding maladies
 

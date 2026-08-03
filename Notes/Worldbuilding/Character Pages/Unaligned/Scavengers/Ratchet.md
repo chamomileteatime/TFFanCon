@@ -12,7 +12,7 @@
 *Sparktype:* Isomeric Negative
 
 *Physical Health Status:*
-*Mental Health Status:* Egocentric Conduct Disorder (see: [[Psychiatric Diagnoses]])
+*Mental Health Status:* Incendiary Hot Conduct Disorder, Chronic Medic’s Delirium (see: [[Psychiatric Diagnoses]])
 
 <u><b>Appearance:</b></u>
 *Size Class:* Average-Sized
