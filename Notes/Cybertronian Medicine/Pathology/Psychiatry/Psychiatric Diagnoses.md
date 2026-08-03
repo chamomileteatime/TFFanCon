@@ -5,11 +5,11 @@ In Cybertronian medicine, most mental health issues are still considered to be s
 ## protocol maladies
 *Note: Due to the typical behavior of Cybertronians, there is not an equivalent diagnosis for many parts of the DSM-5, such as Autism Spectrum Disorders.*
 ### Conduct Disorders
-#### Cold Conduct Disorders (cCd)
+#### Cold Conduct Disorders (CCD)
 Categorized as the more introverted of the Conduct Disorders.
 ##### Lethargic CCD
 Cybertronian equivalent of *Clinical Depression*. Defined as someone who struggles to keep up with daily expectations and basic hygiene, often alongside unexpected emotional outbursts.
-##### Anxious HCD
+##### Anxious CCD
 Cybertronian equivalent of *Generalized Anxiety Disorder*, some *Obsessive-Compulsive Disorders*,  and *Panic Disorder*. Defined as someone who sustains intense or disproportionate emotional responses to stressful stimuli.
 ##### Paranoid ccd
 Cybertronian equivalent of *Paranoid Personality Disorder*, some *Obsessive-Compulsive Disorders*, and *Phobias*. Defined as someone who exhibits regular and extreme boughs of paranoia. Typically seen as a more severe version of Anxious HCD.
@@ -19,7 +19,7 @@ Cybertronian equivalent of *Obsessive-Compulsive Personality Disorder*. Defined 
 Cybertronian equivalent of *Narcissistic Personality Disorder*. Defined as someone who centers **specifically** themself over the greater public. Can either present as someone highly egocentric or someone with a strong need for external validation.
 #####  classical ccd
 Cybertronian equivalent of *Anti-Social Personality Disorder*. Defined as someone who disregards both other’s needs as well as rules and responsibilities.
-#### Hot Conduct Disorders (hcd)
+#### Hot Conduct Disorders (HCD)
 Categorized as the more extroverted of the Conduct Disorders.
 ##### Hyperactive hcd
 Cybertronian equivalent of *Attention-Deficit Hyperactivity Disorder*. Defined as someone who struggles to work for even short periods of time due to an excess of energy.
