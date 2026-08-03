@@ -1,6 +1,10 @@
 # Basics of Bonds
-## Trine Bonds
 ## Endura Bonds
 ### Amica Endura
-### COnjunx Endura
-blah blah blah proving to Pharma this works – Drift
+### Conjunx Endura
+## Other Types of Bonds
+### Forged Bonds
+#### COmbiner Bonds
+#### Split-Sparks
+### Cold-Construct Bonds
+#### Trine Bonds
