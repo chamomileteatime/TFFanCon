@@ -13,8 +13,8 @@
 \* Receives regular infusions to make energon more inert due to complications with TBMI
 
 *Physical Health Status:* Chronic Traumatic Brain Module Injury
-*Mental Health Status:*
-- [ ] #todo Cybertronian Mental Health Terms!
+*Mental Health Status:* Paranoid Cold Conduct Disorder, Moderate Abnormal Conduct Disorder (see: [[Psychiatric Diagnoses]])
+- [x] #todo Cybertronian Mental Health Terms!
 
 <u><b>Appearance:</b></u>
 *Size Class:* Average-Sized

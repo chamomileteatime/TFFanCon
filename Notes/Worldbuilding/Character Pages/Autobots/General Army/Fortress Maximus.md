@@ -12,7 +12,7 @@
 *Sparktype:* Isomeric Positive
 
 *Physical Health Status:* Warforged
-*Mental Health Status:*
+*Mental Health Status:* Short-Event Trauma Disorder (see: [[Psychiatric Diagnoses]])
 
 <u><b>Appearance:</b></u>
 *Size Class:* Titan
