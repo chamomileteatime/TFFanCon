@@ -16,14 +16,14 @@ text
 ### Exposure to Heat
 Text description
 
-#### Stage One
+#### Stage One (Heat Syncope)
 text
 
-#### Stage Two
+#### Stage Two (Heat Exhaustion)
 text
 
-#### Stage Three
+#### Stage Three (Heat Stroke)
 text
 
-#### Stage Four
+#### Stage Four (Rhabdomyolysis)
 text
