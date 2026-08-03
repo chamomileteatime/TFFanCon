@@ -1,13 +1,13 @@
 # Cyclonus
 <u><b>Relevant Background:</b></u>
 *Caste:* N/A (Principal Caste, Religious, Noble Caste)
-*Faction:* Quintessons :(
+*Faction:* Quintessons
 *Occupation:* Warrior
 *Polity of Origin:* Upper Tetrahex
 
 <u><b>Medical Information:</b></u>
 *Method of Creation:* Forged
-*Age:* 8.75mil
+*Age:* 9.75mil
 *Altmode:* Seeker Jet ([[Generation One]])
 *Sparktype:* Ferrum Negative
 

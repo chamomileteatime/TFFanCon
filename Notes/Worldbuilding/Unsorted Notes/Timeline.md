@@ -16,7 +16,7 @@ solidifying functionist government, Ark launch, plague begins
 #### Notable Physical Traits
 Mixture of ancient and modern traits, not fully leaning to one appearance or the other
 #### Notable Cybertronians
-Soundwave, Shockwave, Rewind, The Ambii
+Soundwave, Shockwave, Rewind, The Ambii, early cold constructs
 ## Modern Era
 6.5 mil BCE - 2 mil BCE
 ### Example Age
@@ -32,7 +32,7 @@ Pharma, Ratchet, Optimus Prime
 #### Notable Historical Events
 it’s the war baby
 #### Notable Physical Traits
-low resources for cold constructs, almost no forged
+low resources for cold constructs, almost no forged, shift from pink to blue energon (bye bye allspark)
 
 #### Notable Cybertronians
 Fort Max, second wave cold constructs
