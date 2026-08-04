@@ -1,3 +1,4 @@
+#character #decepticon
 # Soma
 <u><b>Relevant Background:</b></u>
 *Caste:* Intellectual Caste (Forging: Civilian, Standard, Civil Function, Fire & Rescue)

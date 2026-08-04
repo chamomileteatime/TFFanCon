@@ -1,3 +1,4 @@
+#character #decepticon
 # Tarn, Forged: Damus
 <u><b>Relevant Background:</b></u>
 *Caste:* N/A (Pre-reformat: Civilian Caste, Standard Caste)

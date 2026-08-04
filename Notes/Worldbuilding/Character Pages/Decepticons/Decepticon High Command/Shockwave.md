@@ -1,3 +1,4 @@
+#character #decepticon
 # Shockwave
 <u><b>Relevant Background:</b></u>
 *Caste:* Principal Caste, Governmental Exemption (Forged: Erudite Caste, Research, Interstellar Caste) 

@@ -1,3 +1,4 @@
+#character #unaligned #exautobot #scavengers
 # Whirl
 <u><b>Relevant Background:</b></u>
 *Caste:* Civilian Exemption (Forged: Military Caste, Logistics, Courier Caste)

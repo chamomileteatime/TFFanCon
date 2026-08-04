@@ -1,3 +1,4 @@
+#character #autobot #peacefaction 
 # Perceptor
 <u><b>Relevant Background:</b></u>
 *Caste:* Erudite Caste, Research, Scientific Caste

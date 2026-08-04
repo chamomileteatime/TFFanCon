@@ -1,3 +1,4 @@
+#character #decepticon #peacefaction
 # Brainstorm
 <u><b>Relevant Background:</b></u>
 *Caste:* N/A, Warbuild

@@ -1,3 +1,4 @@
+#character #autobot 
 # Trepan
 <u><b>Relevant Background:</b></u>
 *Caste:* Intellectual Caste (Forged: Undesirable Caste, Animal Altmode) 

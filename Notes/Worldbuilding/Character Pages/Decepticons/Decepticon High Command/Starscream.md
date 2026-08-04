@@ -1,3 +1,4 @@
+#character #decepticon
 # Starscream
 <u><b>Relevant Background:</b></u>
 *Caste:* Military Caste, Military Cold-Construction, Seeker Caste

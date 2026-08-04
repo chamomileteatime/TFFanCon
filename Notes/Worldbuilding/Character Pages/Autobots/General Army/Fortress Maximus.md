@@ -1,3 +1,4 @@
+#character #autobot 
 # Fortress Maximus
 <u><b>Relevant Background:</b></u>
 *Caste:* Principal Caste, Exotic, Titan Caste
@@ -21,4 +22,4 @@
 *Notable Features:* Large Horns, Four Protrusions of Back Kibble
 
 # Background
-text
+Close to [[Red Alert]] and [[Cerebros]] – are we defining this?

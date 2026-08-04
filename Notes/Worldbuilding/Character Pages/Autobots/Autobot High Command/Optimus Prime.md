@@ -1,3 +1,4 @@
+#character #autobot
 # Optimus Prime, forged: Orion Pax
 <u><b>Relevant Background:</b></u>
 *Caste:* Principal Caste, Governmental Exemption (Forged: Working Caste, Freight, Convoy Caste) 
