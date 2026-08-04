@@ -14,7 +14,6 @@
 
 *Physical Health Status:* Chronic Traumatic Brain Module Injury
 *Mental Health Status:* Paranoid Cold Conduct Disorder, Moderate Abnormal Conduct Disorder (see: [[Psychiatric Diagnoses]])
-- [x] #todo Cybertronian Mental Health Terms!
 
 <u><b>Appearance:</b></u>
 *Size Class:* Average-Sized
