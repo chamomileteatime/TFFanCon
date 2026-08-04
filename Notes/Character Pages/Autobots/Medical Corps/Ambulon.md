@@ -1,21 +1,25 @@
+#character #autobot 
 # Ambulon
 <u><b>Relevant Background:</b></u>
 *Caste:* 
 *Faction:* Autobots
-*Occupation:* Autobot Medical Director and Second-In-Command
+*Occupation:* Ward Manager-turned-Pharma's assistant
 *Polity of Origin:* 
 
 <u><b>Medical Information:</b></u>
-*Method of Creation:* Forged
+*Method of Creation:* Cold Construct
 *Age:* 
-*Altmode:* Ambulance
-*Sparktype:* Isomeric Positive
+*Altmode:* 
+*Sparktype:* Isomeric Negative
 
 *Physical Health Status:* 
 *Mental Health Status:* 
 
 <u><b>Appearance:</b></u>
 *Size Class:* Average-Sized
-*Optic Color:* Blue
+*Optic Color:* Yellow
 *Plating Colors:* White, Red
-*Notable Features:* 
+*Notable Features:* Paint chipping
+
+# Background
+Close friend of [[First Aid]]'s.
