@@ -39,11 +39,11 @@
 ### Exemption Caste
 <b><u>Intellectual Caste</b></u>
 	*Altmodes:* N/A
-	*Notable Characters:* Pharma (Exemption), 
+	*Notable Characters:* Pharma (Exemption), Trepan (Exemption)
 	*General Perception:*
 
 ## Security Caste
-### Law Caste
+### Legal Caste
 <b><u>Enforcer Caste</b></u>
 	*Altmodes:* Enforcers
 	*Notable Characters:* 
@@ -175,7 +175,7 @@
 ### Animal Caste 
 <b><u>Animal Altmode Caste</b></u>
 	*Altmodes:* Any Animals
-	*Notable Characters:*
+	*Notable Characters:* Cerebros (Forging), Trepan (Forging)
 	*General Perception:*
 
 <b><u>Animal Rootmode Caste</b></u>
