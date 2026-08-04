@@ -22,7 +22,7 @@
 *Notable Features:* Blue Chevron, Medical Symbols on Wings (Shoulder-Mounted)
 
 ## Background
-Long-term acquaintance of [[Ratchet]] of Vaporex. Greatly disturbed by Ratchet’s removal from Autobot forces in response to being caught sending Autobot medical research to Decepticon medics. 
+Long-term acquaintance of [[Ratchet]] of Vaporex, current work acquaintance of [[Trepan]]. Trained both [[Red Alert]] and [[First Aid]]. Greatly disturbed by Ratchet’s removal from Autobot forces in response to being caught sending Autobot medical research to Decepticon medics. 
 
 Pharma was forged in Altihex sometime during [[Chromatic Fever]]'s high period. He claims to have, at some point, interacted with a soon-to-molt grub!Ratchet, though whether he actually remembers doing so remains to be seen. 
 
