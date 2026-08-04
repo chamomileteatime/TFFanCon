@@ -3,7 +3,7 @@
 <u><b>Relevant Background:</b></u>
 *Caste:* 
 *Faction:* Autobots
-*Occupation:* Ward Manager-turned-Pharma's assistant
+*Occupation:* Ward Manager-turned-[[Pharma]]'s assistant
 *Polity of Origin:* 
 
 <u><b>Medical Information:</b></u>
