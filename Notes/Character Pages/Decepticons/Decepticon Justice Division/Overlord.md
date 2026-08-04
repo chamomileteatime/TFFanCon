@@ -1,10 +1,10 @@
-#character #unaligned 
+#character #decepticon 
 # Overlord
 <u><b>Relevant Background:</b></u>
 *Caste:* N/A (Triple-changer...?)
-*Faction:* Decepticon...?
-*Occupation:* N/A
-*Polity of Origin:* 
+*Faction:* Decepticons...?
+*Occupation:* Decepticon Enforcer
+*Polity of Origin:* Officially, Nova Cronum
 
 <u><b>Medical Information:</b></u>
 *Method of Creation:* Forged
@@ -22,5 +22,9 @@
 *Notable Features:* By all accounts, looks like he was forged with an arachnid altmode.
 
 # Background
-text
+Modified and mutilated by the Functionist Council as a weapon to use against the inclement Decepticon uprising, Overlord almost immediately rejected this purpose once [[Megatron]] showed off enough and joined the Decepticon forces hoping to fight him more often. 
+
+[[Shockwave]] repaired the Council's failed modifications and implanted a failsafe in case Overlord ever saw a second change of heart. He's mostly [[Tarn]]'s to deal with now; they're often involved on the same issues, much to Tarn's dissatisfaction.
+
+Complicit in the [[Garrus Nine Incident]] 
 

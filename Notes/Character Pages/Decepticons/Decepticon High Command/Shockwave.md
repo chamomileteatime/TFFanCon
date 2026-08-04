@@ -20,3 +20,10 @@
 *Optic Color:* Yellow
 *Plating Colors:* Purple
 *Notable Features:* Empurata
+
+# Background
+Former correspondent of [[Dominus Ambus]] and student of Jhiaxus. Shockwave was a senator in the Cybertronian Senate for a while, and eventually recruited [[Optimus Prime]] as his senatorial assistant.
+
+In secret, he kept a refuge of outliers and 0.1%ers away from the Functionists; one of these was [[Tarn]].
+
+At some point, he was a victim of empurata and shadowplay, and rendered apathetic and unhindered. He joined the Decepticons and became responsible for both Decepticon medical and scientific initiatives. He was responsible for [[Overlord]]'s repairs.
