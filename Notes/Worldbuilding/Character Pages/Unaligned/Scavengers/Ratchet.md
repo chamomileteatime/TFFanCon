@@ -11,11 +11,14 @@
 *Altmode:* Ambulance
 *Sparktype:* Isomeric Negative
 
-*Physical Health Status:*
+*Physical Health Status:* old
 *Mental Health Status:* Incendiary Hot Conduct Disorder, Chronic Medic’s Delirium (see: [[Psychiatric Diagnoses]])
 
 <u><b>Appearance:</b></u>
 *Size Class:* Average-Sized
-*Optic Color:*
-*Plating Colors:* 
+*Optic Color:* Yellow
+*Plating Colors:* White, red
 *Notable Features:* 
+
+# Background
+kissing pharma hot on the mouth
