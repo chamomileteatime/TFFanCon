@@ -22,4 +22,4 @@
 *Notable Features:* Optic-like shapes on helm, prominent exterior tubing
 
 # Background
-text
+Current victim of Pharma's complaining re: the Ratchet situation.
