@@ -19,3 +19,6 @@
 *Optic Color:* Blue
 *Plating Colors:* Black and Grey
 *Notable Features:* Noticeably smaller than most average-sized Cybertronians.
+
+# Background
+text

@@ -51,6 +51,6 @@ Frametype: Typically Ambulances? Anyone in healthcare is considered “susceptib
 
 ### Trauma disorders
 #### Short-event Trauma Disorder
-Cybertronian equivalent of *PTSD*. Defined as someone who “EXAMPLE.”
+Cybertronian equivalent of *PTSD*. Defined as someone who experienced a short period of extreme stress, violence, or other trigger capable of inducing a panic response should it be recalled. Typically doesn't interfere with normal functions outside of specific situations.
 #### Long-Event Trauma Disorder
-Cybertronian equivalent of *cPTSD*. Defined as someone who “EXAMPLE.”
+Cybertronian equivalent of *cPTSD*. Defined as someone who experienced an excessive amount of extreme stress, violence, or other trigger capable of dramatically altering their mental state. Often interferes with the ability to reintegrate into society.

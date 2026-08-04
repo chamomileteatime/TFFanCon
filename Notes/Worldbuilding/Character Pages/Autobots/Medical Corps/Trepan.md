@@ -2,20 +2,24 @@
 <u><b>Relevant Background:</b></u>
 *Caste:* Intellectual Caste (Forged: Undesirable Caste, Animal Altmode) 
 *Faction:* Autobots
-*Occupation:* text
-*Polity of Origin:* text
+*Occupation:*
+- [ ] #todo figure out other high-ranking medics?? who replaced pharma? what's the institution around shadowplay looking like?
+*Polity of Origin:* Protihex
 
 <u><b>Medical Information:</b></u>
 *Method of Creation:* Forged
-*Age:* text
-*Altmode:* text
-*Sparktype:* text
+*Age:* 5.0mil
+*Altmode:* Insectoid
+*Sparktype:* Ferrum Positive
 
 *Physical Health Status:* 
-*Mental Health Status:* text
+*Mental Health Status:* Mild Egocentric CCD (see: [[Psychiatric Diagnoses]])
 
 <u><b>Appearance:</b></u>
-*Size Class:* text
+*Size Class:* Average-sized
 *Optic Color:* Yellow
 *Plating Colors:* Orange, white, yellow
 *Notable Features:* Optic-like shapes on helm, prominent exterior tubing
+
+# Background
+text
