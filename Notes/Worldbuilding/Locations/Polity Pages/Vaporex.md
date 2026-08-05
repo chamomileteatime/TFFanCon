@@ -4,6 +4,7 @@
 *Status:* text
 *Controlling Faction:* text
 *Brief Description:* text
+*Notable Cybertronians:* [[Ratchet]]
 
 Introduction text text text
 
