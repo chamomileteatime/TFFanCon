@@ -11,6 +11,7 @@ Brief Information:
 Relevant Neighbors:
 Notable Cybertronians:
 
+- [ ] #todo make polity pages
 
 ---
 
