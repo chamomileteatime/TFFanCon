@@ -22,4 +22,4 @@
 *Notable Features:* Decepticon insignia-shaped mask, facial scarring revealing protoform
 
 # Background
-text
+"Raised" by [[Shockwave]], invited into the Decepticons by [[Megatron]].
