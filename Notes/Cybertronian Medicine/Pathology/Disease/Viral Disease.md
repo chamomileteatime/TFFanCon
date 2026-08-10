@@ -45,7 +45,7 @@ A class of *Mudoviria* viruses is undergoing research for applications against s
 - **KINGDOM:** *Instruvirae* (procedural viruses)
 	- **CLASS:** *Soviricetes* (a class of neurophysiological viruses)
 		- **GENUS:** *Fabrillovirus* (ex. Shockwave's manufactured instructional virus)
-		- **GENUS:** *Eidedovirus* (ex. a hypothesized origin of [[information creep]])
+		- **GENUS:** *Eidedovirus* (ex. a hypothesized origin of [[Information Creep and Eidetic Decay|information creep]])
 	- **CLASS:** *Verteviricetes* (a class of order-shifting viruses)
 		- **GENUS:** *Compleuravirus* (classically known as [[Chromatic Fever]])
 
