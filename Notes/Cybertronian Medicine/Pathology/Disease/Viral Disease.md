@@ -1,7 +1,7 @@
 **Viruses** are very simple pockets of CNA that have the ability to infect and reproduce inside host technoform. They are not sentient, not considered living, extremely small, and occasionally useful.
 
 ## Taxonomy
-The viral taxonomy was first drafted by [[Helminth]] during Cybertron's Golden Age. Modern developments have led to several revisions; the current system, authored by [[Pharma]], remains the research standard.
+The viral taxonomy was first drafted by [[Helminth]] during Cybertron's Golden Age. Modern developments have led to several revisions; the current system, edited by [[Pharma]], remains the research standard.
 
 #### REALM
 1. **Niduviria**, *describing viruses originating from hotspot malformations*
