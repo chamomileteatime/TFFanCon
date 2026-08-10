@@ -33,8 +33,8 @@ Pharma, Ratchet, Optimus Prime
 *2mil BCE—0 CE*
 ### Example Age
 #### Notable Historical Events
-1. [[Cybertronian Civil War]]
-2. [[Banishment of the Allspark]]
+1. [[02 - Cybertronian Civil War|Cybertronian Civil War]]
+2. [[01 - Banishment of the Allspark|Banishment of the Allspark]]
 #### Notable Physical Traits
 Low resources for cold constructs, resulting in skeletal appearance and thin plating. Almost no forged Cybertronians. In the little forged being born there is a noticeable shift from pink to blue energon.
 
