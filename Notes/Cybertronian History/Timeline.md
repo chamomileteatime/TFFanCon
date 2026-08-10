@@ -19,7 +19,7 @@ Galvatron, Cyclonus, Scourge, Tailgate, Nova
 #### Notable Physical Traits
 Mixture of ancient and modern traits, not fully leaning to one appearance or the other.
 #### Notable Cybertronians
-Soundwave, Shockwave, Rewind, The Ambii, First-Wave Cold-Constructs
+Soundwave, Shockwave, Rewind, the Ambii, First-Wave Cold-Constructs
 ## Modern Era
 *6.5mil BCE—2mil BCE*
 ### Example Age
