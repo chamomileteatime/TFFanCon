@@ -2,8 +2,8 @@
 # Overlord
 <u><b>Relevant Background:</b></u>
 *Caste:* N/A (Triple-changer...?)
-*Faction:* Decepticons...?
-*Occupation:* Decepticon Enforcer
+*Faction:* Decepticon...?
+*Occupation:* Supposed to be a member of the Decepticon Justice Division
 *Polity of Origin:* Officially, Nova Cronum
 
 <u><b>Medical Information:</b></u>
@@ -26,5 +26,5 @@ Modified and mutilated by the Functionist Council as a weapon to use against the
 
 [[Shockwave]] repaired the Council's failed modifications and implanted a failsafe in case Overlord ever saw a second change of heart. He's mostly [[Tarn]]'s to deal with now; they're often involved on the same issues, much to Tarn's dissatisfaction.
 
-Complicit in the [[Garrus Nine Incident]] 
+Complicit in the [[03 - Garrus Nine Incident|Garrus-9 Incident]] 
 

@@ -3,7 +3,7 @@
 <u><b>Relevant Background:</b></u>
 *Caste:* Intellectual Caste (Forged: Undesirable Caste, Animal Altmode) 
 *Faction:* Autobots
-*Occupation:*
+*Occupation:* Head of Surgery in lieu of Pharma
 - [ ] #todo figure out other high-ranking medics?? who replaced pharma? what's the institution around shadowplay looking like?
 *Polity of Origin:* Protihex
 
@@ -23,4 +23,4 @@
 *Notable Features:* Optic-like shapes on helm, prominent exterior tubing
 
 # Background
-Current victim of Pharma's complaining re: the Ratchet situation.
+Current victim of [[Pharma]]'s complaining re: the Ratchet situation. Mentored [[Chromedome]].

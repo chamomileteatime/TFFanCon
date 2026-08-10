@@ -19,7 +19,7 @@ Galvatron, Cyclonus, Scourge, Tailgate, Nova
 #### Notable Physical Traits
 Mixture of ancient and modern traits, not fully leaning to one appearance or the other.
 #### Notable Cybertronians
-Soundwave, Shockwave, Rewind, The Ambii, First-Wave Cold-Constructs
+Soundwave, Shockwave, Rewind, the Ambii, First-Wave Cold-Constructs
 ## Modern Era
 *6.5mil BCE—2mil BCE*
 ### Example Age
@@ -33,8 +33,8 @@ Pharma, Ratchet, Optimus Prime
 *2mil BCE—0 CE*
 ### Example Age
 #### Notable Historical Events
-1. [[Cybertronian Civil War]]
-2. [[Banishment of the Allspark]]
+1. [[02 - Cybertronian Civil War|Cybertronian Civil War]]
+2. [[01 - Banishment of the Allspark|Banishment of the Allspark]]
 #### Notable Physical Traits
 Low resources for cold constructs, resulting in skeletal appearance and thin plating. Almost no forged Cybertronians. In the little forged being born there is a noticeable shift from pink to blue energon.
 

@@ -23,3 +23,5 @@
 
 # Background
 Close to [[Red Alert]] and [[Cerebros]] – are we defining this?
+
+His body forms the site of Garrus-9 -- as such, he was directly implicated in the [[03 - Garrus Nine Incident|Garrus-9 Incident]].

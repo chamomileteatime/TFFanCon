@@ -11,13 +11,14 @@ Brief Information:
 Relevant Neighbors:
 Notable Cybertronians:
 
+- [ ] #todo make polity pages
 
 ---
 
 ## Major Polities
 ### Iacon
 Faction: Autobot
-Subdivisions: Translucentica Heights, Central City,
+Subdivisions: Translucentica Heights, Iacon Central, 
 Points of Interest: Academy of Science and Technology, 
 Hotspots (if any): Rivets Field, Vespertine Blue, Port Residua
 Brief Information: One of the older polities;
