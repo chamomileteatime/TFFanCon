@@ -19,8 +19,8 @@
 
 <u><b>Appearance:</b></u>
 *Size Class:* Minibot
-*Optic Color:* Orange (visor)
-*Plating Colors:* Grey, white, yellow
+*Optic Color:* Blue (visor)
+*Plating Colors:* Black, White, and Red
 *Notable Features:* 
 
 # Background
