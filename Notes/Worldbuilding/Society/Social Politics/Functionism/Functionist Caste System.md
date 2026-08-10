@@ -28,7 +28,7 @@
 ### Research Caste
 <b><u>Scientific Caste</b></u>
 	*Altmodes:* Microscopes, Centrifuges, X-Ray Machines, etc.
-	*Notable Characters:* Perceptor
+	*Notable Characters:* Perceptor, Helminth
 	*General Perception:*
 
 <b><u>Interstellar Caste</b></u>

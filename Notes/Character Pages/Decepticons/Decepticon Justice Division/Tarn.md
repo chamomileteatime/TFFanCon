@@ -12,7 +12,7 @@
 *Altmode:* Heavy Tank (Pre-reformat, standard automobile)
 *Sparktype:* Vitreous Negative
 
-*Physical Health Status:* Transformation cog addiction. Nucleon addiction. Probably some others, too.
+*Physical Health Status:* Transformation addiction. [[Nucleon]] addiction. Probably some others, too.
 *Mental Health Status:* Classical HCD (see: [[Psychiatric Diagnoses]])
 
 <u><b>Appearance:</b></u>
