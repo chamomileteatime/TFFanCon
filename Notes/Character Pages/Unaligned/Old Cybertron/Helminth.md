@@ -18,7 +18,7 @@
 <u><b>Appearance:</b></u>
 *Size Class:* Average-sized
 *Optic Color:* Yellow
-*Plating Colors:* White, blue
+*Plating Colors:* White, blue, gold
 *Notable Features:* 
 
 ## Background
