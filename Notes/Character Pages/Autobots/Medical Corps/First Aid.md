@@ -22,4 +22,4 @@
 *Notable Features:* 
 
 ## Background
-Was an apprentice of [[Pharma]] of Altihex. Was also the doctor of [[Fortress Maximus]] following the events of the [[Garrus Nine Incident]]. 
+Was an apprentice of [[Pharma]] of Altihex. Was also the doctor of [[Fortress Maximus]] following the events of the [[03 - Garrus Nine Incident|Garrus-9 Incident]]. 
