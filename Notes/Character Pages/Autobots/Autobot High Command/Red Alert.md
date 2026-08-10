@@ -24,3 +24,5 @@
 
 ## Background
 Cold-Constructed as a Private Commission Ambulance, Red Alert was the first student of [[Pharma]] of Altihex, before leaving the medical field due to a Traumatic Brain Module Injury.
+
+Close to [[Fortress Maximus]] and [[Cerebros]] – are we defining this?

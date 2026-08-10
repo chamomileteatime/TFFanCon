@@ -2,8 +2,8 @@
 # Overlord
 <u><b>Relevant Background:</b></u>
 *Caste:* N/A (Triple-changer...?)
-*Faction:* Decepticons...?
-*Occupation:* Decepticon Enforcer
+*Faction:* Decepticon...?
+*Occupation:* Supposed to be a member of the Decepticon Justice Division
 *Polity of Origin:* Officially, Nova Cronum
 
 <u><b>Medical Information:</b></u>
