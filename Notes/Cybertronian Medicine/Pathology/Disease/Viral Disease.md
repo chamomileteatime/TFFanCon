@@ -57,4 +57,4 @@ Chronic infection via some undocumented virus is hypothesized to be the reason m
 
 Are the Decepticons using viruses to mind-control their soldiers? It's not completely impossible, according to Autobot scientists.
 
-Perhaps the most infamous example of a virus belonging to *Cynaviria* is *Compleuravirus* -- it even has its own page [[Chromatic Fever|right here]]. **Chromatic Fever** was responsible for killing a large majority of Cybertron's population from its onset at the end of the Golden Age to the turn of the Modern Era. 
+Perhaps the most infamous example of a virus belonging to *Cynaviria* is *Complecipleuravirus pandemica* -- it even has its own page [[Chromatic Fever|right here]]. **Chromatic Fever** was responsible for killing a large majority of Cybertron's population from its onset at the end of the Golden Age to the turn of the Modern Era. 
