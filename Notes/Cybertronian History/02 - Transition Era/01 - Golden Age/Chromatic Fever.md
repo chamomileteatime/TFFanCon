@@ -12,6 +12,12 @@ While the first observations of Chromatic Fever's affects on the Cybertronian bo
 		- **GENUS:** *Compleuravirus* 
 			- **SPECIES:** *Complecipleuravirus* *pandemicum* (classically known as [[Chromatic Fever]])
 
+
+#### FURTHER CLASSIFICATION
+*Complecipleuravirus pandemicum*'s specific species and presentation with regards to the pandemic is also occasionally written as ACST/ComPu/0531 (standardized to the modern calendar as "ACST-ComPu-0705-3BL") under the research classification taxonomy created by [[Pharma]] sometime after Helminth's passing.
+
+Within this system, "ACST" refers to Chromatic Fever's "**A**cute **C**haotic **S**econdary (Anatomical) **T**erminary", the manifestation of transmorphological symptoms that quickly and aggressively lead to the death of the patient left untreated.
+
 ## Symptoms
 WIP
 
