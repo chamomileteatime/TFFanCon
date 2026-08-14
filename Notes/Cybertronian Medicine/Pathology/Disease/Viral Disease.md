@@ -47,7 +47,7 @@ A class of *Mudoviria* viruses is undergoing research for applications against s
 		- **GENUS:** *Fabrillovirus* (ex. Shockwave's manufactured instructional virus)
 		- **GENUS:** *Eidedovirus* (ex. a hypothesized origin of [[Information Creep and Eidetic Decay|information creep]])
 	- **CLASS:** *Verteviricetes* (a class of order-shifting viruses)
-		- **GENUS:** *Compleuravirus* (classically known as [[Chromatic Fever]])
+		- **GENUS:** *Compleuravirus* (inc. *Complecipleuravirus pandemicum*, classically known as [[Chromatic Fever]])
 
 #### DESCRIPTION
 Viruses categorized under *Cynaviria* reproduce extremely quickly and in large numbers. They can be, but do not have to be, significantly smaller than a host's nanites, and can multiply especially freely in the brain module / life cord.
