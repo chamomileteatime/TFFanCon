@@ -20,6 +20,19 @@ Within this system, "ACST" refers to Chromatic Fever's "**A**cute **C**haotic **
 In this context, ACST will continue to refer to Chromatic Fever's physical presentations.
 
 ## Symptoms
+#### ASYMPTOMATIC PRESENTATION
+WIP
+
+#### ONSET OF INFECTION
+WIP
+
+#### EARLY STAGE
+WIP
+
+#### DEVELOPING STAGE
+WIP
+
+#### LATE/TERMINAL STAGE
 WIP
 
 ## Treatment and Prevention
