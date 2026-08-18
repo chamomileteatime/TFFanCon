@@ -22,4 +22,4 @@
 *Notable Features:* 
 
 ## Background
-[[Pharma]]'s mentor, inventor of [[Chromatic Fever]]'s vaccine and credited with a large amount of Cybertronian disease research
+[[Pharma]]'s mentor, inventor of [[Chromatic Fever]]'s vaccine and credited with a large amount of Cybertronian disease research. He was also [[Nova Prime]]'s primary physician.
