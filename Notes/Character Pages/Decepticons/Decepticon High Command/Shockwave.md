@@ -22,7 +22,9 @@
 *Notable Features:* Empurata
 
 # Background
-Former correspondent of [[Dominus Ambus]] and student of Jhiaxus. Shockwave was a senator in the Cybertronian Senate for a while, and eventually recruited [[Optimus Prime]] as his senatorial assistant.
+Former correspondent of [[Dominus Ambus]] and student of Jhiaxus. Shockwave was a senator in the Cybertronian Senate for a while, and eventually recruited [[Optimus Prime]] as his senatorial assistant. 
+
+Allied (rumored Amica Endura bond, but this could just be a bad rumor) with [[Dai Atlas]] and bitter rival of [[Senator Proteus]]. Less-than-bitter rivals with [[Senator Ratbat]].
 
 In secret, he kept a refuge of outliers and 0.1%ers away from the Functionists; one of these was [[Tarn]].
 
