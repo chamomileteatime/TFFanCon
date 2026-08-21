@@ -1,5 +1,6 @@
 # The Primacy
 ## Method of selecting the next prime
+Traditionally selected by the Matrix of Leadership. In the Period of Three Primes, everyone was claiming their successors without having access to the Matrix. Hot Rod is the first Prime since Nova to have been properly selected.
 ## list of primes
 
 | Time Period               | Prime Name         | Key Notes                                                                                                                                                                  |     |

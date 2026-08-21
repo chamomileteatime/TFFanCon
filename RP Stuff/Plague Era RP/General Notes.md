@@ -9,6 +9,7 @@ Current Prime: <i>Nova Prime (dead)</i>
 - After Ark Launch
 - Plague is ~0.5mil years old at the youngest
 - Nova Prime has just died, without finding a successor
+- Rapidly Approaching Period of Three Primes
 
 ## Character List
 ### Major Characters
@@ -21,6 +22,8 @@ Current Prime: <i>Nova Prime (dead)</i>
 <i>Minimus Ambus</i>: <i>(Grublet)</i> 
 <i>Rewind</i>: 
 
+<i>Dai Atlas</i>:
+<i>Star Saber</i>:
 <i>Shockwave of Iacon</i>: Magister’s Terrace
 
 <i>Ravage of Stanix</i>: Draconis Collective
