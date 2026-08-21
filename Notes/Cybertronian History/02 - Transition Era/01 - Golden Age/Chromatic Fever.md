@@ -1,4 +1,4 @@
-"**Chromatic Fever**" is the generic name for both a specific viral species (*Complecipleuravirus pandemicum*), and a specific pandemic spanning from the turn of the Golden Age to the Modern Era. 
+"**Chromatic Fever**" is the generic name for both a specific viral species (*Complecipleuravirus pandemicum*), and a specific pandemic spanning from the turn of the Golden Age to the Modern Era.
 
 Chromatic Fever was responsible for wiping out the majority of life on Cybertron, including the Golden Age's long-reigning prime (see: [[Nova Prime]]), and is largely believed to be what devastated Cybertron's records of the Ancient Era.
 
