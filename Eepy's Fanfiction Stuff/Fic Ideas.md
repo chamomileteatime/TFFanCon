@@ -1,0 +1,1 @@
+1. Springer is pretty much a human baby. Prowl and Mesothulas have no concept of how to raise a baby. At one point Prowl drops him off in the middle of nowhere and is like “why didn’t that 2 year old get himself dinner? smh.” They love their baby, they’re just very, very out of their depth.
