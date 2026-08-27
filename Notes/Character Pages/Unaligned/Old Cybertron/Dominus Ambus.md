@@ -1,22 +1,22 @@
 #character #dead #unaligned 
 # Dominus Ambus
 <u><b>Relevant Background:</b></u>
-*Caste:* 
-*Faction:* 
-*Occupation:* 
-*Polity of Origin:* 
+*Caste:* Noble Caste
+*Faction:* Unaligned
+*Occupation:* Political philosopher
+*Polity of Origin:* Ambustus Minor
 
 <u><b>Medical Information:</b></u>
 *Method of Creation:* Forged
 *Age:* 
-*Altmode:*  
+*Altmode:* Turbofox, minesweeper
 *Sparktype:* 
 
-*Physical Health Status:* 
+*Physical Health Status:* Deceased; Point One Percenter (Loadbearer)
 *Mental Health Status:* 
 
 <u><b>Appearance:</b></u>
-*Size Class:* 
+*Size Class:* Loadbearer
 *Optic Color:* 
 *Plating Colors:* 
 *Notable Features:* 
