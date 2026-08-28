@@ -22,3 +22,4 @@
 *Notable Features:*
 
 ## Background
+Authored [[Towards Peace]] after being inspired by [[Dominus Ambus]] before the war.

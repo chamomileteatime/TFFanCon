@@ -13,6 +13,9 @@ text
 #### Stage Four (Fatal Hypothermia, Deep Frostbite Equivalent)
 text
 
+
+---
+
 ### Exposure to Heat
 Text description
 
