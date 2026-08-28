@@ -16,3 +16,7 @@
 - What is the endgame here?
 	- Is anyone (other than Optimus, obv) actively using the treaty as a testing ground for peace?
 	- what would be necessary for the peace treaty to hold after the quints are dealt with?
+- Shockwave also hoping to find an energon alternative a la TFP --> 
+	-  Nucleon as an experimental modification of energon that proves too psychoactive/addictive/etc to be a proper commodity, but nucleon being developed by Shockwave and fed into chemical weapons development instead of being used as energon.
+- Are the Quintessons appealing to the other species/council members? What is Quintesson foreign policy looking like?
+	- quints trying to appeal to the galactic council on the grounds that technological beings are not considered sentient under galactic law
