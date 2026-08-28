@@ -22,4 +22,4 @@
 *Notable Features:* 
 
 ## Background
-Ex-Student of [[Shockwave]]?
+Ex-Student of [[Shockwave]]? Working for [[Prowl]] directly.
