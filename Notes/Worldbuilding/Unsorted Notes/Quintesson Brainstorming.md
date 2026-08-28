@@ -1,4 +1,13 @@
-# QUINtessons WIP
+# The QUINtesson War Notes
+## Quintesson Goals
+### Enslavement of Cybertron
+Historically, Cybertron was itself a Quintesson factory world, meant for building an army of drones for both domestic and military purposes. Millions of years ago, the planet itself turned against them. Now that the Cybertronian peoples are embroiled in civil war, the Quintessons are hoping for a change to reclaim their lost worker drones.
+
+### Viral Warfare
+The fear of viral warfare is a real one—as the creators of the prototype of the Cybertronian species, Quintessons have a good understand of how a Cybertronian works, inside and out. And only a fraction of the morals. Concern is rising about the potential of some sort of slave-code virus being created to force the Cybertronian race into servitude. 
+
+
+## WIP Notes
 - going the G1 Cartoon route with the appearance of Quintessons
 - they created Cybertron—purpose of the war is to reclaim their “worker drones” while they are weakened by Civil War
 	- Potential for virus-related warfare is big here! coding to force them into being drones or something similar could be passing around, viral arms race (yay for Pharma!)
