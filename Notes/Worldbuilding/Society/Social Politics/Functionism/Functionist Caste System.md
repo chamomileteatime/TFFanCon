@@ -132,7 +132,7 @@
 
 <b><u>Cargo Jet Caste</b></u>
 	*Altmodes:*
-	*Notable Characters:*
+	*Notable Characters:* 
 	*General Perception:*
 
 ### Manual Caste

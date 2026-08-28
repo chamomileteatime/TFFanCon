@@ -10,7 +10,7 @@
 *Method of Creation:* Forged
 *Age:* 7.5mil
 *Altmode:* Quantum computer
-*Sparktype:* Isomeric negative
+*Sparktype:* Vitreous negative
 
 *Physical Health Status:* Deceased; maintained a large amount of mods, rumored to have harbored a [[nucleon]] addiction
 *Mental Health Status:* N/A

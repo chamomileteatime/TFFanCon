@@ -12,7 +12,7 @@
 *Altmode:* Cryogenic Restoration (CR) Chamber
 *Sparktype:* Ferrum Negative
 
-*Physical Health Status:* 
+*Physical Health Status:* Constantly freezing cold as a result of his alt mode; needs to be moving to avoid the effect bothering technology around him.
 *Mental Health Status:* Prone to excessive engex drinking, but not enough to be considered an abuse (yet).
 
 <u><b>Appearance:</b></u>

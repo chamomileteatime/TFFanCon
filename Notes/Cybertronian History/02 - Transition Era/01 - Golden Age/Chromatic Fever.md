@@ -21,10 +21,10 @@ In this context, ACST will continue to refer to Chromatic Fever's physical prese
 
 ## Symptoms
 #### ASYMPTOMATIC PRESENTATION
-WIP
+
 
 #### ONSET OF INFECTION
-WIP
+One of Chromatic Fever's most infamous presentations---as well as its namesake---is the sudden change in a bot's exterior plating color. This is caused by the virus infiltrating the transformation system's coding process and deregulating the epihopital layer. 
 
 #### EARLY STAGE
 WIP
