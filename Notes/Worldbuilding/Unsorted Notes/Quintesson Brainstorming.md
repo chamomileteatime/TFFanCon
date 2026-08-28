@@ -1,0 +1,18 @@
+# QUINtessons WIP
+- going the G1 Cartoon route with the appearance of Quintessons
+- they created Cybertron—purpose of the war is to reclaim their “worker drones” while they are weakened by Civil War
+	- Potential for virus-related warfare is big here! coding to force them into being drones or something similar could be passing around, viral arms race (yay for Pharma!)
+- Autobots and Decepticons are under a treaty—but how much are they working together?
+	- folding the medical divisions (see viral warfare above)
+	- joint research team (not all of R&D is joined, just the task force)
+		- Good place to put Brainstorm & Perceptor (pulled from Wreckers temporarily to help?)
+		- also consider Prowl putting mesothulas here as some sort of informant
+	- are they working together on the front? where/what even is the front?
+	- How much are their bases integrated?
+		- We know that Megatron is on a ship w/ Magnus & Hot Rod
+- What SpecOps/Espionage stuff is going on between the two factions?
+	- Jazz & Soundwave jobs haven’t necessarily changed at all
+	- How are they using the treaty to their advantage
+- What is the endgame here?
+	- Is anyone (other than Optimus, obv) actively using the treaty as a testing ground for peace?
+	- what would be necessary for the peace treaty to hold after the quints are dealt with?

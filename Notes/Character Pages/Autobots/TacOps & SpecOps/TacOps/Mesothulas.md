@@ -10,7 +10,7 @@
 *Method of Creation:* Forged
 *Age:* 5.0mil
 *Altmode:* 
-*Sparktype:* 
+*Sparktype:* Ferrum Positive
 
 *Physical Health Status:* 
 *Mental Health Status:* 

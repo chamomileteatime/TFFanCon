@@ -10,7 +10,7 @@
 *Method of Creation:* Cold-Construct
 *Age:* 4.5mil
 *Altmode:* Enforcer Vehicle
-*Sparktype:* 
+*Sparktype:* Ferrum Positive
 
 *Physical Health Status:* 
 *Mental Health Status:* Rigid Cold Conduct Disorder (see: [[Psychiatric Diagnoses]])
