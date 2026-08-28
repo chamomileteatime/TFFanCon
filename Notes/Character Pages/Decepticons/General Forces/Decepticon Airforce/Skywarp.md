@@ -1,9 +1,9 @@
 #character #decepticon
-# Starscream
+# Skywarp
 <u><b>Relevant Background:</b></u>
 *Caste:* Military Caste, Military Cold-Construction, Seeker Caste
 *Faction:* Decepticons
-*Occupation:* Second-in-Command, Air Commander
+*Occupation:* Airforce Second-in-Command
 *Polity of Origin:* Built in Vos
 
 <u><b>Medical Information:</b></u>
@@ -18,8 +18,8 @@
 <u><b>Appearance:</b></u>
 *Size Class:* Average-Sized
 *Optic Color:* Red
-*Plating Colors:* White, Red, Blue
-*Notable Features:* Dark Faceplate, Prone to Wearing Accessories
+*Plating Colors:* Purple, Black
+*Notable Features:* Larger Chassis (Outlier)
 
 ## Background
-Trinemates: [[Skywarp]] and [[Thundercracker]].
+Trinemates: [[Starscream]] and [[Thundercracker]].

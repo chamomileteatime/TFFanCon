@@ -3,7 +3,7 @@
 <u><b>Relevant Background:</b></u>
 *Caste:* Disposable Caste, Private Commission
 *Faction:* Autobot
-*Occupation:* 
+*Occupation:* Chief Military Strategist
 *Polity of Origin:* Praxus
 
 <u><b>Medical Information:</b></u>
