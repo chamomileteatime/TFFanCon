@@ -1,0 +1,114 @@
+{
+	"nodes":[
+		{"id":"e87c6971c0b06b13","type":"text","text":"Supreme Commander — MEGATRON","x":-87,"y":-275,"width":250,"height":60},
+		{"id":"7ae0a5537fd9b2fd","type":"text","text":"Second-in-Command, Air Commander — STARSCREAM","x":-87,"y":-160,"width":250,"height":100},
+		{"id":"aef7b1555a0e72e5","type":"text","text":"Head Communications Officer — SOUNDWAVE","x":-420,"y":-160,"width":250,"height":60},
+		{"id":"015e5e75c7be79e2","type":"text","text":"Communications & Espionage Division","x":-420,"y":-30,"width":250,"height":60},
+		{"id":"8cc8750e40cc9664","type":"text","text":"The DJD","x":-760,"y":-30,"width":250,"height":60},
+		{"id":"f6cf2828e612b0f7","type":"text","text":"Decepticon Airforce","x":-87,"y":-30,"width":250,"height":60},
+		{"id":"8c0358f4994cd032","type":"text","text":"Head of Research — SHOCKWAVE","x":261,"y":-160,"width":250,"height":60},
+		{"id":"b3897e8ad167a6b1","type":"text","text":"Decepticon Research Division","x":261,"y":-30,"width":250,"height":60},
+		{"id":"7c21b1328f45c294","type":"text","text":"Chief Science Officer — BRAINSTORM","x":261,"y":80,"width":250,"height":60},
+		{"id":"39a8886bda7830c8","type":"text","text":"Chief Medical Officer","x":614,"y":80,"width":250,"height":60},
+		{"id":"7d8c04030880802a","type":"text","text":"Medical Corps","x":614,"y":208,"width":250,"height":60},
+		{"id":"88ec1d8040d9bb59","type":"text","text":"Science Corps","x":261,"y":208,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"a7c6ffa903d47c06","fromNode":"aef7b1555a0e72e5","fromSide":"bottom","toNode":"015e5e75c7be79e2","toSide":"top"},
+		{
+			"id":"56c94dbb24602846",
+			"fromFloating":false,
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"aef7b1555a0e72e5",
+			"fromSide":"left",
+			"toNode":"8cc8750e40cc9664",
+			"toSide":"top"
+		},
+		{
+			"id":"054e37cef4100ead",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"e87c6971c0b06b13",
+			"fromSide":"left",
+			"toNode":"aef7b1555a0e72e5",
+			"toSide":"top"
+		},
+		{
+			"id":"dfa50329dbe8e69b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"e87c6971c0b06b13",
+			"fromSide":"bottom",
+			"toNode":"7ae0a5537fd9b2fd",
+			"toSide":"top"
+		},
+		{
+			"id":"77f999694ff2ab3a",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"e87c6971c0b06b13",
+			"fromSide":"right",
+			"toNode":"8c0358f4994cd032",
+			"toSide":"top"
+		},
+		{
+			"id":"aca0cd3745b68952",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"8c0358f4994cd032",
+			"fromSide":"bottom",
+			"toNode":"b3897e8ad167a6b1",
+			"toSide":"top"
+		},
+		{
+			"id":"5d1e08e661ff175e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b3897e8ad167a6b1",
+			"fromSide":"bottom",
+			"toNode":"7c21b1328f45c294",
+			"toSide":"top"
+		},
+		{
+			"id":"fe6633be5de28edc",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7c21b1328f45c294",
+			"fromSide":"bottom",
+			"toNode":"88ec1d8040d9bb59",
+			"toSide":"top"
+		},
+		{
+			"id":"c9d8c8194b802167",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"b3897e8ad167a6b1",
+			"fromSide":"right",
+			"toNode":"39a8886bda7830c8",
+			"toSide":"top"
+		},
+		{
+			"id":"c8ce13c4c143f42a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"39a8886bda7830c8",
+			"fromSide":"bottom",
+			"toNode":"7d8c04030880802a",
+			"toSide":"top"
+		},
+		{
+			"id":"9225ca0d9b6dd4b0",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7ae0a5537fd9b2fd",
+			"fromSide":"bottom",
+			"toNode":"f6cf2828e612b0f7",
+			"toSide":"top"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

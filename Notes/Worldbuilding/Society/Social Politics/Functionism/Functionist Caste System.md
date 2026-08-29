@@ -132,7 +132,7 @@
 
 <b><u>Cargo Jet Caste</b></u>
 	*Altmodes:*
-	*Notable Characters:*
+	*Notable Characters:* 
 	*General Perception:*
 
 ### Manual Caste
@@ -175,7 +175,7 @@
 ### Animal Caste 
 <b><u>Animal Altmode Caste</b></u>
 	*Altmodes:* Any Animals
-	*Notable Characters:* Cerebros (Forging), Trepan (Forging)
+	*Notable Characters:* Cerebros (Forging), Trepan (Forging), Dominus and Minimus (covertly)
 	*General Perception:*
 
 <b><u>Animal Rootmode Caste</b></u>

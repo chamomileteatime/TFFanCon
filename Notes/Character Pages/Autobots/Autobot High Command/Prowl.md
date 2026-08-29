@@ -3,14 +3,14 @@
 <u><b>Relevant Background:</b></u>
 *Caste:* Disposable Caste, Private Commission
 *Faction:* Autobot
-*Occupation:* 
+*Occupation:* Chief Military Strategist
 *Polity of Origin:* Praxus
 
 <u><b>Medical Information:</b></u>
 *Method of Creation:* Cold-Construct
 *Age:* 4.5mil
 *Altmode:* Enforcer Vehicle
-*Sparktype:* 
+*Sparktype:* Ferrum Positive
 
 *Physical Health Status:* 
 *Mental Health Status:* Rigid Cold Conduct Disorder (see: [[Psychiatric Diagnoses]])
