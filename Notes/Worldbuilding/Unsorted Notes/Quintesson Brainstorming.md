@@ -6,6 +6,8 @@ Historically, Cybertron was itself a Quintesson factory world, meant for buildin
 ### Viral Warfare
 The fear of viral warfare is a real one—as the creators of the prototype of the Cybertronian species, Quintessons have a good understand of how a Cybertronian works, inside and out. And only a fraction of the morals. Concern is rising about the potential of some sort of slave-code virus being created to force the Cybertronian race into servitude. 
 
+This concern has lead to High Command of both factions agreeing to pool their medical research divisions together, in hopes of preventing an outbreak 
+
 
 ## WIP Notes
 - going the G1 Cartoon route with the appearance of Quintessons
