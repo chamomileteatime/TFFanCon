@@ -23,4 +23,6 @@
 *Notable Features:* Optic-like shapes on helm, prominent exterior tubing
 
 # Background
-Current victim of [[Pharma]]'s complaining re: the Ratchet situation. Mentored [[Chromedome]].
+Current victim of [[Pharma]]'s complaining re: the Ratchet situation. (see: [[01. Pharma and Trepan]]) 
+
+Mentored [[Chromedome]].

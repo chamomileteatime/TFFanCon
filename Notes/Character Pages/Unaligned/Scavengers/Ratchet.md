@@ -24,5 +24,7 @@
 ## Background
 kissing [[Pharma]] hot on the mouth. Ratchet I love you<3<3<3<3<3
 
+Allegedly met Pharma in his grubhood. (see: [[RP Stuff/Plague Era RP/Archive/01. Grubchet RP|01. Grubchet RP]])
+
 ## Defection from the Autobots
 A member of the [[Autobot Peace Faction]], he was caught sending medical research, specifically [[Pharma]]’s *plagiarized* outbreak research, to Decepticon medics. Ratchet disappeared from his position, and in general, before he could be properly tried for treason and exfiltration. 
