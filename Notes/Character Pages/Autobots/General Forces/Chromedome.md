@@ -7,7 +7,7 @@
 *Polity of Origin:* Iacon
 
 <u><b>Medical Information:</b></u>
-*Method of Creation:* Cold-Constructed
+*Method of Creation:* Cold-Construct
 *Age:* 4.0mil
 *Altmode:* 
 *Sparktype:* Vitreous Positive
