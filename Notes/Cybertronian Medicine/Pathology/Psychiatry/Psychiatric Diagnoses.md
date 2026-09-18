@@ -43,9 +43,15 @@ Cybertronian equivalent of *Schizoaffective Disorder*. Defined as anyone who exp
 ##### Flight-Frame Hysteria
 Frametype: Any Flier
 ##### elopement disorder
-Frametype: Typically Diagnosed in sports cars
+*Frametype:* Typically Diagnosed in sports cars, not uncommon in flyers.
+
+Elopement Disorder is a psychiatric issue in which a Cybertronian struggles to stay in place for extended periods of time. This can manifest in hyperactivity (not to be confused with HHCD), an immediate and disruptive urge for exercising one’s altmode (sometimes colloquially called “zoomies”), or disappearing from one’s place of work for extended periods of time, often for the sake of “adventuring” or “seeing the sites.”
 ##### Medic’s Delirium
-Frametype: Typically Ambulances? Anyone in healthcare is considered “susceptible”
+*Frametype*: Typically Ambulances, although anyone in healthcare is considered “susceptible.”
+
+Medic’s Delirium is a psychiatric issue in which a Cybertronian, typically one with a medical altmode, develops a feeling of “closeness” with one’s patients. It is believed that the longer a patient resides in the care of one medic, the more susceptible the medic is to the delirium. Once the first acute case of Medic’s Delirium is developed, the risks of developing chronic Medic’s Delirium significantly increase.
+
+For the sake of protecting Cybertron’s medical caste, all Cybertronians are recommended to push for their own discharge at their earliest convenience. Barring that, and in the case of severe injury, is it recommended that the medical team caring for a patient be rotated frequently to avoid erroneous attachments. 
 
 ## coding maladies
 
