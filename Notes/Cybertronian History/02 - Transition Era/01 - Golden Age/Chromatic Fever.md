@@ -21,8 +21,7 @@ In this context, ACST will continue to refer to Chromatic Fever's physical prese
 
 ## Symptoms
 #### ASYMPTOMATIC PRESENTATION
-
-
+wip
 #### ONSET OF INFECTION
 **~36-48 (40.00 +/- 7.569) joors after exposure**
 One of Chromatic Fever's most infamous presentations---as well as its namesake---is the sudden change in a bot's exterior plating color. This is caused by the virus infiltrating the immune system's coding process and deregulating the programming and direction of the frame's epigidal nanites. This new color functions as a base color would, uncooperative with paint much like the frame's natural nanite coloration.
