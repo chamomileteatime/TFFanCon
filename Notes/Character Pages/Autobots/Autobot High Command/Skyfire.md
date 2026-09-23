@@ -22,4 +22,4 @@
 *Notable Features:*
 
 # Background
-Former student of [[Ratchet]]'s; studied alongside [[Starscream]] before their separation.
+Former student of [[Ratchet]]'s; studied alongside [[Starscream]] before their separation. Autistic friends with [[Red Alert]] on account of them both having known Starscream.
