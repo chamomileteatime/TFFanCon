@@ -41,7 +41,7 @@ Points of Interest: (Insert Graduate Research Facility here)
 Hotspots (if any):
 Brief Information: Known for research and science facilities
 Relevant Neighbors: Iacon, Polyhex, Altihex
-Notable Cybertronians: Perceptor
+Notable Cybertronians: Perceptor, Skids
 - [ ] #todo name the big research facility in nova cronum
 
 ### Praxus
