@@ -90,6 +90,7 @@ Hot Rod is an officer on the *Ark*, where he is expected to be learning proper l
 #### Autobots
 Ultra Magnus
 Hot Rod
+Drift
 #### Decepticons
 Megatron
 
