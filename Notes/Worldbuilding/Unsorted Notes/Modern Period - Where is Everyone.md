@@ -18,6 +18,21 @@ Brief description of the location and what is happening there. For example, whet
 
 ---
 # Decepticon Bases & Ships
+---
+## Decepticon High Command & Flagship: *The Nemesis*
+**Location:** Front Lines
+**Commanding Officer:** Starscream & Soundwave
+
+The *Nemesis* is currently assisting the new *Ark* on the frontlines of the war against the Quintessons. As Megatron has moved himself onto the *Ark,* control of the *Nemesis* falls primarily to Starscream, although he and Soundwave has distributed most of Megatron’s tasks between themselves.
+
+### Character List
+Starscream
+Soundwave & Cassettes
+Skywarp
+Thundercracker
+Acid Storm
+Nova Storm
+Ion Storm
 
 # Cybertron & Luna-01
 ---
@@ -58,7 +73,7 @@ Fortress Maximus
 Cerebros
 
 ### other
-Unknown Number of Cybernymphs and Sparklets
+Unknown Number of Cyber-Nymphs and Sparklets
 
 ---
 # Combined Forces
