@@ -3,7 +3,7 @@
 ### Basic Information
 *Status:* Destroyed
 *Controlling Faction:* N/A
-*Brief Description:* Cybertron’s #1 Tourist Destination
+
 *Notable Cybertronians:* Hot Rod
 
 # Major Subdivisions
