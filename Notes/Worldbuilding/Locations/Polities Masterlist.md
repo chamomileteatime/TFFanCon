@@ -7,12 +7,12 @@
 # Major Polities
 ## Iacon
 **Faction:** <span style="color: var(--color-red)">Autobot</span>
-**Subdivisions:** Translucentica Heights, Iacon Central, 
+**Subdivisions:** Translucentica Heights, Iacon Central
 **Points of Interest:** Academy of Science and Technology, Iaconian Aerial Academy, The Grand Imperium
 **Hotspots (if any):** Rivets Field, Vespertine Blue, Port Residua
 **Relevant Neighbors:** Polyhex, Nova Cronum, Altihex
 
-**Brief Information:** One of the older polities, as well as the second largest. Most populated of the polities.
+**Brief Information:** One of the older polities, as well as the second largest. Most populated of the polities. Part of the Tri-Torus Loop (Iacon, Polyhex, and Nova Chronum.)
 
 **Notable Cybertronians:** 
 Orion Pax/Optimus Prime
@@ -26,7 +26,7 @@ Skyfire
 **Hotspots (if any):**
 **Relevant Neighbors:** Iacon, Nova Cronum, Altihex
 
-**Brief Information:**
+**Brief Information:** Part of the Tri-Torus Loop (Iacon, Polyhex, and Nova Chronum.)
 
 **Notable Cybertronians:** 
 Jazz
@@ -40,7 +40,7 @@ Blaster
 **Relevant Neighbors:** Iacon
 - [ ] #todo name the big research facility in nova cronum
 
-**Brief Information:** Known for research and science facilities
+**Brief Information:** Known for research and science facilities. Part of the Tri-Torus Loop (Iacon, Polyhex, and Nova Chronum.)
 
 **Notable Cybertronians:** 
 Perceptor
