@@ -172,7 +172,7 @@
 	*General Perception:*
 
 ## Undesirable Caste
-### Animal Caste 
+### Beast Caste 
 <b><u>Animal Altmode Caste</b></u>
 	*Altmodes:* Any Animals
 	*Notable Characters:* Cerebros (Forging), Trepan (Forging), Dominus and Minimus (covertly)
