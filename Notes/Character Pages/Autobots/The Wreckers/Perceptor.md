@@ -12,8 +12,8 @@
 *Altmode:* Microscope
 *Sparktype:* Vitreous Negative
 
-*Physical Health Status:* 
-*Mental Health Status:*
+*Physical Health Status:* Optimal.
+*Mental Health Status:* Opitimal.
 
 <u><b>Appearance:</b></u>
 *Size Class:* Minibot

@@ -8,7 +8,7 @@
 
 <u><b>Medical Information:</b></u>
 *Method of Creation:* Forged
-*Age:* 
+*Age:* 1.5mil 
 *Altmode:* 
 *Sparktype:* 
 
@@ -16,7 +16,7 @@
 *Mental Health Status:* 
 
 <u><b>Appearance:</b></u>
-*Size Class:* 
+*Size Class:* Minicon
 *Optic Color:* 
 *Plating Colors:*
 *Notable Features:* 

@@ -13,13 +13,13 @@
 *Sparktype:* Vitreous Positive
 
 *Physical Health Status:* Current Prime, carrying Matrix of Leadership
-*Mental Health Status:* 
+*Mental Health Status:* Optimal.
 
 <u><b>Appearance:</b></u>
-*Size Class:* Heavyweight (Forged: Average-Sized)
-*Optic Color:* Yellow
+*Size Class:* Heavyweight (Forged: Standard)
+*Optic Color:* Yellow (Forged: Matrix Blue) (see: [[Signs of Affinity]])
 *Plating Colors:* Red, Blue, and Grey
 *Notable Features:* Large Blue Finials
 
 ## Background
-Used to be the main Senatorial Assistant of Senator [[Shockwave]].
+Used to be the main Senatorial Assistant of Senator [[Shockwave]]. Successor to [[Star Saber]] specifically.

@@ -13,7 +13,7 @@
 *Sparktype:* Ferrum Negative
 
 *Physical Health Status:* Point One Percenter
-*Mental Health Status:* 
+*Mental Health Status:* Optimal.
 
 <u><b>Appearance:</b></u>
 *Size Class:* Average-Sized

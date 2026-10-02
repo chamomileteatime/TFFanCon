@@ -18,10 +18,10 @@
 *Conjunx Endura:* [[Rewind]]
 
 <u><b>Appearance:</b></u>
-*Size Class:* Average-Sized
+*Size Class:* Standard
 *Optic Color:* Yellow
 *Plating Colors:* Orange and Cream
-*Notable Features:* 
+*Notable Features:* Large vents on either side of the helm.
 
 # Background
 Friends with [[Cerebros]]?? [[Prowl]]’s ex, apparently?

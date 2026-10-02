@@ -8,18 +8,18 @@
 
 <u><b>Medical Information:</b></u>
 *Method of Creation:* Forged
-*Age:* 
+*Age:* 3.0mil
 *Altmode:* Ambulance
 *Sparktype:* Isomeric Positive
 
-*Physical Health Status:* 
-*Mental Health Status:* 
+*Physical Health Status:* Optimal.
+*Mental Health Status:* Optimal.
 
 <u><b>Appearance:</b></u>
 *Size Class:* Average-Sized
 *Optic Color:* Blue
 *Plating Colors:* White, Red
-*Notable Features:* 
+*Notable Features:* Visor and Facialplate.
 
 ## Background
 Was an apprentice of [[Pharma]] of Altihex. Was also the doctor of [[Fortress Maximus]] following the events of the [[03 - Garrus Nine Incident|Garrus-9 Incident]]. 

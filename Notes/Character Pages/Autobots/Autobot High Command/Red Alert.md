@@ -17,12 +17,12 @@
 *Mental Health Status:* Paranoid Cold Conduct Disorder, Moderate Abnormal Conduct Disorder (see: [[Psychiatric Diagnoses]])
 
 <u><b>Appearance:</b></u>
-*Size Class:* Average-Sized
+*Size Class:* Standard
 *Optic Color:*
 *Plating Colors:* 
 *Notable Features:* 
 
 ## Background
-Cold-Constructed as a Private Commission Ambulance, Red Alert was the first student of [[Pharma]] of Altihex, before leaving the medical field due to a Traumatic Brain Module Injury.
+Cold-Constructed as a Private Commission Ambulance, Red Alert was the first student of [[Pharma]] of Altihex, before leaving the medical field due to a Traumatic Brain Module Injury. Studied under Pharma at the same time as [[Starscream]].
 
 Close to [[Fortress Maximus]] and [[Cerebros]] – are we defining this?

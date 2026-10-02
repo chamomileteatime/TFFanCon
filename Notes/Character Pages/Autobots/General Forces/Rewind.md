@@ -8,8 +8,9 @@
 
 <u><b>Medical Information:</b></u>
 *Method of Creation:* Forged
-*Age:* 
+*Age:* 6.5mil
 *Altmode:* 
+- [ ] #todo Rewind’s Altmode
 *Sparktype:* Vitreous Positive
 
 *Physical Health Status:*
@@ -24,3 +25,4 @@
 *Notable Features:* 
 
 # Background
+Used to work in the service of [[Dominus Ambus]], who died before the war.

@@ -4,7 +4,7 @@
 *Caste:* Interstellar Caste
 *Faction:* Autobots
 *Occupation:* Lead Researcher
-*Polity of Origin:*  
+*Polity of Origin:* Iacon
 
 <u><b>Medical Information:</b></u>
 *Method of Creation:* Forged
@@ -16,10 +16,12 @@
 *Mental Health Status:* Elopement Disorder (see: [[Psychiatric Diagnoses]])
 
 <u><b>Appearance:</b></u>
-*Size Class:* Large
+*Size Class:* Heavyweight
 *Optic Color:* Blue
 *Plating Colors:* White, pale blue, red accents
-*Notable Features:*
+*Notable Features:* Size
 
 # Background
-Former student of [[Ratchet]]'s; studied alongside [[Starscream]] before their separation. Autistic friends with [[Red Alert]] on account of them both having known Starscream.
+Former student of [[Ratchet]]'s; studied alongside [[Starscream]] before their separation. 
+
+Autism-friends with [[Red Alert]] on account of them both having known Starscream.

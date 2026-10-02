@@ -12,13 +12,14 @@
 *Altmode:* Enforcer Vehicle
 *Sparktype:* Ferrum Positive
 
-*Physical Health Status:* 
+*Physical Health Status:* Optimal 
 *Mental Health Status:* Rigid Cold Conduct Disorder (see: [[Psychiatric Diagnoses]])
 
 <u><b>Appearance:</b></u>
-*Size Class:* Average-Sized
-*Optic Color:*
-*Plating Colors:* 
-*Notable Features:* 
+*Size Class:* Standard
+*Optic Color:* Blue
+*Plating Colors:* Black, White, Red
+*Notable Features:* Red Chevron
 
 ## Background
+Autobot Strategist. Head of TacOps.

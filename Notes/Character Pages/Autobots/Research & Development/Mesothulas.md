@@ -2,6 +2,7 @@
 # mesothulas
 <u><b>Relevant Background:</b></u>
 *Caste:* 
+- [ ] #todo are we making mesothulas a spider from the beginning? a car? idk.
 *Faction:* Autobot
 *Occupation:* Tactics Operative
 *Polity of Origin:* Iacon

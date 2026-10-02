@@ -8,7 +8,7 @@
 
 <u><b>Medical Information:</b></u>
 *Method of Creation:* Forged
-*Age:* 
+*Age:* 7.5mil 
 *Altmode:* Turbofox, minesweeper
 *Sparktype:* 
 

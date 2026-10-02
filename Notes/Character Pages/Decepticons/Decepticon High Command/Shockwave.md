@@ -26,6 +26,6 @@ Former correspondent of [[Dominus Ambus]] and student of Jhiaxus. Shockwave was 
 
 Allied (rumored Amica Endura bond, but this could just be a bad rumor) with [[Dai Atlas]] and bitter rival of [[Senator Proteus]]. Less-than-bitter rivals with [[Senator Ratbat]].
 
-In secret, he kept a refuge of outliers and 0.1%ers away from the Functionists; one of these was [[Tarn]].
+In secret, he kept a refuge of outliers and 0.1%ers away from the Functionists; one of these was [[Tarn]]. Another was [[Skids]].
 
 At some point, he was a victim of empurata and shadowplay, and rendered apathetic and unhindered. He joined the Decepticons and became responsible for both Decepticon medical and scientific initiatives. He was responsible for [[Overlord]]'s repairs.

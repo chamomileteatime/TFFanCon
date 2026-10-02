@@ -12,11 +12,11 @@
 *Altmode:* Courier Jet
 *Sparktype:* Vitreous Negative
 
-*Physical Health Status:* 
+*Physical Health Status:* Optimal.
 *Mental Health Status:* Hot-Cold Conduct Disorder (see: [[Psychiatric Diagnoses]])
 
 <u><b>Appearance:</b></u>
-*Size Class:* Average-Sized
+*Size Class:* Midweight Jet-Size
 *Optic Color:* Blue
 *Plating Colors:* White, Blue, Red, and Yellow
 *Notable Features:* Blue Chevron, Medical Symbols on Wings (Shoulder-Mounted)
