@@ -1,4 +1,4 @@
-#character #decepticon
+#character #decepticon #originalcharacter 
 # Deadline
 <u><b>Relevant Background:</b></u>
 *Caste:* Erudite Caste, Research Caste, Scientific Caste
@@ -16,7 +16,7 @@
 *Mental Health Status:* Prone to excessive engex drinking, but not enough to be considered an abuse (yet).
 
 <u><b>Appearance:</b></u>
-*Size Class:* Average-sized
+*Size Class:* Standard
 *Optic Color:* Blue
 *Plating Colors:* Black, dark gray, white
 *Notable Features:* Tubing and windows on frame reveal CR chamber's suspension. Freezing cold.

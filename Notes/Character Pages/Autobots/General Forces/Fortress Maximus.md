@@ -16,7 +16,7 @@
 *Mental Health Status:* Short-Event Trauma Disorder (see: [[Psychiatric Diagnoses]])
 
 <u><b>Appearance:</b></u>
-*Size Class:* Titan
+*Size Class:* Titan-Class
 *Optic Color:* Red
 *Plating Colors:* Black, Dark Turquoise, White, and Red
 *Notable Features:* Large Horns, Four Protrusions of Back Kibble

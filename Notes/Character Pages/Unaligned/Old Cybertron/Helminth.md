@@ -1,4 +1,4 @@
-#character  #dead
+#character  #dead #originalcharacter 
 # Helminth
 <u><b>Relevant Background:</b></u>
 *Caste:* Erudite Caste, Research Caste, Scientific Caste
@@ -16,7 +16,7 @@
 *Mental Health Status:* N/A
 
 <u><b>Appearance:</b></u>
-*Size Class:* Average-sized
+*Size Class:* Standard
 *Optic Color:* Yellow
 *Plating Colors:* White, blue, gold
 *Notable Features:* 

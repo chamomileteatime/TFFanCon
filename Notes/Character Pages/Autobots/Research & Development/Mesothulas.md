@@ -17,7 +17,7 @@
 *Mental Health Status:* 
 
 <u><b>Appearance:</b></u>
-*Size Class:* Average-Sized
+*Size Class:* Standard
 *Optic Color:* Red
 *Plating Colors:* Purple, Green, Yellow
 *Notable Features:* 

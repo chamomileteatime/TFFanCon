@@ -16,7 +16,8 @@
 *Mental Health Status:*
 
 <u><b>Appearance:</b></u>
-*Size Class:* Average-Sized
+*Size Class:* Midweight Heavyweight
+- [ ] #todo can cold constructs be midweight?
 *Optic Color:* Red
 *Plating Colors:* Grey , Blue, Black
 *Notable Features:* Larger Chassis (Outlier)

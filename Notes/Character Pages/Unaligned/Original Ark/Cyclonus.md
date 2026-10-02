@@ -18,7 +18,7 @@
 *Conjunx Endura:* [[Tailgate]]
 
 <u><b>Appearance:</b></u>
-*Size Class:* Average-Sized
+*Size Class:* Jet-Size
 *Optic Color:* Yellow
 *Plating Colors:* Grey and Purple
 *Notable Features:* Skeletal Intake Structure, Large Horns

@@ -1,4 +1,4 @@
-#character #autobot 
+#character #autobot #originalcharacter 
 # Safety
 <b><u>Relevant Background:</u></b> 
 *Caste:* Medic-Class, Civil Function Caste
@@ -16,7 +16,7 @@
 *Mental Health Status:* Optimal.
 
 <u><b>Appearance:</b></u>
-*Size Class:* Average-sized
+*Size Class:* Standard
 *Optic Color:* Yellow
 *Plating Colors:* Blue and White
 *Notable Features:* Femme

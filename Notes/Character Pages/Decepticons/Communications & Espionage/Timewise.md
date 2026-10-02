@@ -1,5 +1,5 @@
-#character #decepticon #peacefaction
-# Brainstorm
+#character #decepticon #originalcharacter 
+# Timewise
 <u><b>Relevant Background:</b></u>
 *Caste:* N/A, Warbuild
 *Faction:* Decepticons
@@ -12,11 +12,11 @@
 *Altmode:* Seeker ([[Generation Three]])
 *Sparktype:* Isomeric Negative
 
-*Physical Health Status:*
-*Mental Health Status:*
+*Physical Health Status:* Optimal.
+*Mental Health Status:* Optimal.
 
 <u><b>Appearance:</b></u>
-*Size Class:* Average-Sized
+*Size Class:* Jet-Size
 *Optic Color:* Yellow
 *Plating Colors:* White, Lime, Grey, and Dark Blue
 *Notable Features:* Wears a Battlemask

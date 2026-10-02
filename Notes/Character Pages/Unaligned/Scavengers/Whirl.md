@@ -16,7 +16,7 @@
 *Mental Health Status:*
 
 <u><b>Appearance:</b></u>
-*Size Class:* Average-Sized
+*Size Class:* Jet-Size
 *Optic Color:* Yellow
 *Plating Colors:* Cyan and Black
 *Notable Features:* Empurata

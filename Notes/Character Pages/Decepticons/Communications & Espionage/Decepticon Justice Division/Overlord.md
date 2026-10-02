@@ -11,6 +11,7 @@
 *Age:* 2.5mil
 *Altmode:* A... tank?
 *Sparktype:* 
+- [ ] #todo Overlord’s Sparktype
 
 *Physical Health Status:* Modified too early, then modified too late. Possesses grub-like plating growths that never went away. 
 *Mental Health Status:* Egocentric CCD, Classical CCD (see: [[Psychiatric Diagnoses]])

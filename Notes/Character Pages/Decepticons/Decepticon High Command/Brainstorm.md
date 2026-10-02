@@ -4,7 +4,7 @@
 *Caste:* N/A, Warbuild
 *Faction:* Decepticons
 *Occupation:* Lead Researcher
-*Polity of Origin:* 
+*Polity of Origin:* N/A
 
 <u><b>Medical Information:</b></u>
 *Method of Creation:* Cold-Construct
@@ -12,11 +12,12 @@
 *Altmode:* Seeker ([[Generation Three]])
 *Sparktype:* Ferrum Negative
 
-*Physical Health Status:*
+*Physical Health Status:* Optimal.
 *Mental Health Status:*
+- [ ] #todo figure out what’s wrong with Brainstorm /hj
 
 <u><b>Appearance:</b></u>
-*Size Class:* Average-Sized
+*Size Class:* Jet-Size
 *Optic Color:* Yellow
 *Plating Colors:* White, Orange, Grey, and Cyan
 *Notable Features:* Wears a Battlemask

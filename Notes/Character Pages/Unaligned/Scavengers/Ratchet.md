@@ -16,7 +16,7 @@
 *Mental Health Status:* Incendiary Hot Conduct Disorder, Chronic Medic’s Delirium (see: [[Psychiatric Diagnoses]])
 
 <u><b>Appearance:</b></u>
-*Size Class:* Average-Sized
+*Size Class:* Standard
 *Optic Color:* Yellow
 *Plating Colors:* White, red
 *Notable Features:* 

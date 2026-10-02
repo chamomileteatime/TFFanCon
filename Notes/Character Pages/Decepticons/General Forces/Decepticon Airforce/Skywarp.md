@@ -16,7 +16,7 @@
 *Mental Health Status:*
 
 <u><b>Appearance:</b></u>
-*Size Class:* Average-Sized
+*Size Class:* Jet-Size
 *Optic Color:* Red
 *Plating Colors:* Purple, Black
 *Notable Features:* Larger Chassis (Outlier)

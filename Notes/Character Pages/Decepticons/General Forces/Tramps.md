@@ -1,9 +1,9 @@
-#character #decepticon 
-# Trampstamp, “Tramps”
+#character #decepticon #originalcharacter 
+# Tramps
 <u><b>Relevant Background:</b></u>
 *Caste:* Military Caste, Logistics, Light Military Caste
 *Faction:* Decepticons
-*Occupation:* Special Operative, Stakeout
+*Occupation:* Special Operative, Stakeouts
 *Polity of Origin:* Polyhex
 
 <u><b>Medical Information:</b></u>
@@ -12,13 +12,13 @@
 *Altmode:* Military Humvee
 *Sparktype:* Ferrum Positive
 
-*Physical Health Status:*
-*Mental Health Status:*
+*Physical Health Status:* Amputated Right Arm
+*Mental Health Status:* Lethargic CCD (see: [[Psychiatric Diagnoses]])
 
 <u><b>Appearance:</b></u>
-*Size Class:* Average
-*Optic Color:* Red
-*Plating Colors:* Army Green, Lime, and Dark Grey
-*Notable Features:* Missing Right Arm, replaced with a laser canon.
+*Size Class:* Standard
+*Optic Color:* Blue
+*Plating Colors:* Purple and Black
+*Notable Features:* Missing Right Arm
 
 ## Background

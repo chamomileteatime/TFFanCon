@@ -12,11 +12,12 @@
 *Altmode:* Seeker ([[Generation Two]])
 *Sparktype:* Isomeric Negative
 
-*Physical Health Status:*
+*Physical Health Status:* Optimal
 *Mental Health Status:*
+- [ ] #todo starscream too. all these bitches mentally ill /ref
 
 <u><b>Appearance:</b></u>
-*Size Class:* Average-Sized
+*Size Class:* Jet-Size
 *Optic Color:* Red
 *Plating Colors:* White, Red, Blue
 *Notable Features:* Dark Faceplate, Prone to Wearing Accessories

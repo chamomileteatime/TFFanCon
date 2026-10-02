@@ -16,7 +16,7 @@
 *Mental Health Status:* Rapidly degrading memory management systems, due to usage of Prowl’s Failsafe.
 
 <u><b>Appearance:</b></u>
-*Size Class:* Average-Sized
+*Size Class:* Standard
 *Optic Color:* Yellow
 *Plating Colors:* Dark Blue, Black, Yellow
 *Notable Features:* Pointed nasal ridge, uniquely-shaped audial processes.

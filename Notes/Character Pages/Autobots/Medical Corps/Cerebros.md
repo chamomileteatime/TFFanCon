@@ -16,7 +16,7 @@
 *Mental Health Status:* Optimal.
 
 <u><b>Appearance:</b></u>
-*Size Class:* Average-Sized
+*Size Class:* Midweight Standard
 *Optic Color:* Blue
 *Plating Colors:* Black and Grey
 *Notable Features:* Noticeably smaller than most average-sized Cybertronians.

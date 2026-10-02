@@ -1,4 +1,4 @@
-#character #autobot  #dead
+#character #autobot  #dead #originalcharacter
 # Viceroy
 <u><b>Relevant Background:</b></u>
 *Caste:* Administrative Exemption (Forging: Military, Logistics, Light Military)
@@ -16,7 +16,7 @@
 *Mental Health Status:* 
 
 <u><b>Appearance:</b></u>
-*Size Class:* Average-sized
+*Size Class:* Jet-Size
 *Optic Color:* Yellow
 *Plating Colors:* Black, red, orange, yellow
 *Notable Features:* Wings and hanging plating coincidentally resembling a butterfly's wings.

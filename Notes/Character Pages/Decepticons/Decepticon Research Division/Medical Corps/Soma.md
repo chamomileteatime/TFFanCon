@@ -1,4 +1,4 @@
-#character #decepticon
+#character #decepticon #originalcharacter 
 # Soma
 <u><b>Relevant Background:</b></u>
 *Caste:* Intellectual Caste (Forging: Civilian, Standard, Civil Function, Fire & Rescue)
@@ -16,7 +16,7 @@
 *Mental Health Status:* Classical ACD (see: [[Psychiatric Diagnoses]])
 
 <u><b>Appearance:</b></u>
-*Size Class:* Average-sized
+*Size Class:* Standard
 *Optic Color:* Blue
 *Plating Colors:* Dark gray, blue
 *Notable Features:* Empurata-shaped helm; large crack in faceplate where one optic would be. Antennae and boat kibble on back.

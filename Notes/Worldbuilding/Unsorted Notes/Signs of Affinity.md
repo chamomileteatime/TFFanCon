@@ -23,18 +23,18 @@ The Seventh Sign of Affinity is that Photonic Crystals make a sudden “snap” 
 
 ## Cybertronians with All Seven Signs
 ### Confirmed Compatible
-Orion Pax / Optimus Prime
-Hot Rod
+Orion Pax / [[Optimus Prime]]
+[[Hot Rod]]
 ### Unconfirmed Compatibility
-Getaway
-Shockwave
+[[Getaway]]
+[[Shockwave]]
 Original Ultra Magnus
 
 ## Cybertronians with Most Signs
 ### Six out of Seven Signs
-Springer
+[[Springer]]
 	No Unique Paint Scheme
 
-Ultra Magnus (Minimus Ambus)
+[[Ultra Magnus]] (Minimus Ambus)
 	Incorrect Sparktype
 

@@ -1,4 +1,4 @@
-#character #decepticon #peacefaction
+#character #decepticon #peacefaction #originalcharacter 
 # Spacecase
 <u><b>Relevant Background:</b></u>
 *Caste:* N/A, Warbuild
@@ -13,10 +13,11 @@
 *Sparktype:* Isomeric Negative
 
 *Physical Health Status:*
-*Mental Health Status:*
+- [ ] #todo decide Spacecase’s specific injury
+*Mental Health Status:* Optimal.
 
 <u><b>Appearance:</b></u>
-*Size Class:* Average-Sized
+*Size Class:* Jet-Size
 *Optic Color:* Yellow
 *Plating Colors:* White, Blue, Pink, and Grey
 *Notable Features:* Wears a Battlemask

@@ -10,9 +10,10 @@
 *Method of Creation:* Cold-Construct
 *Age:* 4.0mil
 *Altmode:* 
+- [ ] #todo Chromedome’s altmode
 *Sparktype:* Vitreous Positive
 
-*Physical Health Status:*
+*Physical Health Status:* Optimal.
 *Mental Health Status:* Classical HCD (See: [[Psychiatric Diagnoses]])
 
 *Conjunx Endura:* [[Rewind]]

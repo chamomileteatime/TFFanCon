@@ -1,4 +1,4 @@
-#character #decepticon 
+#character #decepticon #originalcharacter 
 # Golden Hour
 <u><b>Relevant Background:</b></u>
 *Caste:* Disposable Caste, Private Commission
@@ -20,5 +20,5 @@
 *Optic Color:* 
 *Plating Colors:* 
 *Notable Features:* 
-
+- [ ] #todo Golden Hour’s page
 ## Background

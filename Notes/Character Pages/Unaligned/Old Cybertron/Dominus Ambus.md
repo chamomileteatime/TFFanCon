@@ -16,7 +16,7 @@
 *Mental Health Status:* 
 
 <u><b>Appearance:</b></u>
-*Size Class:* Loadbearer
+*Size Class:* Midweight Standard
 *Optic Color:* 
 *Plating Colors:* 
 *Notable Features:* 

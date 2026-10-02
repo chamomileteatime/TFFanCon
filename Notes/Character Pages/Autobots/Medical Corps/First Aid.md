@@ -16,7 +16,7 @@
 *Mental Health Status:* Optimal.
 
 <u><b>Appearance:</b></u>
-*Size Class:* Average-Sized
+*Size Class:* Standard
 *Optic Color:* Blue
 *Plating Colors:* White, Red
 *Notable Features:* Visor and Facialplate.

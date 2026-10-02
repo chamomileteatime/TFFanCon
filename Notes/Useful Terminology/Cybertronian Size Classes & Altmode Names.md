@@ -1,5 +1,5 @@
 # Cybertronian Size Classes
-![[Pasted image 20261002120441.png]]
+![[Size Class Chart.png]]
 
 ---
 ## Minicon – 15ft

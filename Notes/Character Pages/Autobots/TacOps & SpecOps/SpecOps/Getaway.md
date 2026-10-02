@@ -16,7 +16,7 @@
 *Mental Health Status:* Elopement Disorder (see: [[Psychiatric Diagnoses]])
 
 <u><b>Appearance:</b></u>
-*Size Class:* Average-Sized
+*Size Class:* Standard
 *Optic Color:* Matrix Blue (see: [[Signs of Affinity]])
 *Plating Colors:* Black, White, Red, Blue, & Yellow
 *Notable Features:* Yellow faceplate, White spoiler (shoulder-mounted)

@@ -17,7 +17,7 @@
 *Mental Health Status:* Mild Egocentric CCD (see: [[Psychiatric Diagnoses]])
 
 <u><b>Appearance:</b></u>
-*Size Class:* Average-sized
+*Size Class:* Standard
 *Optic Color:* Yellow
 *Plating Colors:* Orange, white, yellow
 *Notable Features:* Optic-like shapes on helm, prominent exterior tubing

@@ -19,10 +19,22 @@
 	*General Perception:*
 
 ### Exotic Caste
+(Note: While the Exotic Caste is placed here, in reality the social tier of any member of the Caste was highly variable, as they did not fit the standard model of function. Typically this was because they have more than one function, be that through having multiple altmodes or by also being a combiner.)
+
 <b><u>Titan Caste</b></u>
 	*Altmodes:* All Titans
 	*Notable Characters:* Fortress Maximus
 	*General Perception:* Moved from Civil Function Caste
+
+<b><u>Novelty Caste</b></u>
+	*Altmodes:* Triple and Quad Changers
+	*Notable Characters:* Springer, Drift, Astrotrain, Blitzwing, Nickel
+	*General Perception:* No one is particularly sure where to put it.
+
+<b><u>Combiner Exemption Caste</b></u>
+	*Altmodes:* Parts of a Combiner
+	*Notable Characters:* Constructicons
+	*General Perception:* Typically raised social standing as a combiner, but not by much. Much more desired after the start of the war.
 
 ## Erudite Caste
 ### Research Caste
