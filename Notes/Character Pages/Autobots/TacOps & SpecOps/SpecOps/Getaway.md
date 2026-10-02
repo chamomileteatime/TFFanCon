@@ -1,7 +1,7 @@
 #character #autobot 
 # Getaway
 <u><b>Relevant Background:</b></u>
-*Caste:* Military Cold-Construction Caste
+*Caste:* Disposable Caste, Private Commission\*
 *Faction:* Autobots
 *Occupation:* SpecOps, Escapologist
 *Polity of Origin:* 
