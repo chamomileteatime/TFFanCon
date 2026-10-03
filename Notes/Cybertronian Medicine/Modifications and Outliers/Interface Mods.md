@@ -4,9 +4,12 @@
 #### Installation
 #### Spike Systems
 #### Valve Systems
+---
 ### Secondary Mods
+---
 #### Full Overhauls
 ##### Single System Interface
+---
 #### Spike mods
 ##### Full Spike Overhauls
 ###### Prehensile Spike Mods
@@ -17,6 +20,7 @@
 ##### TIP Mods
 ##### Transfluid Mods
 ##### Other Mods
+---
 #### Valve Mods
 ##### Exterior Valve Mods
 ###### Prehensile Valve Exterior
@@ -26,7 +30,9 @@
 ###### Interior Lining Mods
 ###### Valve Locks
 ##### Coating FLuid Mods
+---
 #### Visual Mods
 ##### Biolights
-##### Transparent Plating
+##### Transparent PlatinG
+---
 ## Wireplay Interface Mods
