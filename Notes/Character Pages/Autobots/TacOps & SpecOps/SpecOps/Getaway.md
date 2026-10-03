@@ -14,6 +14,7 @@
 
 *Physical Health Status:* Optimal
 *Mental Health Status:* Elopement Disorder (see: [[Psychiatric Diagnoses]])
+- [ ] #todo is primus apotheosis still a thing here??
 
 <u><b>Appearance:</b></u>
 *Size Class:* Standard
