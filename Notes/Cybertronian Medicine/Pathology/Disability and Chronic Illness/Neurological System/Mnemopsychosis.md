@@ -7,17 +7,19 @@ Mnemopsychosis, in its more advanced/symptomatic forms, tends to go hand-in-hand
 ### Psychological Symptoms
 Upon clinical diagnosis and pharmaceutical treatment, patients typically present with 3+ of these symptoms recurrent multiple orns per quartex for the better duration of a vorn.
 #### Ectopic Anamnesis / Pseudomemory Retrieval
-text
+Patients may sporadically recall memories, experience flashbacks, and feel attachment to sensations, people, places, etc. of interest, that they themselves never experienced. Typically these are instead the impressions of memories taken in via mnemosurgical injection. These can also manifest as night terrors in more violent cases.
 #### Weak Anterograde Amnesia
-text
+Patients may struggle to retain large amounts of new information without insistent repetition.
 #### Maladaptive Thought Patterns
-text
+Patients may experience a lack of focus, magical and/or speculative thinking, rumination, intense feelings of regret, sorrow, or mourning, and compulsive avoidance.
+#### Self-Sabotaging Tendencies
+Patients may experience impulsive urges related to sabotaging their own careers, relationships, and/or lives.
 #### Hallucinations
-text
-#### Delusions
-text
+Patients may experience visual/auditory/etc hallucinations, especially with pseudomemories.
 
 ### Physical Symptoms
+These are not considered nor required for diagnosis, but have been observed to be consistent with mnemopsychosis's psychological manifestations.
 #### Migraine Headaches
 text
-#### 
+#### Lack of Maintenance
+text
