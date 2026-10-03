@@ -5,6 +5,7 @@ Most well-known mnemosurgeons experience at least a few symptoms of mnemopsychos
 Mnemopsychosis, in its more advanced/symptomatic forms, tends to go hand-in-hand with [[Mnemosurgeon's Fatigue]]. Mnemopsychosis is often considered a symptom/comorbidity of the onset of Mnemosurgeon's Fatigue, rather than a completely separate thing. (Think the difference between developing psychosis and dementia)
 ## Symptoms
 ### Psychological Symptoms
+Upon clinical diagnosis and pharmaceutical treatment, patients typically present with 3+ of these symptoms recurrent multiple orns per quartex for the better duration of a vorn.
 #### Ectopic Anamnesis / Pseudomemory Retrieval
 text
 #### Weak Anterograde Amnesia
