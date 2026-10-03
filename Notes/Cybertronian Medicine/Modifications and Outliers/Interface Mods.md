@@ -25,6 +25,7 @@
 ##### Interior Valve Mods
 ###### Interior Lining Mods
 ###### Valve Locks
+##### Coating FLuid Mods
 #### Visual Mods
 ##### Biolights
 ##### Transparent Plating
