@@ -8,7 +8,7 @@
 
 <u><b>Medical Information:</b></u>
 *Method of Creation:* 
-*Age:* 2.5mil
+*Age:* 0.5mil
 *Altmode:* Large Sci-Fi Gun
 *Sparktype:* Ferrum Negative 
 
@@ -22,6 +22,6 @@
 *Notable Features:* Empurata
 
 # Background
-A specialty MTO officer who willingly underwent Empurata to better integrate identity into the Decepticon Army.
+A specialty MTO officer who willingly underwent Empurata to better integrate their identity into the Decepticon Army.
 
-Jet-sized due to having a larger-than-average power system in order to power their altmode.
+Jet-sized due to having a larger-than-average power systems in order to power their altmode.
