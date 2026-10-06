@@ -20,3 +20,10 @@
 *Optic Color:* Yellow
 *Plating Colors:* Red, Blue, Black, and White
 *Notable Features:* Blue Optical Scope, Back-Mounted Mainscope.
+
+## Background
+Was originally in R&D. Mentored [[Brainstorm]] while he was undercover with the Autobots. The two of them founded the Peace Faction. 
+
+Left R&D to join the Wreckers.
+
+Was pulled from the Wreckers to help with research during Quintesson War.
