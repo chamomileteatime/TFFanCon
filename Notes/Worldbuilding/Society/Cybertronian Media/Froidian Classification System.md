@@ -133,7 +133,7 @@ C(F-II) - attached, impulsive, willing
 - Dialogue: D(II)
 
 D(M-I) - overly-capable, dependent on action
-D(M-II) - anti-introspective, physical, forceful
+D(M-II) - anti-introspective, doubtful, physical
 D(N-I) - **Archetype**; ambitious, insecure, abstract
 D(N-II) - helpful, social, accepting insignificance
 
