@@ -6,10 +6,16 @@ While Cybertron is *technically* religious, the average Cybertronian is only exp
 ### Pantheon
 #### Primus — The AllSpark
 ##### The Allspark (Artifact)
+As the legends go, Primus gave himself up so that his spark might truly become the “AllSpark,” a well of souls from which all other Cybertronians are born. His body transformed, become the planet of Cybertron itself, and the first to rise from its hotspots was Adaptus, The Grand Architect.
+
+#### Adaptus — The Grand Architect
+The “firstborn” of Primus, Adaptus is commonly worshipped in his role as the Grand Architect. As
+##### The Thirteen
+(see: [[Zodiac of the Thirteen]])
+Legends state that the Thirteen—sometimes referred to as the Thirteen Primes—were the first Cybertronians made by Adaptus after his own creation. They are often considered the blueprints of all later Cybertronians, with each spark being modeled by Adaptus after one of the Thirteen in particular.
 ##### The Matrix of Leadership
 (See: [[The Primacy]])
-#### Adaptus — The Grand Architect
-##### The Thirteen
+Following the infighting of the Original Thirteen, Primus created the Matrix of Leadership, a holy artifact which chose Prima as it’s bearer, settling the argument of who would lead Cybertron once and for all. The Matrix of Leadership continues to be an important artifact to Cybertron to this day, as it continues to be passed along to new “Primes” ready to lead Cybertron’s peoples.
 #### Mortilus — Death Incarnate
 ### Theomachy
 
@@ -30,3 +36,6 @@ Slivers can be related to specific people, or concepts, or anything else that is
 As a sort of “fad” religion, some Cybertronians believe in a mix of NeoPrimalism and Spectralism. Because this is in no way an organized religion, beliefs sway depending on the Cybertronian in question. The most common basis posits that Primus serves as the Sliver tied to the combined unconscious of all Cybertronians, as well as the planet itself. It is through Cybertron’s belief in Primus that this Sliver gains its power, which it then distributes back out amongst its people. 
 
 Adaptus and Mortilus are much less frequent figures in these sorts of beliefs, although several Cybertronians have been detained for the belief that Adaptus is, and I quote, “in reality a Sliver created and fed by the Functionist Council in order to keep Cybertronians from realizing their innate divinity.” Conspiracy Theorists exist in every culture.
+## Anti-Theists
+**Type:** None
+Anti-Theists refuse all other religions and theomachies, instead positing that Cybertron must have either evolved naturally, or been created by some now-missing alien race.  Anti-Theism is unpopular on Cybetron for much the same reasons as Spectralism is: it refutes the core idea of Functionism, that each Cybertronian has a divinely given purpose that must be fulfilled. Anti-Theism is very popular in counter culture movements.
