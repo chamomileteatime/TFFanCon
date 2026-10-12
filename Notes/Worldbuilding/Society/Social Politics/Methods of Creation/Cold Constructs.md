@@ -43,17 +43,10 @@ Last Two Numbers: Current Phase of Spliced Spark
 	03 - Retired
 #### List of Frequently-Used Prog-sparks
 
-##### BLU-VSP-010-03, “Old Blue”
-Donator Host: Bluelight
-Hotspot: 
+##### 803-VSP-010-03, “Old Blue”
+Function: Interstellar Starship
+Current Use: Retired
 
-Function: Military Jet
-Current Phase:
-Used For:
-
-History:
-“Old Blue” was one the first  progenitor spark widely-used in Seeker construction, and therefore perhaps the most prolific origin point of sparks
-
-Known Offspring:
+Known Offspring: Significant Number of Seeker Trines
 
 
