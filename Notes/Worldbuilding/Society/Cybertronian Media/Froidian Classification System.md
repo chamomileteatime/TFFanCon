@@ -75,6 +75,75 @@ One important thing to note about the actual theory, is that each of the four ty
 	 **Strong** ("We", accommodating, patient)
 	- **Weak** ("You", deferential, content)
 
+### First Position
+#### EXTROVERTED
+Extroverted types rely on objective, provable information drawn from their surroundings. Types prioritizing extroversion do not have to be social; they just have to be focused outward.
+Extroversion correlates with **(strong) dialogue**. Weak monologue type C is an exception.
+
+**Intuition:** Extroverted intuition (a corkboard with pins and thread, abstract patterns in one's environment, hidden meanings, on-the-ground investigation and speculation, science, future-orientation)
+*Main Types:* C(S), C(F), B(N), D(N)
+*Subtypes:* C(S-II), C(F-II), B(N-II), D(N-II)
+
+**Materials:** Extroverted material orientation (a bucket list of experiences and places to see, physical sensations, impulsivity, immediate surroundings, physical observations, past-orientation)
+*Main Types:* A(S), A(F), B(M), D(M)
+*Subtypes:* A(S-I), A(S-II), A(F-I), A(F-II), B(M-II), D(M-II)
+
+**Systems:** Extroverted logical systems (teamwork, groupwork, leading the charge, explaining data, presentations, putting together everyone's ideas, application provides ideas, present-orientation)
+*Main Types:* B(M), B(N), C(S), A(S)
+*Subtypes:* A(S-I), A(S-II), B(M-II), C(S-II)
+
+**Associations:** Extroverted social associations (social systems, morals, belief systems, compulsions, triggers, inhibitions, character flaws, urges, fears, eternity-orientation)
+*Main Types:* D(M), D(N), C(F), A(F)
+*Subtypes:* D(M-I), D(M-II), A(F-I), A(F-II), C(F-II)
+
+#### INTROVERTED
+Introverted types rely on subjective, speculative information deliberated on in their internal environments. Types prioritizing introversion do not have to be asocial or quiet; they just have to be more focused on how they process things, as opposed to what the outer world presents.
+Introversion correlates with **(strong) monologue**. Weak dialogue Type A is an exception.
+
+**Intuition:** Introverted intuition (gut feelings, abstract senses of self, internalized ideas, curiosity, internalized pattern-seeking, future-oriented)
+*Main Types:* C(S), C(F), B(N), D(N)
+*Subtypes:* C(S-I), C(S-II), C(F-I), C(F-II), B(N-I), D(N-I)
+
+**Materials:** Introverted material orientation (looks to the past and what they've felt before, familiarity, principle of induction, grudges, precedent, past-oriented)
+*Main Types:* A(S), A(F), B(M), D(M)
+*Subtypes:* B(M-I), D(M-I), A(S-II), A(F-II)
+
+**Systems:** Introverted logical systems (presupposed ideas and logical frameworks, self-assured knowledge and application, individualized internal train of thought, independent solution-building, idea first then application, present-orientation)
+*Main Types:* B(M), B(N), C(S), A(S)
+*Subtypes:* C(S-I), C(S-II), B(N-I), B(M-I), A(S-II)
+
+**Associations:** Introverted social associations (personal beliefs, morals, fears, desires, attachments, inhibitions, compulsions, etc... especially one's place in society. eternity-orientation)
+*Main Types:* D(M), D(N), C(F), A(F)
+*Subtypes:* C(F-I), C(F-II), D(N-I), D(M-I), A(F-II)
+
+### Second Position
+#### EXTROVERTED
+Types with first positions both associated with extroverted second positions are referred to as  **double extroverts**. For example...
+- **A(S-I)** is (strong) extroverted materials and systems (present extroversion).
+- **B(M-II)** is (strong) extroverted systems and materials (past extroversion).
+
+**Past:** ("Who am I?", casuality, destruction, tradition, sentimentality, **materials**)
+
+**Present:** ("Where is my place?", involvement, activity, spontaneity, **systems**)
+
+#### INTROVERTED
+Types with first positions both associated with introverted second positions are referred to as **double introverts**. For example...
+- **C(F-I)** is (strong) introverted intuition and associations (eternal extroversion). 
+- **D(N-I)** is (weak) introverted associations and intuition (future introversion).
+
+**Future:** ("Where am I going?", planning, possibilities, goals, **intuition**)
+
+**Eternity:** ("Why am I?", meaning, significance, the view from a distance, **associations**)
+
+### Third Position
+#### MONOLOGUE
+**Strong:** text
+**Weak:** text
+
+#### DIALOGUE
+**Strong:** text
+**Weak:** text
+
 ### The Core Elements...
 
 #### TYPE A
@@ -137,11 +206,58 @@ D(M-II) - anti-introspective, doubtful, physical
 D(N-I) - **Archetype**; ambitious, insecure, abstract
 D(N-II) - helpful, social, accepting insignificance
 
-## The Auxiliary Elements
-wip
+## Auxiliary and Tertiary Elements
+The auxiliary elements are characterized by a type's greatest fixations, desires, future goals, and compulsions. 
 
-## The Tertiary Elements
-wip
+Sometimes a type can get stuck in an **aux fixation** under stress, excitement, or sudden experience---aux fixations are not always bad, but can be indicative of bad mental health habits. **This is not a feature of the standard accepted FCS, as it encourages emotional fixation.**
+
+The tertiary elements are characterized by a type's greatest vulnerabilities, weaknesses, and ultimate failures. 
+
+Sometimes a type can get stuck in a **tert spiral** under stress, trigger, or sudden change---tert spirals are indicative of a person's vulnerabilities, as well as the sorts of things that benefit them the most in crisis. **This is not a feature of the standard accepted FCS, as it encourages emotional fixation.**
+
+From this list of 7 types, **two** are chosen (one as the auxiliary, one as the tertiary). The auxiliary may have an accompaniment of a type as long as they don't share a core orientation.
+
+**1** - *Pride*
+**Orientation:** Judgment
+**Auxiliary:** Success, achivement, victory, competition
+**Tertiary:** Narcissistic traits, self-absorption, dependence on approval
+**Description:** text
+
+**2** - *Deceit*
+**Orientation:** Movement
+**Auxiliary:** Complacency, spontaneity, changing one's identity/feelings, semantics
+**Tertiary:** Compulsive lying, disloyalty, lack of trust in one's own ability, fear of being weak
+**Description:** text
+
+**3** - *Design*
+**Orientation:** Safety
+**Auxiliary:** Planning, designing, creating, intellectual pursuits, hoarding of knowledge, being the first one to get to something
+**Tertiary:** Rumination, self-fulfilling prophecies, ego fixation, intellectually competitive and stubborn
+**Description:** text
+
+**4** - *Force*
+**Orientation:** Movement
+**Auxiliary:** Advocacy, confidence, physical ability, physical influence
+**Tertiary:** Destructive, oppressive, making decisions for others, anti-authority, anti-structure
+**Description:** text
+
+**5** - *Union*
+**Orientation:** Movement
+**Auxiliary:** One's "job" or niche in a group, psychological influence, joining and partitioning people and relationships
+**Tertiary:** Dependent on hierarchy and relationships, fear of replacement, fear of insignificance/redundancy
+**Description:** text
+
+**6** - *Life*
+**Orientation:** Safety
+**Auxiliary:** Protection, security, building a fort around oneself or others, plan Bs
+**Tertiary:** Paranoid, threat-seeking, withdrawn, avoidant
+**Description:** text
+
+**7** - *Meaning*
+**Orientation:** Judgment
+**Auxiliary:** Abstract meaning, purpose in life, obsession with identity, expression, art, culture, being understood
+**Tertiary:** Obsession over one's negative issues/internal problems, excessive doubt in one's ability to perform function/personhood, dependence on being "seen", overly-fixated on the abstract and the unreal
+**Description:** text
 
 ## Electromagnetic Spectrosophy
 This is an additional set of typology used as an addendum; it consists of 6 types that define how one copes with the world. Some people may only have one primary type, others may have a primary and a secondary (i.e. Vx), others may have two competing primaries (i.e. VX). 
@@ -155,4 +271,17 @@ This is an additional set of typology used as an addendum; it consists of 6 type
 
 ## Correlations and Archetypes
 wip
+
+## Type Assignments
+**Brainstorm:** B34 / B(N-I) 3(1)4
+*Description:* B(N-I) is associated with strong monologue systems and introverted intuition; 3(1)4 is associated with excessive intellectual pursuit, impulsivity, advocacy, and pride. Present-future.
+
+**Pharma:** B53 / B(M-II) 5(1)3
+*Description:* text
+
+**Getaway:** D13 / D(N-I) 1(6)3
+*Description:* text
+
+**(Senator) Shockwave:** B34 / B(N-II) 3(7)4
+*Description:* text
 
