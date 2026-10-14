@@ -3,10 +3,7 @@
 **The First Bearer of the Matrix**
 ### Background
 
-
-
-### The Primal Tribe
-### Relgion
+### Religion
 #### The Symbol of the Matrix — ![[SYMBOL - The Matrix.png]]
 A symbol representing the Matrix of Leadership. Used to represent Prima himself, as well as the line of Primes which succeeded him as Matrix Bearers. Often also used as the symbol of NeoPrimalism as a whole.
 ### Inheritance
@@ -18,7 +15,6 @@ A symbol representing the Matrix of Leadership. Used to represent Prima himself,
 ## The Second — Megatronus Prime
 **The First to Return, The Fallen**
 ### Background
-
 He and Prima got into a fight over something, which resulted in Prima accidentally killing him. The death of his spark also killed his Conjunx Endura, Solus Prime, resulting in great tragedy for the Thirteen, leaving them all to go their separate ways.
 
 ### Inheritance
@@ -46,8 +42,6 @@ Mysterious & Imaginative, Isolated
 ## The Fifth — Liege Maximus
 ### Background
 
-### The Maximal Tribe
-
 ### Inheritance
 **Western Zodiac Equivalent:** Leo
 **Boons:** Passionate & Assertive
@@ -71,7 +65,6 @@ Mysterious & Imaginative, Isolated
 
 ## The Eighth — Onyx Prime
 ### Background
-
 
 ### Inheritance
 **Western Zodiac Equivalent:** Scorpio
@@ -105,6 +98,7 @@ Mysterious & Imaginative, Isolated
 ## The Twelfth — Alpha Trion
 **First of the Archivists**
 ### Background
+Unlike many of his brethren, Alpha Trion remained in Iacon alongside Prima, although he did retain his own faction: The Archivists. 
 
 ### Inheritance
 **Western Zodiac Equivalent:** Pisces
