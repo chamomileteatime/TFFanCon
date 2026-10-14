@@ -1,23 +1,24 @@
 # Cybertronian Religions
 ## Religion on Cybertron
 While Cybertron is *technically* religious, the average Cybertronian is only expected to be religious in so far as much to agree with what the Functionist Council says. Anything more than that, such as actually reading religious scriptures, is considered abnormal and “too involved.” 
-## Neoprimalism
+## Primalism
 **Type:** Polytheistic
-### Pantheon
-#### Primus — The AllSpark
-##### The Allspark (Artifact)
+A now-archaic form of Primalism which worships three gods: Primus, Adaptus, and Mortilus. Primalists consider the three to have equally divided their sway over Cybetron: Primus as the “AllSpark”, one’s nebulous existance before birth, Adaptus as the god of one’s fate and function, and Mortilus as the “AfterSpark,” the place the consciousness goes when the spark dies.
+## Neoprimalism
+**Type:** Polytheistic 
+Sect of Primalism founded after the Era of the Thirteen, which reveres not just the two main gods of Cybertron (Primus and Adaptus), but the Thirteen as well. Unlike Primalists, Neoprimalists believe that one’s consciousness returns to the AllSpark in death, not the AfterSpark.
+### Primus
+#### The Allspark (Artifact)
 As the legends go, Primus gave himself up so that his spark might truly become the “AllSpark,” a well of souls from which all other Cybertronians are born. His body transformed, become the planet of Cybertron itself, and the first to rise from its hotspots was Adaptus, The Grand Architect.
-##### The Matrix of Leadership
+#### The Matrix of Leadership
 (See: [[The Primacy]])
 Following the infighting of the Original Thirteen, Primus created the Matrix of Leadership, a holy artifact which chose Prima as it’s bearer, settling the argument of who would lead Cybertron once and for all. The Matrix of Leadership continues to be an important artifact to Cybertron to this day, as it continues to be passed along to new “Primes” ready to lead Cybertron’s peoples.
-#### Adaptus — The Grand Architect
+### Adaptus — The Grand Architect
 The “firstborn” of Primus, Adaptus is commonly worshipped in his role as the Grand Architect. As
-##### The Thirteen
+#### The Thirteen
 (see: [[The Thirteen]])
 Legends state that the Thirteen—sometimes referred to as the Thirteen Primes—were the first Cybertronians made by Adaptus after his own creation. Their CNA is considered to be the “building blocks” of the Cybertronian race.
-##### The Creation of the Transformation-Cog
-#### Mortilus — Death Incarnate
-### Theomachy
+#### The Creation of the Transformation-Cog
 
 ## Spectralism
 **Type:** Animist

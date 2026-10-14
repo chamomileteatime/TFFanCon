@@ -8,8 +8,7 @@
 ### The Primal Tribe
 ### Relgion
 #### The Symbol of the Matrix — ![[SYMBOL - The Matrix.png]]
-A symbol representing the Matrix of Leadership. Used to represent Prima himself, as well as the line of Primes which succeeded him as Matrix Bearers. Often also used as the symbol of NeoPrimalism
-
+A symbol representing the Matrix of Leadership. Used to represent Prima himself, as well as the line of Primes which succeeded him as Matrix Bearers. Often also used as the symbol of NeoPrimalism as a whole.
 ### Inheritance
 **Western Zodiac Equivalent:** Aries
 **Boons:** Intuition & Morality
