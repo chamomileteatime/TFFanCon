@@ -7,15 +7,15 @@ While Cybertron is *technically* religious, the average Cybertronian is only exp
 #### Primus — The AllSpark
 ##### The Allspark (Artifact)
 As the legends go, Primus gave himself up so that his spark might truly become the “AllSpark,” a well of souls from which all other Cybertronians are born. His body transformed, become the planet of Cybertron itself, and the first to rise from its hotspots was Adaptus, The Grand Architect.
-
+##### The Matrix of Leadership
+(See: [[The Primacy]])
+Following the infighting of the Original Thirteen, Primus created the Matrix of Leadership, a holy artifact which chose Prima as it’s bearer, settling the argument of who would lead Cybertron once and for all. The Matrix of Leadership continues to be an important artifact to Cybertron to this day, as it continues to be passed along to new “Primes” ready to lead Cybertron’s peoples.
 #### Adaptus — The Grand Architect
 The “firstborn” of Primus, Adaptus is commonly worshipped in his role as the Grand Architect. As
 ##### The Thirteen
 (see: [[The Thirteen]])
-Legends state that the Thirteen—sometimes referred to as the Thirteen Primes—were the first Cybertronians made by Adaptus after his own creation. They are often considered the blueprints of all later Cybertronians, with each spark being modeled by Adaptus after one of the Thirteen in particular.
-##### The Matrix of Leadership
-(See: [[The Primacy]])
-Following the infighting of the Original Thirteen, Primus created the Matrix of Leadership, a holy artifact which chose Prima as it’s bearer, settling the argument of who would lead Cybertron once and for all. The Matrix of Leadership continues to be an important artifact to Cybertron to this day, as it continues to be passed along to new “Primes” ready to lead Cybertron’s peoples.
+Legends state that the Thirteen—sometimes referred to as the Thirteen Primes—were the first Cybertronians made by Adaptus after his own creation. Their CNA is considered to be the “building blocks” of the Cybertronian race.
+##### The Creation of the Transformation-Cog
 #### Mortilus — Death Incarnate
 ### Theomachy
 
