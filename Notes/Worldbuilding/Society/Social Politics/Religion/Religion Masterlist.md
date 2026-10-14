@@ -11,7 +11,7 @@ As the legends go, Primus gave himself up so that his spark might truly become t
 #### Adaptus — The Grand Architect
 The “firstborn” of Primus, Adaptus is commonly worshipped in his role as the Grand Architect. As
 ##### The Thirteen
-(see: [[Zodiac of the Thirteen]])
+(see: [[The Thirteen]])
 Legends state that the Thirteen—sometimes referred to as the Thirteen Primes—were the first Cybertronians made by Adaptus after his own creation. They are often considered the blueprints of all later Cybertronians, with each spark being modeled by Adaptus after one of the Thirteen in particular.
 ##### The Matrix of Leadership
 (See: [[The Primacy]])
