@@ -136,11 +136,16 @@ Types with first positions both associated with introverted second positions are
 **Eternity:** ("Why am I?", meaning, significance, the view from a distance, **associations**)
 
 ### Third Position
+The third position monitors a Cybertronian's forward momentum, willpower, independence, action vs inaction, and deference to the world around them.
 #### MONOLOGUE
-**Strong:** text
-**Weak:** text
+Monologue refers to a volition that is self-centered or introverted. Monologue refers to the way one judges their own role/place in society, their ability to act, their actions, their identity, and their self-determination. It is egocentric and first and foremost worried about the self, but it is not necessarily going to come off as asocial or withdrawn.
+Type C is all ruled by monologue.
+
+**Strong:** Strong monologue is characterized by a great sense of stubbornness and self-assured comfort in one's identity/place/destiny/etc, usually whatever their second placement may be. Strong monologue in the future tends to present as ambition, strong monologue in the past presents as stubborn conservatism, et cetera. Strong monologue struggles with taking in new advice/ideas from other people and does not easily change its own identity.
+**Weak:** Weak monologue is characterized by a fundamental doubt in one's identity/place/destiny/etc, usually whatever their second placement may be. It presents as pervasive insecurity, over/undercompensation for a perceived lack of volition, and a deep anxiety regarding their ability to act/function on their own.
 
 #### DIALOGUE
+Dialogue refers to volition that is group-minded or extroverted. Dialogue refers to the way one engages with hierarchies and the roles of others. It widens volition, action, role, hierarchy, and identity into a group discussion, readily taking insight and ideas from others and forming their own conclusions.
 **Strong:** text
 **Weak:** text
 
@@ -269,19 +274,42 @@ This is an additional set of typology used as an addendum; it consists of 6 type
 5. **X** - Variable
 6. **G** - Gammaelectric
 
+They all exist on a spectrum, ranging from rigid-peaceful to vitalic-chaotic.
+
+#### RADIOELECTRIC
+Radioelectric energy is first and foremost worried about the preservation of the world around them. Beyond people, beyond groups---how do I keep my environment, my world, my home, stable and predictable? They tend to be withdrawn and sluggish, caring more for the sanctity of their surroundings than for themselves. They want to preserve, not change; they're reluctant to the idea of not knowing what their environment is doing or what'll happen next.
+
+#### INFRARED
+Infrared energy is first and foremost worried about proving its worthiness/proving it deserves to be incorporated into some final form of safety. Whether that's a safe job, a place in society that ensures safety, or getting the attention of someone---as long as it's something with the power to invite the infrared energy into a larger body, the infrared is drawn to it. It becomes rather conformist, almost appearing more rigid than radioelectric, in these efforts.
+
+#### PHOTOELECTRIC
+Photoelectric energy is first and foremost worried about avoiding missing out on experience, and on the joy/experiences/etc of the people immediately around them. Their focus is all on how things across time and space affect their immediate feelings/experiences... they're hedonistic, either sensorally or emotionally or both, and they tend to draw a lot of their energy from experiences and the people around them. They're certainly capable of being rule-followers, though, and their search for experience is not necessarily as unfettered as variable/gamma's.
+
+#### ULTRAVIOLET
+Ultraviolet energy is first and foremost worried about separating from a unity, opposite to infrared. Whereas infrared wants to be included, ultraviolet has always felt a deep separation from society/experience and wishes to find its true path beyond that. Ultraviolet energy is fixated on finding one's true purpose/meaning and believes that it cannot be found among regular society.
+
+#### VARIABLE
+Variable energy is first and foremost worried about preserving their own happiness and enjoyment of life as much as possible. This can present as a disregard for rules/stipulations, or a willingness to find loopholes/get around them if it means getting something they want out of a situation. Variable energy is chaotic and may often get mistaken for one of the other energy types, as it can latch itself onto anything so long as it believes it'll get something good out of it.
+
+#### GAMMAELECTRIC
+Gammaelectric energy is the least popular; it's first and foremost worried about preserving its own individuality and autonomy and experiencing the full forces of its own capabilities through sheer careless engagement in the world. It doesn't concern itself with social or one-on-one relationships nearly as much as it does with itself, though some gammaelectric energies (especially Gu/GU) may fixate on a specific group/person they obsess about getting power over. Gammaelectric energy can come off as overbearing, but it can also present as a deep urge to experience one's abilities for the sake of getting a grasp on them to use on/with others---it's just that the main motivation must be to preserve their own autonomy/individuality.
+
 ## Correlations and Archetypes
 wip
 
 ## Type Assignments
-**Brainstorm:** B34 / B(N-I) 3(1)4
+**Brainstorm:** Vg B34 / B(N-I) 3(1)4
 *Description:* B(N-I) is associated with strong monologue systems and introverted intuition; 3(1)4 is associated with excessive intellectual pursuit, impulsivity, advocacy, and pride. Present-future.
 
-**Pharma:** B53 / B(M-II) 5(1)3
+**Pharma:** IG B53 / B(M-II) 5(1)3
 *Description:* text
 
-**Getaway:** D13 / D(N-I) 1(6)3
+**Ratchet:** Gr A46 / A(S-I) 4(1)6
 *Description:* text
 
-**(Senator) Shockwave:** B34 / B(N-II) 3(7)4
+**Getaway:** Ui D13 / D(N-I) 1(6)3
+*Description:* text
+
+**(Senator) Shockwave:** UV B34 / B(N-II) 3(7)4
 *Description:* text
 
