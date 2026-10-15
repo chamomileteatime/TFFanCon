@@ -20,8 +20,9 @@ Code = Spark > Morph
 <u> Interpersonal: </u>
 Spark > Code > Morph
 	The Spark party is aggressed by both the Code and the Morph, while the Code aggresses the Spark and is aggressed by the Morph. 
-#### Double Negatives, Blind Faults, & Unconscious Fears
-Potential extremely negative interactions that can happen as caused by 
+
+---
+
 ## Interactions
 ### Solo
 #### Code Vs Spark
@@ -37,195 +38,200 @@ The blind spot of the Morph serves as a source of power to the faults of the Cod
 #### Spark vs Morph
 ### Interpersonal
 #### Code to Code
+**Look To:** C+/C- = High
+
 Code to Code matchups have the benefit of often having smooth interactions with one another, with the downside of doubling down on the faults that both Cybertronians have. Instead, compatible Code matchups are often different enough to not have overlapping faults, but not so different as to create opposing faults instead.
 #### Code to Spark
+**Look To:** C-/S+ Overlap = Low
 **Ruler:** The Spark
 **Aggressor:** The Code
+
 Code to Spark incompatibility often serve as the core cause of mental unrest within a sole Cybertronian, but this role is taken by Code to Morph relations in interpersonal relationships. Instead, a Code to Spark relationship reflects how one reacts to the faults of the other.
 
 #### Code to Morph
+**Look To:** M+/C+ = High & M+/C- = Low
 **Ruler:** The Code
 **Aggressor:** The Morph
-Code to Morph interactions are the most essential two understanding the compatibility between two people. This is because the Code Lineage represents one’s faults in their way of thinking, which applies not only to themselves but to those around them. An incompatible Code to Morph matchup often results in the Code-side unduly judging the Morph-side of the relationship, and often holding them accountable 
+
+Code to Morph interactions are the most essential two understanding the compatibility between two people. This is because the Code Lineage represents one’s faults in their way of thinking, which applies not only to themselves but to those around them. An incompatible Code to Morph matchup often results in the Code-side unduly judging the Morph-side of the relationship, and often holding them accountable.
 #### Spark to Spark
+**Look To:** S-/S- = High
 Spark to Spark matchups are do not have a strong effect on interaction and compatibility, as they represent the repressed and hidden sides of both parties. Instead, matching Spark to Spark matchups give one the benefit of seeing their struggles from on outside perspective, and can often lead both parties to gain a greater deal of understanding about their own inner demons. Incompatible Spark signs often result in both parties perceiving a subconscious feeling that something is wrong with the other.
 #### Spark to Morph
+**Look To:** S-/M+ = High
 **Ruler:** The Spark
 **Aggressor:** The Morph
+
 Cybertronians often subconsciously seek out those with Morph Lineages matching to their own Spark Lineage. This is because the Morph Lineage represents how one might see the other, and on a surface level the other appears as someone understanding of their deepest fears. An incompatible Spark to Morph matchup often results in the Spark-side unduly judging the Morph-side of the relationship, and often holding them accountable for their own faults.
 #### Morph to Morph
+**Look To:** N/A
+
 Morph to Morph interactions are the least relevant to compatibility, as they primarily focus on the outer appearance of the two Cybertronians involved.
 
-## Features
+---
+
+## Features & Dialogues
 ### Terms
 #### Primary - External Vs. Internal
 Does it center the self? Or others?
 #### Secondary - Extroverted Vs. Introverted
 Is it given by someone else? Or can it be achieved alone?
-#### Tertiary - Selfish Vs. Altruistic
+#### Tertiary - Egocentric Vs. Altruistic
 Does it benefit the self? Or others?
 #### Fixation
 A fixation is a feature which oscillates between the two states. This masks all other dialogues, and takes control over the feature.
 #### Null
 A null is a dialogue which has no effect on the broader self at all. It most often occurs when a dialogue experiences a fixation, dulling the effects other features. It also occurs rarely in the triple null trait, which experiences total apathy towards that feature.
+### 1 - Attention 
+**Dialogue:** External/Extroverted/Egocentric, “I center myself by asking others to give me what I need.”
 
-### Features and their Dialogues
-#### Attention 
-**Dialogue:** External/Extroverted/Selfish
+**Positive Feature:** Validation/Validation-Seeking, “I need your attention.”
 
-**Positive Feature:** Recognition
-As a positive trait, it reflects someone who desires to be seen and praised by others. 
+**Negative Feature:** Ridicule/Self-Conscious, “I don’t want any attention.”
 
-**Negative Feature:** Ridicule
-As a negative trait, it reflects the fear of attention as it will lead to ridicule
+### 2 - Narcissism 
+**Dialogue:** Internal/Extroverted/Egocentric, “I center others asking them to give me what I need.”
 
-#### EGO 
-**Dialogue:** Internal/Extroverted/Selfish
+**Positive Feature:** Ambition/Ambitious, “I want you to give me what I need.”
 
-**Positive Feature:** Narcissism
-As a positive trait, ego reflects someone who desires to be seen and praised by others.
+**Negative Feature:** Dependent, “I don’t want my own needs.”
 
-**Negative Feature:** Dependent
-As a negative trait, ego reflects someone who fears their own identity, and relies on others to built it for them.
+### 3 -  Privacy
+**Dialogue:** External/Introverted/Egocentric, “I center others by giving myself what I need.”
 
-#### 3 -  
-**Dialogue:** External/Introverted/Selfish
+**Positive Feature:** Isolation/Confident, “I need to be alone to be helpful.”
 
-**Positive Feature:**
+**Negative Feature:** Sycophantic, “I don’t want to be alone, I want to be helpful.”
 
-**Negative Feature:**
+### 4 - Reflection
+**Dialogue:** Internal/Introverted/Egocentric, “I center myself by giving me what I need.”
 
-#### 4 - Privacy (Internal/Introverted/Selfish)
-**Dialogue:** External/Introverted/Selfish
+**Positive Feature:** Introspection/Proactive,  “I want to reflect.”
 
-**Positive Feature:**
+**Negative Feature:** Negligent, “There is nothing to reflect.”
 
-**Negative Feature:**
-#### 5 - (External/extroverted/altruistic)
-**Dialogue:** External/Introverted/Selfish
+### 5 - Detachment
+**Dialogue:** External/Extroverted/Altruistic, “I center others by asking them to do what benefits them.”
 
-**Positive Feature:**
+**Positive Feature:** Caution/Cautious, “I want to be left alone.”
 
-**Negative Feature:**
+**Negative Feature:** Abandoned, “I don’t want to be left alone.” 
 
-#### 6 - (Internal/extroverted/altruistic)
-**Dialogue:** External/Introverted/Selfish
+### 6 - Misery
+**Dialogue:** Internal/Extroverted/Altruistic, “I center myself in letting others do what benefits them.”
 
-**Positive Feature:**
+**Positive Feature:** Masochism/Masochistic, “I want you to hurt me.”
 
-**Negative Feature:**
-#### 7 - (External/introverted/Altruistic)
-**Dialogue:** External/Introverted/Selfish
+**Negative Feature:** Paranoid, “I don’t want you to hurt me.”
 
-**Positive Feature:**
+### 7 - Compassion
+**Dialogue:** External/Introverted/Altruistic, “I center others by doing everything to help them.”
 
-**Negative Feature:**
-#### 8 - (Internal/introverted/altruistic)
-**Dialogue:** External/Introverted/Selfish
+**Positive Feature:** Empathy/Empathetic, “I want to help you.”
 
-**Positive Feature:**
+**Negative Feature:** Pessimism, “No one does anything to help anyone.”
 
-**Negative Feature:**
-#### 9 - Publicity External/internal fix (Null/Fix/Null)
-**Dialogue:** External/Introverted/Selfish
+### 8 - Contribution
+**Dialogue:** Internal/Introverted/Altruistic, “I center myself in doing things that helps others.”
 
-**Positive Feature:**
-The feature fixated on the battle between the external and internal world. Wants for everyone around them to understand their internal world.
+**Positive Feature:** Philanthropy/Philanthropic, “I want to see myself help you.”
 
-**Negative Feature:**
+**Negative Feature:** Megalomaniacal, “I don’t want to see myself helping anyone.”
 
-#### 10  - Connection (Extroverted/Introverted fix)
-**Dialogue:** External/Introverted/Selfish
+### 9 - Publicity 
+**Dialogue:** Fix/Null/Null, “Do I center myself, or do I center others?”
 
-**Positive Feature:**
-The feature fixated on the battle between giving to others and taking from them. Masks this battle by desiring an equal give and take between themself and others.
+**Positive Feature:** Attraction/Attractive, “I want everyone to center me!”
 
-**Negative Feature:**
+**Negative Feature:** Reclusive, “I don’t want to center anyone, myself or others.”
 
+### 10  - Connection
+**Dialogue:** Null/Fix/Null, “Do I rely on others, or do I rely on myself?”
 
+**Positive Feature:** Proximity/Proximity-seeking, “I want us all to rely on each other.”
 
-#### 11 - Morality Tertiary Fix (Null/Null/fix)
-**Dialogue:** Null/Null/Fix
+**Negative Feature:** Recusant, “I want none of us to rely on each other.”
 
-**Positive Feature:**
-The feature fixated on the battle between selfishness and altruism. Believes strength lies in avoiding all selfish decisions.
+### 11 - Ethics
+**Dialogue:** Null/Null/Fix, “Am I egocentric, or am I altruistic?”
 
-**Negative Feature:**
-The feature fixated on the battle between selfishness and altruism. Convinced all their desires are inherently selfish and attempt to refuse them.
+**Positive Feature:** Morality/Moral, “I want to always choose the right thing.”
 
-#### 12 - Irregular (Fix/Fix/Fix)
-**Dialogue:** Fix/Introverted/Selfish
+**Negative Feature:** Shameful, “I fear I never choose to do the right thing.”
 
-**Positive Feature:**
-The triple fix, in which every trait is consistently oscillating. This primary feature reflects someone who cannot stick to any sort of conviction or goal for an extended period of time, but still experiences a desire for them.
+### 12 - Freedom
+**Dialogue:** Fix/Fix/Fix, “I don’t know what I am.”
 
-**Negative Feature:**
-The triple fix, in which every trait is consistently oscillating. This primary feature reflects someone who oscillates between their faults or fears constantly, due to either their environment or those around them.
+**Positive Feature:** Freedom/Free-Spirited, “I am okay with not knowing what to do.”
 
-#### 13 - Apathy (Null/Null/null)
-**Dialogue:** External/Introverted/Selfish
+**Negative Feature:** Insecure, “I don’t want to not know what to do.”
 
-**Positive Feature:**
-The triple null, in which every trait is completely apathetic. This primary feature reflects someone who feels no desire to acquire a goal at all.
+### 13 - Apathy
+**Dialogue:** Null/Null/Null, “I don’t care what I am.”
 
-**Negative Feature:**
-The triple null, in which every trait is completely apathetic. This primary feature reflects someone who feels no core fear or fault at all.
+**Positive Feature:** Peace/Ambivalent, “I don’t care.”
+
+**Negative Feature:** Obsessive, “I don’t want to not care.”
+
+---
 
 ## Code Lineages
 ### Prima (P)
 C-PRI
-**Goal:**
-**Fault:**
+**Goal:** Philanthropy (Positive Contribution), “My goal is to help these people.” (inter/intro/alt)
+**Fault:** 
 ### Megatronus Prime (Mg)
 C-MGA
-**Goal:**
+**Goal:** Masochism (Misery), “My goal is to make you hurt me.” (inter/extro/alt)
 **Fault:**
 ### Solus Prime (S)
 C-SOL
-**Goal:**
-**Fault:**
+**Goal:** Proximity (Connection), “My goal is to keep the peace.” (2 fix)
+**Fault:** Sycophantic (Privacy), “I can’t be alone, I need to be helpful.”
 ### Quintessus Prime (Q)
 C-QNT
-**Goal:**
+**Goal:** Isolation (Privacy), “My goal is to helpful in being alone.” (exter/intro/ego)
 **Fault:**
 ### Liege Maximus (L)
 C-LIE
-**Goal:**
+**Goal:** Ambition (Narcissism), “My goal is to be better than you.” (inter/extro/ego)
 **Fault:**
 ### Alchemius Prime (Al)
 C-ALC
-**Goal:**
+**Goal:** Empathy (Compassion), “My goal is to help you.” (exter/intro/alt)
 **Fault:**
 ### Micronus Prime (Mc)
 C-MRO
-**Goal:**
+**Goal:** Morality (Ethics), “My goal is to always choose the right thing.”
 **Fault:**
 ### Onyx Prime (O)
 C-ONX
-**Goal:** Stability
-**Fault:** Pessimism
+**Goal:** Peace (Apathy), “My goal is for nothing to happen.”
+**Fault:** Pessimism (Compassion), “I don’t want to help anyone.” (exter/intro/alt)
 ### Amalgamous Prime (Am)
 C-AMG
-**Goal:**
-**Fault:**
+**Goal:** Caution (Detachment), “My goal is to be left alone.”
+**Fault:** Recusant (Connection), “I want none of us to help each other.”
 ### Vector Prime (V)
 C-VCR
-**Goal:**
-**Fault:**
+**Goal:** Validation (Attention), “My goal is for everyone to notice me.” (exter/extro/ego)
+**Fault:** Shameful (Ethics), “I feel I never chose to do the right thing.” (3 Fix)
 ### Nexus Prime (N)
 C-NXS
-**Goal:**
+**Goal:** Attraction (Publicity), “My goal is for everyone to see me.”
 **Fault:**
 ### Alpha Trion (At)
-**Goal:**
+**Goal:** Freedom (Freedom), “My goal is to no longer be needed.” (fix/fix/fix)
 **Fault:**
 ### Meliorous Prime (Ml)
-**Goal:**
+**Goal:** Introspection (Reflection), “My goal is to get better.” (inter/intro/ego)
 **Fault:**
+
+---
 ## Spark Lineages
 ### Prima (P)
 **Conviction:** 
-**Fear:** 
+**Fear:** Obsessive (Apathy), “What if I stop caring?”
 ### Megatronus Prime (Mg)
 **Conviction:** 
 **Fear:** 
@@ -248,8 +254,8 @@ C-NXS
 **Conviction:** 
 **Fear:** 
 ### Amalgamous Prime (Am)
-**Conviction:** Privacy
-**Fear:** Ridicule
+**Conviction:** Empathy, “My conviction is to help others.” (exter/intro/alt)
+**Fear:** Ridicule (Negative Attention), “My fear is you seeing me and not liking it.” (exter/extro/ego)
 ### Vector Prime (V)
 **Conviction:** 
 **Fear:** 
@@ -289,8 +295,8 @@ C-NXS
 **Presence:**
 **Blind Spot:**
 ### Amalgamous Prime (Am)
-**Presence:**
-**Blind Spot:**
+**Presence:** Proximity-Seeking (Connection), “You see me as reliant on you.” (2 Fix)
+**Blind Spot:** Pessimism (Compassion), “No one does anything to help anyone.” (extro/intro/alt)
 ### Vector Prime (V)
 **Presence:**
 **Blind Spot:**
@@ -301,27 +307,27 @@ C-NXS
 **Presence:**
 **Blind Spot:**
 ### Meliorous Prime (Ml)
-**Presence:**
-**Blind Spot:**
+**Presence:** Free-Spirited (Freedom), “You see me as someone who doesn’t know what to do.” (Fix/Fix/Fix)
+**Blind Spot:** 
 
 ## Example Characters
 ### Hot Rod of Nyon/Rodimus Prime
 CV/SP/MAm
 ### Code Lineage — Vector Prime
-**Goal:** Recognition
-**Fault:** Shame
+**Goal:** Recognition (Attention, exter/extro/ego)
+**Fault:** Shame (Morality, null/null/fix) 
 
 Rodimus’ Code Lineage is that of Vector Prime. His primary goal is not leadership, as many would assume, but rather the recognition of those around him. Is does not matter if that recognition comes in the form of his efforts being noticed or his success. Rodimus’ fault is therefore his shame—he believes that his goal is selfish to desire from others, and therefore fails to ask for recognition directly.
 
 ### Spark Lineage — Prima
-**Conviction:** Connection
-**Fear:** Abandonment
+**Conviction:** Connection (Attachment, null/fix/null)
+**Fear:** Abandonment (Attachment, null/fix/null)
 
 Rodimus’ Spark Lineage is that of Prima. This means that he values connection above all else, and fears abandonment. Prima’s Spark reveals a deep desire to never be alone, to have those that will take your side in conflict regardless of what happens.
 
 ### Morph Lineage — Amalgamous Prime
-**Presence:** Social & Optimistic
-**Blind Spot:** Relationships
+**Presence:** Proximity-Seeking
+**Blind Spot:** Pessimism
 **Others with the Same Lineage:** Ratchet
 
 Rodimus’ Morph Lineage is that of Amalgamous Prime. To others he appears as social and friendly, often trying to make light of serious situations and keep spirits high. This also reflects Rodimus’ blind spot: for all that he socializes and works to be a good leader, he often fails to identify the connections he has already made to others until they are gone.

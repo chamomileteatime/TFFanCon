@@ -1,0 +1,19 @@
+## Code Used Features
+### Goals
+#1 Validation/attention
+#2 Ambition/narc
+#3 privacy
+#4 intro/refl
+#5 Caution/Detachment
+#6 maso/misery
+#7 Empathy/Compassion
+#8 Philanthropy/Contribution
+#9 Att/pub
+#10 Proximity/Connection
+#11 Morality/Ethics
+#13 Peace/Apathy
+### Faults
+#3 Sycophantic/privacy
+#8 Pessimism/Compassion
+#10 Recusant/Connection
+#11 Shameful/Ethics
