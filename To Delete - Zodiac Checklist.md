@@ -13,7 +13,83 @@
 #11 Morality/Ethics
 #13 Peace/Apathy
 ### Faults
+#1 AT-
 #3 Sycophantic/privacy
-#8 Pessimism/Compassion
+#4 rf-
+#7 Pessimism/Compassion
+#8 CN-
+#9 PB-
 #10 Recusant/Connection
 #11 Shameful/Ethics
+#13 AP-
+
+## Convictions
+Used:
+AT +
+NR +
+PR +
+RF +
+DT +
+MI
+CM +
+CT +
+PB +
+ET +
+CN +
+
+Unused:
+FR
+AP
+
+
+
+## Fears
+Used:
+AT
+NR
+PR
+DT
+MI
+RF
+CM
+PB
+ET
+FR
+AP
+
+Unused:
+CT
+
+CN
+
+## Presence
+Used:
+Unused:
+AT
+NR
+PR
+DT
+MI
+RF
+CM
+CT
+PB
+CN
+ET
+FR
+AP
+
+## Blind Spot
+Used:
+Unused:
+AT
+NC
+PR
+RF
+CM
+CT
+PB
+CN
+ET
+FR
+AP
