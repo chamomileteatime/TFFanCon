@@ -212,7 +212,7 @@ CQnt represents the archetype of “The Wanderer.” They feel that they work be
 CLie represents the archetype of “The King.” They want to be considered a rank above all of their peers, but at the same time struggle in the face of isolation. They are often brash and abrasive, but quick to take a step back when they feel they have crossed a line, even if they often struggle to apologize for it with words. 
 
 ### Alchemius Prime (CAlc)
-(CM+ MI-), “The Spirit”
+(CM+ MI-), “The Angel”
 **Goal:** Empathy (CM+), “My goal is to help you.”
 **Fault:** Paranoia (MI-), “I struggle for a long time if you hurt me.”
 
@@ -247,14 +247,14 @@ CAmg represents the archetype of “The Listener.” They center others in every
 CVcr represents the archetype of “The Mutineer.” They desire validation for their actions over everything, and are willing to go a long way to achieve it. Their fault is their shame, as often feel as this desire for validation is selfish, and instead often find themselves in positions of power or leadership in order to draw this 
 
 ### Nexus Prime (CNxs)
-(PB+ PR-), “The Innocent”
+(PB+ PR-), “The Harlequin”
 **Goal:** Attraction (PB+), “My goal is for everyone to see me.”
-**Fault:** Negligent (PR-), “I struggle to reflect on my behavior”
+**Fault:** Negligent (FR-), “I struggle to reflect on my behavior”
 
 CNxs represents the archetype of “The Innocent.” Their internal monologue is often very quiet, and instead they direct this focus completely on the world around them. As a consequence, CNxs often struggles to comprehend the inner world of others, and fails to understand why they do not receive the same amount of attention which they devote to others. Additionally, this lack of an inner world reflects itself in how they struggle to reflect on their own behavior, for better or for worse.
 
 ### Alpha Trion (CAtr)
-(FR+ PB-)
+(FR+ PB-), “The Neutral”
 **Goal:** Freedom (FR+), “My goal is to no longer be needed.”
 **Fault:** Reclusive (PB-), “I struggle to center myself or others.”
 
@@ -277,7 +277,7 @@ CMli represents the archetype of “The Adherent.” They want to do everything 
 SPri represents the archetype of “The Fawn.” They follow the words of others—believing that they are good only when they are told they are good. Their greatest fear, however, is the looming danger of their own apathy. If they stop trusting the words of others, how will they possibly continue on?
 
 ### Megatronus Prime (SMga)
-(CN+ NR-)
+(CN+ NR-), “The Warden”
 **Conviction:** (CN+) “I believe goodness comes from us all helping others.”
 **Fear:** Dependence (NR-), “What if I am being selfish?”
 
@@ -291,11 +291,11 @@ SMga represents the archetype of “The Warden.” They believe that goodness ca
 SSol represents the archetype of “The Caretaker.” They are deeply tied to a small group of peers, and believe that their value comes from the praise and thanks they are given for taking care of this group. Their deepest fear is their shame—they are so focused on providing for those close to them, that they often worry that this assistance they provide might actually be a harm and not help.
 
 ### Quintessus Prime (SQnt)
-(DT+ FR-), “The Scholar”
+(DT+ FR-), “The Vagabond”
 **Conviction:** Caution (DT+), “I believe goodness comes only when we all leave each other alone.”
 **Fear:** Insecure (FR-), “I fear not knowing what I am.”
 
-SQnt represents the archetype of “The Scholar.” They push away their emotional core, instead believing that solitude and introspection can be used to control their feelings and keep them in line. Ironically, their greatest fear is their perceived lack of identity, caused by their refusal of their own emotions.
+SQnt represents the archetype of “The Vagabond.” They push away their emotional core, instead believing that solitude and introspection can be used to control their feelings and keep them in line. Ironically, their greatest fear is their perceived lack of identity, caused by their refusal of their own emotions.
 
 ### Liege Maximus (SLie)
 (PB+ MI-), “The Neonate”
@@ -305,83 +305,153 @@ SQnt represents the archetype of “The Scholar.” They push away their emotion
 SLie represents the archetype of “The Neonate.” They value their inner world being understood by others, and need their perspective and life story to be taken seriously. The worst thing one can do to a SLie is pretend that their life has had little meaning so far. The greatest fear of SLie is their own base instincts, rather than any more abstract concept. They fear getting hurt, they fear being unsafe, and the fear loosing access to resources. In many ways, SLie is very simplistic, but at the same time this allows them a deep level of connection to their emotions.
 
 ### Alchemius Prime (SAlc)
-(FR+)
-**Conviction:** Free-Spirited (FR+), “I believe goodness comes from having the choice to do anything.”
+(FR+ CT-), “The Spirit”
+**Conviction:** Free-Spirited (FR+), “I believe goodness comes from giving others the choice to do anything.”
 **Fear:** Megalomania (CT-), “I fear burning out on helping other people.”
+
+SAlc represents the archetype of “The Spirit.” They believe that they can best help others by given them a safe space to do whatever it is they need. Likewise, they fear tiring themselves out, and loosing the ability to go with the flow of what people need in the moment. Like many others they struggle to put their own needs and emotions first, but unlike others they are often aware that they are doing it.
+
 ### Micronus Prime (SMcr)
-(RF+ AT-)
+(RF+ AT-), “The Changeling”
 **Conviction:** Improvement (RF+), “I believe goodness comes from reflection.”
 **Fear:** Ridicule (AT-), “I fear being made fun of for who I am.”
+
+SMcr represents the archetype of “The Changeling.” They believe that to be good is to change whatever about you is bad. As a result, they are constantly attempting to better themselves to only feel emotions that fit with their moral code. They deeply fear falling behind in this effort, and being perceived by others to be wrong in any way.
+
 ### Onyx Prime (SOnx)
 (MI+ CN-), “The Self-Flagellant”
 **Conviction:** Masochism (MI+), “I belive goodness comes from being hurt.”
 **Fear:** Recuse (CN-), “I fear being removed from the conversation.”
 
 SOnx represents the archetype of “The Self-Flagellant.” They believe that the world is out to hurt them specifically, and believe that their goodness comes from their oppression by those around them. The greatest fear of SOnx, therefore is their view of the world being cast aside by others, and the potential that their suffering means nothing in the grand scheme of the world.
+
 ### Amalgamous Prime (SAmg)
-(CM+ PB-)
+(CM+ PB-), “The Succubus”
 **Conviction:** Empathy (CM+), “I believe goodness comes in the form of helping others” 
 **Fear:** Reclusion (PB-), “My fear is you seeing me and not liking it.”
+
+SAmg represents the archetype of “The Succubus.” Their view of themselves and what they want others to see are extremely different. They often put forward the face of a empathetic soul, always helpful and understanding. However, they do this to disguise what they believe is a horrible reality underneath. This “hidden self” is the greatest fear of SAmg, and they will go to great lengths to hide it from anyone they meet.
+
 ### Vector Prime (SVcr)
-(NR+ PR-)
+(NR+ PR-) “The Paragon”
 **Conviction:** Ambition (NR+), “I believe goodness comes from being the best.”
 **Fear:** Sycophancy (PR-), “I fear isolation.”
+
+SVcr represents the archetype of “The Paragon.” The derive great joy from being the best at something, and will take any and every chance to prove themselves better than their peers in the skills they believe hold value. Conversely, their greatest fear is isolation, or existing in a space where there is no one to compare themselves to. In extreme cases an SVcr might even “dumb down” their skill in an effort to keep their peers engaged in the competition.
+
 ### Nexus Prime (SNxs)
-(AP+ DT-)
-**Conviction:** Ambivalence(AP+), “I believe goodness comes from not caring too much.”
+(AP+ DT-), “The Jester”
+**Conviction:** Ambivalence (AP+), “I believe goodness comes from not caring too much.”
 **Fear:** Abandonment (DT-), “I fear being abandoned.”
+
+SNxs represents the archetype of “The Jester.” They believe that a good person doesn’t care too much about what’s going on, and is instead focused on everyone having a good time. This is because they fear nothing more than their peers abandoning them for disagreeing. Often very positive and laid-back, and very prone to falling in with bad crowds.
+
 ### Alpha Trion (SAtr)
-(ET+ RF-)
+(ET+ RF-), “The Judge”
 **Conviction:** Morality (ET+), “I believe goodness comes from being proven right.”
 **Fear:** Negligence (RF-), “I fear being caught unaware.”
+
+SAtr represents the archetype of “The Judge.” They chase being proven right above all other virtues, and often struggle to see other sides in issues that are not so black and white. Their greatest fear is being caught unaware, and having to face the realization that there is something they don’t know thus proving that they are not always correct.
+
 ### Meliorous Prime (SMli)
-(PR+ CM-)
+(PR+ CM-), “The Soothsayer”
 **Conviction:** Isolation (PR+), “I believe goodness comes from having space to think.”
 **Fear:** Pessimism (CM-), “I fear one day believing that no one helps each other.”
+
+SMli represents the archetype of “The Soothsayer.” They believe that they do good by giving others the chance to reflect on what they consider to be bad decisions. They are very prone to handing out criticism, or tossing away peers who refuse to change their mind. There greatest fear is losing their optimistic outlook on life—that one day they might decide that there are some people who can never change.
 
 ---
 ## Morph Lineages
 ### Prima (MPri)
+(PB+ CM), “The Prisoner”
 **Presence:** Attractive (PB+), “I need to present myself in a way people love.”
-**Blind Spot:** 
+**Blind Spot:** Compassion (CM), “I fail to understand that people like me.”
+
+MPri represents the archetype of “The Prisoner.” They desperately want to be seen as someone others can love and appreciate, often being willing to cut away parts of their identity to better fit a mold. Their blind spot is Compassion, and recognizing that there are people out there who are like them and will value them as they are.
+
 ### Megatronus Prime (MMga)
+(RF+ PR), “The Architect”
 **Presence:** Introspection (RF+), “I need to present myself as someone striving for a better world.”
 **Blind Spot:** Privacy (PR), “I fail to recognize my own emotions in a vacuum.”
-### Solus Prime (S)
-**Presence:**
+
+MMga represents the archetype of “The Architect.” They want more than anything to be seen as the first person to go to on how to improve the lives of people everywhere. They try to present themselves as many good characteristics: kind, well-read, and even might try to lie about who they are or where they came from. Their blindspot is Privacy, and the idea that it is okay for them to openly be who they are in private, or even that they do not need to fix the world by themself.
+
+### Solus Prime (MSol)
+(CM+ FR), “The Laborer”
+**Presence:** Empathetic (CM+), “I must present myself as someone who can always help.”
 **Blind Spot:** Freedom (FR), “I fail to recognize that I am free to do as I please.”
-### Quintessus Prime (Q)
-**Presence:**
-**Blind Spot:** Attention (AT+), “I fail to recognize that people see me and what I do.”
-### Liege Maximus (L)
-**Presence:**
+
+MSol represents the archetype of “The Laborer.” They want to be seen as someone who helps others, often going so far as to make themselves as available as possible for anyone who might need them. The consequence of this is that their blind spot is their own freedom—so focused on making time for others that they fail to realize that some of this time could belong to themselves as well.
+
+### Quintessus Prime (MQnt)
+(AP+ AT), “The Drifter”
+**Presence:** Ambivalent (AP+), “I will present myself as someone who does not care.”
+**Blind Spot:** Attention (AT), “I fail to recognize that people see me and what I do.”
+
+MQnt represents the archetype of “The Drifter.” They like to present themselves as someone who does not care about anything that happens and whether or not it benefits them. They often give people the answers they think they want to hear, and move on with their day. As a consequence, they fail to recognize that this outer persona which they give to others has a real affect on their lives and perceptions of them. A MQnt can go months talking to someone and then be surprised to find out the other actually likes them and thinks about them when they aren’t around.
+
+### Liege Maximus (MLie)
+(NR+ RF), “The Divine”
+**Presence:** Ambitious (NR+), “I need to present myself as someone who should always come first.”
 **Blind Spot:** Reflection (RF), “I fail to see that I do not reflect, nor do I realize that other people are capable of reflection.”
-### Alchemius Prime (MAl)
-(CT+ CN)
+
+MLie represents the archetype of “The Divine.” The present themselves as the most important person in any room, and often grossly exaggerate their own achievements. They believe everyone—themselves included—to be static entities incapable of change. They do not stop to consider if the person who hurt them years ago has improved and changed, nor do they believe that apologies are guaranteed to mean that someone is sorry. As a consequence, however, they also hold themselves to this same standard, and do not believe themselves as capable of making up for past mistakes either.
+
+### Alchemius Prime (MAlc)
+(CT+ CN), “The Demon”
 **Presence:** Philanthropist (CT+) "I am supposed to present myself as someone who helps other begrudgingly."
 **Blind Spot:** Connection (CN), “I fail to realize I am wanted.”
-### Micronus Prime (Mc)
-**Presence:**
-**Blind Spot:**
-### Onyx Prime (O)
-**Presence:**
-**Blind Spot:**
-### Amalgamous Prime (Am)
-(CT+ MI)
-**Presence:** Proximity-Seeking (CT+), "I need to present myself as a team player who is friends with everyone" 
+
+MAlc represents the archetype of “The Demon.” They try to protect themselves by creating the vision of someone who does not want to help others while not actually being against helping. They often agree to do something only when begged to do so, and often love to complain about the task while doing it, especially if they don’t actually mind it. Their greatest blindspot is that they fail to realize that there are people in their lives that do in fact care about them and want to help them, and that they don’t actually have to create the defense of not wanting to help to not be taken advantage of or seen as soft.
+
+### Micronus Prime (MMcr)
+(ET+ AP), “The Arbiter”
+**Presence:** Moral (ET+), “I will present myself as someone who values morality about all else.”
+**Blind Spot:** Apathy (AP), “I fail to understand that it is okay to not care.”
+
+MMcr represents the archetype of “The Arbiter.” They want to be viewed as impartial, while also failing to understand that it is okay to not have an opinion on every issue brought to them. They are often valued by others for giving good judgement and feedback without being unreasonable. They are however often prone to overworking themselves, and struggle to find hobbies outside of their function.
+
+### Onyx Prime (MOnx)
+(DT+ ET), “The Loner”
+**Presence:** Cautious (DT+), “I will present myself as someone who does not need other people.”
+**Blind Spot:** Ethics (ET), “I fail to consider if something might be egocentric or altruistic.”
+
+MOnx represents the archetype of “The Loner.” They want to be respected as an individual above everything else, and will go great lengths to scare off anyone they feel is attempting to control them in any way. Perhaps fortunately for them, the rarely consider how their actions affect those around them, leading others to give them a wide berth.
+
+### Amalgamous Prime (MAmg)
+(CN+ MI), “The Daredevil”
+**Presence:** Proximity-Seeking (CN+), "I need to present myself as a team player who is friends with everyone" 
 **Blind Spot:** Misery (MI), “I fail to see how things hurt me.”
-### Vector Prime (V)
-**Presence:**
-**Blind Spot:**
-### Nexus Prime (N)
-**Presence:**
+
+MAmg represents the archetype of “The Daredevil.” They want to be seen as a team-player, someone who is easy to get along with and to like. They are often fun-loving, although they can struggle to know where the boundary is between having fun and putting people in danger. That being said, they often fail to see how they put themselves in danger just as much, and are often hurt when others call them out for potentially hurting them, when they didn’t make it so that others were in any more danger of being hurt than themselves.
+
+### Vector Prime (MVcr)
+(MI+ PB), “The Martyr”
+**Presence:** Masochist (MI+), “I will present myself as someone who doesn’t mind the pain.”
+**Blind Spot:** Publicity (PB), “I fail to understand that people do not see my inner world.”
+
+MVcr represents the archetype of “The Martyr.” They don’t want to be seen as someone who cannot handle being a little upset, or being pushed around a bit. They can handle a little rough-housing, it’s fine. This is because they absolutely do dislike being upset or pushed around, but fear that voicing these concerns would only set them up to receive more teasing and rough-housing. They fail to see that what they never communicate can never be actioned on, and therefore they are trapped in a hell of their own making.
+
+### Nexus Prime (MNxs)
+(AT+ DT), “The Fool”
+**Presence:** Validation-Seeking (AT+) “I need to present myself as someone who needs their validation.”
 **Blind Spot:** Detachment (DT), “I fail to realize that others have individual worlds that don’t involve me.”
-### Alpha Trion (At)
-**Presence:**
+
+MNxs represents the archetype of “The Fool.” They are the most self-aware of the morph systems, wanting to present themselves as exactly who they are so that they are given validation that what they are is the right kind of thing to be. As a consequence, they often fail to realize that others are not doing the exact same thing, and often have much more complicated internal battles over what they present themselves as versus what they want.
+
+### Alpha Trion (MAtr)
+(PR+ NR), “The Wizard”
+**Presence:** Isolationist (PR+), “I will present myself as someone who needs space.”
 **Blind Spot:** Narcissism (NR), “I fail to realize that I value my ego above other things.”
-### Meliorous Prime (Ml)
-**Presence:** Free-Spirited (Freedom), “You see me as someone who doesn’t know what to do.” (Fix/Fix/Fix)
-**Blind Spot:** 
+
+MAtr represents the archetype of “The Wizard.” They want to be seen as someone mysterious and wise, possessing a deep knowledge that others are willing to fight to receive. However, they fail to realize that the core of this desire is their own ego, not any sort of selfless desire of their own making. This results in them often being surprised as to why those around them view them so negatively, and they often have to pick up on how to meet others in the middle in order to receive the recognition they feel they deserve.
+
+### Meliorous Prime (MMli)
+(FR+ CT), “The Visionary”
+**Presence:** Free-Spirited (FR+), “I will present myself as someone as free as the wind.”
+**Blind Spot:** Contribution (CT), “I fail to see that people thank me for what I do.”
+
+MMli represents the archetype of “The Visionary.” They like to be seen as someone with a rich and complex inner world, existing on a plane of thought that no others have yet achieved. They might spend money quickly in order to seem that they don’t care too much about material possessions, or disappear for long periods of time in order to “find themselves” in some remote corner of the universe. However, what MMli fails to see is that their approach to life means that they are always someone able to give advice or a unique perspective, and that the people in their life remain despite their wildness because they are thankful for them and who they are.
 
 ---
 

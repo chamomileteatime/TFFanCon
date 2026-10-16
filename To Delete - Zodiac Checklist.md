@@ -64,32 +64,56 @@ CN
 
 ## Presence
 Used:
+AT *
+NR
+PR
+RF
+DT
+MI
+CM
+CT
+PB
+CN
+FR
+
 Unused:
+
+
+
+
+
+
+
+
+
+
+ET
+
+AP
+
+## Blind Spot
+Used:
 AT
 NR
 PR
+RF
 DT
 MI
-RF
 CM
-CT
 PB
 CN
 ET
 FR
 AP
 
-## Blind Spot
-Used:
 Unused:
-AT
-NC
-PR
-RF
-CM
+
+
+
+
+
 CT
-PB
-CN
-ET
-FR
-AP
+
+
+
+
