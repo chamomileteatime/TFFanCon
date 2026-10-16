@@ -216,7 +216,7 @@ CLie represents the archetype of “The King.” They want to be considered a ra
 **Goal:** Empathy (CM+), “My goal is to help you.”
 **Fault:** Paranoia (MI-), “I struggle for a long time if you hurt me.”
 
-CAlc represents the archetype of “The Spirit.” They derive great joy from helping others, but any slight against them is taken as a sign to never offer their assistance again. They are deeply loyal, and no amount of flattery can ever hope to recover the slight they feel they received. Despite this, actually pushing them beyond that line is often surprisingly difficult, and the gifts they bring are well-worth a little bit of sucking up.
+CAlc represents the archetype of “The Angel.” They derive great joy from helping others, but any slight against them is taken as a sign to never offer their assistance again. They are deeply loyal, and no amount of flattery can ever hope to recover the slight they feel they received. Despite this, actually pushing them beyond that line is often surprisingly difficult, and the gifts they bring are well-worth a little bit of sucking up.
 
 ### Micronus Prime (CMcr)
 (ET+ FR-), “The Mediator”
