@@ -178,10 +178,19 @@ A null is a dialogue which has no effect on the broader self at all. It most oft
 ## Code Lineages
 ### Prima (CPri)
 (CT+ AT-), “The Leader”
-**Goal:** Philanthropy (CN+), “My goal is to help these people.”
+**Goal:** Philanthropy (CT+), “My goal is to help these people.”
 **Fault:** Self-Conscious (AT-), “I struggle to face negative attention.”
 
 CPri represents the archetype of “The Leader.” They want to help people through control, offering them guidance before taking over the situation if they do not follow it. This desire for control also leads them to struggle with criticism, as it challenges not only their view of the world, but what they believe their value to others to be.
+
+CPri has a tendency to come off as very paternalistic; in its effort to retain control without inviting negative attention, it takes a more "I know what's good for you even if you don't" attitude, as opposed to a more authoritarian "my way or the highway."
+
+CPri is uncomfortable in positions of helplessness or absence of authority; the successful assertion of authority reinforces CPri's sense of security and provides a feeling of stability within a perceived hierarchy. 
+
+CPri is prone to different types of hierarchial thinking, ranging from the more social approach ("I am more influential/less significant than you") to the physical approach ("I am stronger/weaker than you") to the personable approach ("I am more wanted/less wanted than you") to the overarching "I have more value/less value than you." All of these end with the conclusion, "...and so you should trust me to guide you in the right direction."
+
+*Enneagram correlations:* SO1, SX1, SO2, SO8
+*Potential assignments:* **Prowl**, Fortress Maximus, Optimus Prime
 
 ### Megatronus Prime (CMga)
 (MI+ CT-), “The Insurgent”
@@ -190,12 +199,24 @@ CPri represents the archetype of “The Leader.” They want to help people thro
 
 CMga represents the archetype of the “Insurgent.” They often have an unclouded and perceptive view of the world around them. But rather than operate on their own, they often try to force others into seeing the world the way they do. They believe in a might-makes-right mentality, and will goad others into arguments and fights in an attempt to communicate with them. Because of this, they struggle to help those around them outside of their violent reactions, and often need someone around them able to lead them away from bad decisions to operate normally.
 
+CMga's incredible confidence in its own perception of the world is reflected in its desire to see that perception realized by others, and to beckon reactions out of them; CMga seeks to draw out very reactive emotions and loud, violent proof their worldview is indisputably true.
+
+*Enneagram correlations:* SX1, SX2, SX6, SO8, SX8
+*Potential assignments:* Overlord
+
 ### Solus Prime (CSol)
 (CN+ PR-), “The Navigator”
 **Goal:** Proximity (CN+), “My goal is to keep the peace.”
 **Fault:** Sycophantic (PR-), “I often struggle being alone, I need to be helpful.”
 
 CSol represents the archetype of “The Navigator.” They often surround themselves with peers they feel a responsibility over, and view each and every disagreement as their issue to solve. They find themselves without a calling when left alone, and therefore will do anything and everything they can think of to keep their peers in close proximity, regardless of others’ wants or need.
+
+CSol struggles to advocate for itself, but finds ease in advocating for the group/those within the group. CSol may make itself out to be overly-competent or aware to quell any feelings of distrust before they spiral into conflict.
+
+CSol tends to be more willing to suppress its desires/goals/feelings in favor of integrating into the group, and over time this may manifest as a pattern of ignorance toward the Spark.
+
+*Enneagram correlations:* SO9, SP9, SX9, SP3, SX3, SO7
+*Potential assignments:* Chromedome, Minimus, First Aid
 
 ### Quintessus Prime (CQnt)
 (PR+ NR-), “The Wanderer”
@@ -204,12 +225,22 @@ CSol represents the archetype of “The Navigator.” They often surround themse
 
 CQnt represents the archetype of “The Wanderer.” They feel that they work best alone, and struggle to achieve their function when forced in close proximity with others. At the same time, they often consider themselves to operate more as a machine than a person—forgetting they have their own needs and desires and isolating themselves completely.
 
+CQnt tend to view others as inefficient, overbearing parties; they believe that if something can be done alone, it is better done alone.
+
+*Enneagram correlations:* SP1, SO5, SP5, SX5, SO9, SX9
+*Potential assignments:* Perceptor, Tarn, Skyfire
+
 ### Liege Maximus (CLie)
 (NR+ DT-), “The King”
 **Goal:** Ambition (NR+), “My goal is to be better than you.” 
 **Fault:** Abandoned (DT-), “I struggle when I am left alone.”
 
 CLie represents the archetype of “The King.” They want to be considered a rank above all of their peers, but at the same time struggle in the face of isolation. They are often brash and abrasive, but quick to take a step back when they feel they have crossed a line, even if they often struggle to apologize for it with words. 
+
+CLie struggles to recognize the actions and feelings of others unless they are either overly-transparent or directed toward CLie itself. This manifests as a constant search for reasons as to why CLie is "better", or deserves more careful attention, than others. CLie is nervous regarding any perceived abandonment or lack of care, so they overcompensate in order to reaffirm their deserving of existence.
+
+*Enneagram correlations:* SP1, SO2, SP2, SO3, SP3
+*Potential assignments:* Getaway
 
 ### Alchemius Prime (CAlc)
 (CM+ MI-), “The Angel”
@@ -218,12 +249,20 @@ CLie represents the archetype of “The King.” They want to be considered a ra
 
 CAlc represents the archetype of “The Angel.” They derive great joy from helping others, but any slight against them is taken as a sign to never offer their assistance again. They are deeply loyal, and no amount of flattery can ever hope to recover the slight they feel they received. Despite this, actually pushing them beyond that line is often surprisingly difficult, and the gifts they bring are well-worth a little bit of sucking up.
 
+CAlc tends to attach itself to individuals rather than ideologies. Their perceptions of their attachments may not accurately reflect reality, or they may come off as overly optimistic or idealistic about their attachments.
+
+*Enneagram correlations:* SO2, SX2, SX4, SO6, SX6
+*Potential assignments:* 
+
 ### Micronus Prime (CMcr)
 (ET+ FR-), “The Mediator”
 **Goal:** Morality (ET+), “My goal is to always choose the right thing.”
 **Fault:** Insecure (FR-), “I struggle to feel I know what to do.”
 
 CMcr represents the archetype of “The Mediator.” They want to do the right thing for everyone involved, often attempting to find a middle ground between their own desires and those of others. Because of this draw to debate, they often find themselves frequently participating in relationships of give and take. Their fault is that they rely heavily on this sense of morality as a double-fix trait, and struggle to navigate situations where debate is not an option.
+
+*Enneagram correlations:* SO1, SO7, SO9
+*Potential assignments:*
 
 ### Onyx Prime (COnx)
 (AP+ CM-), “The Hermit”
@@ -232,12 +271,18 @@ CMcr represents the archetype of “The Mediator.” They want to do the right t
 
 CAmg represents the archetype of “The Hermit.” They often have a negative perception of the world, wanting to be left alone. Their most notable trait is often how they lie both to themself and others about their goals and thoughts, and fail to realize what they want in the face of giving in to the desires of others. Likewise, they judge those who center themselves, be it through selfish means or by having extravagant goals or codes of honor.
 
+*Enneagram correlations:* SP4, SO5, SP5, SP6, SP9
+*Potential assignments:*
+
 ### Amalgamous Prime (CAmg)
 (DT+ CN-), “The Listener”
 **Goal:** Caution (DT+), “My goal is to be left alone.”
 **Fault:** Recusant (CN-), “I struggle to not judge people helping each other.”
 
 CAmg represents the archetype of “The Listener.” They center others in every way, and therefore struggle to understand their own needs. They feel that the altruistic lifestyle is to exist as a person only in private, and judge those who wear their heart on their sleeve, and those who support them,
+
+*Enneagram correlations:* SO6, SP6, SO7
+*Potential assignments:*
 
 ### Vector Prime (CVcr)
 (AT+ ET-), “The Mutineer”
@@ -246,12 +291,18 @@ CAmg represents the archetype of “The Listener.” They center others in every
 
 CVcr represents the archetype of “The Mutineer.” They desire validation for their actions over everything, and are willing to go a long way to achieve it. Their fault is their shame, as often feel as this desire for validation is selfish, and instead often find themselves in positions of power or leadership in order to draw this 
 
+*Enneagram correlations:* SO2, SO3, SP3, SO4, SP4, SO7
+*Potential assignments:*
+
 ### Nexus Prime (CNxs)
 (PB+ PR-), “The Harlequin”
 **Goal:** Attraction (PB+), “My goal is for everyone to see me.”
 **Fault:** Negligent (FR-), “I struggle to reflect on my behavior”
 
 CNxs represents the archetype of “The Innocent.” Their internal monologue is often very quiet, and instead they direct this focus completely on the world around them. As a consequence, CNxs often struggles to comprehend the inner world of others, and fails to understand why they do not receive the same amount of attention which they devote to others. Additionally, this lack of an inner world reflects itself in how they struggle to reflect on their own behavior, for better or for worse.
+
+*Enneagram correlations:* SP7, SX7, SP8, SX8
+*Potential assignments:*
 
 ### Alpha Trion (CAtr)
 (FR+ PB-), “The Neutral”
@@ -260,12 +311,18 @@ CNxs represents the archetype of “The Innocent.” Their internal monologue is
 
 CAtr represents the archetype of “The Neutral.” They feel that they owe this neutrality to the world around them, but deeply desire the day that they finally feel free to no longer be necessary, despite this burden existing entirely in their own head. The neutrality of CAtr also means that they struggle to center anyone, often attempting to solve each issue from an entirely neutral and logical angle. 
 
+*Enneagram correlations:* SP5, SP6, SP7, SX7, SP8, SP9
+*Potential assignments:*
+
 ### Meliorous Prime (CMli)
 (RF+ AP-), “The Adherent”
 **Goal:** Introspection (RF+), “My goal is to get better.”
 **Fault:** Obsessive (AP-), “I struggle with the fear that I don’t care enough.”
 
 CMli represents the archetype of “The Adherent.” They want to do everything they can to help people, not realizing that their concept of “help” is so focused on internal betterment that they often fail to make real change in the outside world. They are often constantly checking their own internal dialogue against their strict moral code, and holding themselves to a standard of moral purity that is nearly impossible to reach. They often find themselves going groups with clear goals and/or strict moral codes which they can hold themselves to.
+
+*Enneagram correlations:* SP1, SX1, SP3, SO6, SP6
+*Potential assignments:*
 
 ---
 ## Spark Lineages
@@ -276,12 +333,18 @@ CMli represents the archetype of “The Adherent.” They want to do everything 
 
 SPri represents the archetype of “The Fawn.” They follow the words of others—believing that they are good only when they are told they are good. Their greatest fear, however, is the looming danger of their own apathy. If they stop trusting the words of others, how will they possibly continue on?
 
+*Enneagram correlations:* SX3, SO4, SO6, SP6
+*Potential assignments:*
+
 ### Megatronus Prime (SMga)
 (CN+ NR-), “The Warden”
 **Conviction:** (CN+) “I believe goodness comes from us all helping others.”
 **Fear:** Dependence (NR-), “What if I am being selfish?”
 
 SMga represents the archetype of “The Warden.” They believe that goodness can be present in all people—but only if they are serving the needs of others. Their greatest fear is that the help they work so hard to give—and convince others to give, comes from a selfish desire within them, rather than true altruism. The concept that they are not operating from true goodness and moral purity deeply concerns them, as does the sight of those incapable of helping others because they need help themselves.
+
+*Enneagram correlations:* SO7, SO8
+*Potential assignments:*
 
 ### Solus Prime (SSol)
 (CT+ ET-), “The Caretaker”
@@ -290,12 +353,18 @@ SMga represents the archetype of “The Warden.” They believe that goodness ca
 
 SSol represents the archetype of “The Caretaker.” They are deeply tied to a small group of peers, and believe that their value comes from the praise and thanks they are given for taking care of this group. Their deepest fear is their shame—they are so focused on providing for those close to them, that they often worry that this assistance they provide might actually be a harm and not help.
 
+*Enneagram correlations:* SO1, SX1, SO2, SX2, SO6, SP6, SO7
+*Potential assignments:*
+
 ### Quintessus Prime (SQnt)
 (DT+ FR-), “The Vagabond”
 **Conviction:** Caution (DT+), “I believe goodness comes only when we all leave each other alone.”
 **Fear:** Insecure (FR-), “I fear not knowing what I am.”
 
 SQnt represents the archetype of “The Vagabond.” They push away their emotional core, instead believing that solitude and introspection can be used to control their feelings and keep them in line. Ironically, their greatest fear is their perceived lack of identity, caused by their refusal of their own emotions.
+
+*Enneagram correlations:* SP1, SP8, SP9
+*Potential assignments:*
 
 ### Liege Maximus (SLie)
 (PB+ MI-), “The Neonate”
@@ -304,12 +373,18 @@ SQnt represents the archetype of “The Vagabond.” They push away their emotio
 
 SLie represents the archetype of “The Neonate.” They value their inner world being understood by others, and need their perspective and life story to be taken seriously. The worst thing one can do to a SLie is pretend that their life has had little meaning so far. The greatest fear of SLie is their own base instincts, rather than any more abstract concept. They fear getting hurt, they fear being unsafe, and the fear loosing access to resources. In many ways, SLie is very simplistic, but at the same time this allows them a deep level of connection to their emotions.
 
+*Enneagram correlations:* SO4, SX4, SP4, SP7, SX7
+*Potential assignments:*
+
 ### Alchemius Prime (SAlc)
 (FR+ CT-), “The Spirit”
 **Conviction:** Free-Spirited (FR+), “I believe goodness comes from giving others the choice to do anything.”
 **Fear:** Megalomania (CT-), “I fear burning out on helping other people.”
 
 SAlc represents the archetype of “The Spirit.” They believe that they can best help others by given them a safe space to do whatever it is they need. Likewise, they fear tiring themselves out, and loosing the ability to go with the flow of what people need in the moment. Like many others they struggle to put their own needs and emotions first, but unlike others they are often aware that they are doing it.
+
+*Enneagram correlations:* 
+*Potential assignments:*
 
 ### Micronus Prime (SMcr)
 (RF+ AT-), “The Changeling”
@@ -318,12 +393,18 @@ SAlc represents the archetype of “The Spirit.” They believe that they can be
 
 SMcr represents the archetype of “The Changeling.” They believe that to be good is to change whatever about you is bad. As a result, they are constantly attempting to better themselves to only feel emotions that fit with their moral code. They deeply fear falling behind in this effort, and being perceived by others to be wrong in any way.
 
+*Enneagram correlations:* SP1, SP3, SX3, SO6
+*Potential assignments:*
+
 ### Onyx Prime (SOnx)
 (MI+ CN-), “The Self-Flagellant”
 **Conviction:** Masochism (MI+), “I belive goodness comes from being hurt.”
 **Fear:** Recuse (CN-), “I fear being removed from the conversation.”
 
 SOnx represents the archetype of “The Self-Flagellant.” They believe that the world is out to hurt them specifically, and believe that their goodness comes from their oppression by those around them. The greatest fear of SOnx, therefore is their view of the world being cast aside by others, and the potential that their suffering means nothing in the grand scheme of the world.
+
+*Enneagram correlations:* SO4, SX4, SO6, SP6
+*Potential assignments:*
 
 ### Amalgamous Prime (SAmg)
 (CM+ PB-), “The Succubus”
@@ -332,12 +413,18 @@ SOnx represents the archetype of “The Self-Flagellant.” They believe that th
 
 SAmg represents the archetype of “The Succubus.” Their view of themselves and what they want others to see are extremely different. They often put forward the face of a empathetic soul, always helpful and understanding. However, they do this to disguise what they believe is a horrible reality underneath. This “hidden self” is the greatest fear of SAmg, and they will go to great lengths to hide it from anyone they meet.
 
+*Enneagram correlations:* SO3, SP3, SX3, SO7
+*Potential assignments:*
+
 ### Vector Prime (SVcr)
 (NR+ PR-) “The Paragon”
 **Conviction:** Ambition (NR+), “I believe goodness comes from being the best.”
 **Fear:** Sycophancy (PR-), “I fear isolation.”
 
 SVcr represents the archetype of “The Paragon.” The derive great joy from being the best at something, and will take any and every chance to prove themselves better than their peers in the skills they believe hold value. Conversely, their greatest fear is isolation, or existing in a space where there is no one to compare themselves to. In extreme cases an SVcr might even “dumb down” their skill in an effort to keep their peers engaged in the competition.
+
+*Enneagram correlations:* SO1, SO3, SO5, 
+*Potential assignments:*
 
 ### Nexus Prime (SNxs)
 (AP+ DT-), “The Jester”
@@ -346,12 +433,18 @@ SVcr represents the archetype of “The Paragon.” The derive great joy from be
 
 SNxs represents the archetype of “The Jester.” They believe that a good person doesn’t care too much about what’s going on, and is instead focused on everyone having a good time. This is because they fear nothing more than their peers abandoning them for disagreeing. Often very positive and laid-back, and very prone to falling in with bad crowds.
 
+*Enneagram correlations:* SX2, SX3, SP7, SX7
+*Potential assignments:*
+
 ### Alpha Trion (SAtr)
 (ET+ RF-), “The Judge”
 **Conviction:** Morality (ET+), “I believe goodness comes from being proven right.”
 **Fear:** Negligence (RF-), “I fear being caught unaware.”
 
 SAtr represents the archetype of “The Judge.” They chase being proven right above all other virtues, and often struggle to see other sides in issues that are not so black and white. Their greatest fear is being caught unaware, and having to face the realization that there is something they don’t know thus proving that they are not always correct.
+
+*Enneagram correlations:* SO1, SP1, SX1, SO5, SP5, SX5, SX6, SP8
+*Potential assignments:*
 
 ### Meliorous Prime (SMli)
 (PR+ CM-), “The Soothsayer”
