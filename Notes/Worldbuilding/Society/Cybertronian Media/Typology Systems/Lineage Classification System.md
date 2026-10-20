@@ -104,41 +104,54 @@ There is no concept of a time for work and a time for play with M-Mga. Even at t
 
 ---
 ## Solus Prime
-### C-Sol
-#### Features — ??+ ??-
-**Goal:** “txt txt txt.”
-**Fault:** “txt txt txt.”
+Solus lineages are focused on community and compassion. They often form tight-knit groups around themselves, and are the happiest when surrounded by people whom they care for. The counter-type, M-Sol, differs by developing the “inner circle” which is central to both C-Sol and S-Sol’s social lives. Instead, M-Sol offers out assistance altruistically, going so far as being willing to offer it even to an enemy.
+### C-Sol — “The Navigator”
+#### Features — Cn+ pr-
+**Goal:** ““My goal is to keep the peace.”
+**Fault:** “I often struggle being alone, I will find ways to be helpful.”
 
 #### Description
-txt txt txt txt.
+C-Sol view each and every disagreement as their issue to solve. They surround themselves with peers they feel a responsibility over, and view each disagreement in the group to be fault of their own. C-Sol conversely struggles to advocate for itself, finding ease only in advocating for the needs of the group.
+
+C-Sol finds itself without a calling when left alone, and therefore will do anything and everything it can to keep their peers in close proximity, regardless of others’ wants or need. C-Sol may likewise make itself out to be overly-competent or aware to quell any feelings of distrust before they spiral into conflict.
+
+C-Sol tends to be more willing to suppress its desires, goals, and feelings in favor of integrating into the group. Over time this may manifest as a pattern of ignorance toward the Spark, as they continue to center the emotions of others over their own.
+
+#### Additional Information
+*Enneagram correlations:* SO9, SP9, SX9, SP3, SX3, SO7
+*Potential assignments:* **Chromedome** (Core), First Aid
+
+### S-Sol — “The Caretaker”
+#### Features — CT+ et-
+**Conviction:** “I believe my value comes from others viewing me as good for helping them.”
+**Fear:** “I fear I am doing the wrong thing.”
+
+#### Description
+S-Sol is deeply tied to a small group of peers whom they view as their “inner circle.” S-Sol believes that its value comes from the praise and thanks they are given for taking care of their inner circle. This group therefore comes first in everything S-Sol considers. Even major life decisions are considered against the effect they would have on S-Sol’s closest peers, sometimes resulting in S-Sol stagnating themselves to the benefit of others.
+
+S-Sol’s compassion is, in truth, surprisingly egocentric. S-Sol loves praise, in a way abnormal for a Solus lineage. In truth, S-Sol helpful attitude is how they protect themselves from others. Their inner circle is a form of self-preservation, tying themselves as best they can to a group that they feel can protect them from their fears. This safety feels superficial to them, however, and they often feel that they are caring for their peers for all the wrong reasons.
+
+S-Sol struggles with being an enabler. They often struggle to tell if those in their inner circle are using their aid to forego improving themselves, and therefore might either go too far in the name of assistance, or pull back on their assistance frequently to test their peers for self-perseverance. 
+
+#### Additional Information
+*Enneagram correlations:*  SO1, SX1, SO2, SX2, SO6, SP6, SO7
+*Potential assignments:* **Drift** (Core),
+
+### M-Sol — “The Forebear”
+#### Features — Cm+ fr
+**Presence:**  “I must present myself as someone ready and willing to help.”
+**Blind Spot:** “I fail to recognize that I am free to do as I please.”
+
+#### Description
+M-Sol wants to be seen as someone who helps others. They feel that this assistance is a right owed to everyone—not just the people they like nor the people they feel capable of helping. M-Sol is a deeply altruistic lineage, often the quickest to believe that people can change.
+
+M-Sol tries to make itself as available as possible for anyone who might need them. Even should they not particularly like a peer, they view their own assistance to be something selfish to refuse to provide. Their willingness to lend an ear develops a wisdom overtime not native to most Morph systems, as they listen and value all struggles, even those wildly different from their own. M-Sol gains understanding into their peers as they age, developing a comprehensive worldview which rivals that of the Megatronus lineages.
+
+M-Sol’s greatest struggle is its failure to recognize their own freedom. It is a lineage prone to burnout, as it often forgets that it has needs of its own which need addressing as well. They are willing to provide guidance to anyone, even their own greatest enemies. This can be both a benefit and a danger to M-Sol, as they often end up making friends in unlikely places.
 
 #### Additional Information
 *Enneagram correlations:*
-*Potential assignments:*
-
-### S-Sol
-#### Features — ??+ ??-
-**Conviction:** “txt txt txt.”
-**Fear:** “txt txt txt.”
-
-#### Description
-txt txt txt txt.
-
-#### Additional Information
-*Enneagram correlations:*
-*Potential assignments:*
-
-### M-Sol
-#### Features — ??+ ??
-**Presence:** “txt txt txt.”
-**Blind Spot:** “txt txt txt.”
-
-#### Description
-txt txt txt txt.
-
-#### Additional Information
-*Enneagram correlations:*
-*Potential assignments:*
+*Potential assignments:* Minimus Ambus
 
 ---
 
