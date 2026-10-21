@@ -2,6 +2,7 @@
 # Deviations in Cybertronian Biology
 ## Spark Deviations
 Spark Deviations are significantly more common that Frame Deviations, yet are also much less understood. The nature of the spark is still a mystery to Cybertron in many ways, making comprehensive study of what causes these abnormalities a near-impossibility.
+
 ### Forged Bonds
 #### Split-Spark Bonds
 Split-spark bonds are somewhat common, at least for an abnormality, but yet remain highly misunderstood. Part of this comes from the Cybertronian distaste for attachment, as split-spark twins are forged as attached to one another as any Cybertronian could ever be.
