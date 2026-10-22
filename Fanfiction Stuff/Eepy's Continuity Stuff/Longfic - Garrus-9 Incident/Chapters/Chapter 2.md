@@ -16,3 +16,46 @@ Tarn, Decepticon Justice Division
 DC:DJD/DMS-TRN-06:CIVIL/
 
 ---
+
+**Attached Document: Garrus_9_Research.pdf**
+*Author: “Nickel of Tyger Pax | DC:DJD/NCK-TYG-0X:EXOTIC/*
+
+- building has an EMF
+- analysis of the collapsed part of the structure
+	- context: overlord crushed a significant portion of the northern side of the prison down on a majority of the decepticon prisoners. who died.
+	- feel free to get gorey with this
+- chemical analysis of the pink liquid leaking from the walls—it is, in fact, energon.
+- medic’s best attempt at cerebral dowsing, no success. maybe even an attempt to plug into the structure somehow? that seems to prove there’s no active & conscious thought.
+- have found the general area of the spark using the EMF
+	- Note that this is probably wrong because the spark is with the head. what their sensors are picking up on is the allspark
+- analysis of power draw indicates that the titan is most likely dormant—unsure bc Nickel has no way of knowing what the actual power draw of a titan should look like awake vs dormant
+- attempts to contact the titan in any way have failed
+	- maybe some consideration as to whether Tarn’s outlier could affect the titan?
+- if you can add a joke about nickel sending tarn out to find the tcogs like a fucking drug-addicted bloodhound that would be amazing. Just like “yeah we need to find the tcogs next. I wonder if i can just sic tarn on that.”
+
+
+---
+
+Megatron > tarn
+
+---
+
+Nickel > Soundwave
+
+---
+
+text convo djd line
+
+---
+
+tarn > megatron
+
+---
+
+nickel supplies request
+
+---
+
+supply request answer
+
+---
