@@ -155,6 +155,54 @@ M-Sol’s greatest struggle is its failure to recognize their own freedom. It is
 
 ---
 
+## Quintessus Prime
+### C-Qnt — “The Loner”
+#### Features — PR+ Nr-
+**Goal:** “My goal is to helpful in being alone.”
+**Fault:** “I struggle to create my own wants.”
+
+#### Description
+C-Qnt feels that they work best alone. They struggle to achieve their function when forced in close proximity with others. C-Qnt tends to view others as inefficient, overbearing parties; if something can be done alone, it is better done alone. They often have a miniscule group of peers, if they have any at all. Instead, C-Qnt prefers to focus on work and function, and find personal achievement in doing a good job.
+
+C-Qnt often considers themselves to operate more as a machine than a person—forgetting they have their own needs and desires and isolating themselves completely. They are rarely ever in tune with matters of the spark, and may come across as emotionless and robotic to those around them. Often the only perceivable emotion of C-Qnt is frustration, if not outright anger.
+
+C-Qnt, more than any other lineage, struggles to form interest outside of their approved function. They often follow the rules strictly, and hold both themselves and their peers accountable to those rules. 
+
+
+#### Additional Information
+*Enneagram correlations:* SP1, SO5, SP5, SX5, SO9, SX9
+*Potential assignments:* Perceptor, Tarn, Skyfire
+
+### S-Qnt — “The Vagabond”
+#### Features — DT+ FR-
+**Conviction:** “I best provide value when alone.”
+**Fear:** “I fear not having agency over my situation.”
+
+#### Description
+S-Qnt tries to push away their emotional core. While they are as sensitive to their emotions as any other spark system, they fail to integrate these emotions as part of their identity, instead viewing them as their enemy. 
+
+S-Qnt believes that solitude and introspection can be used to control their feelings and keep them in line. 
+
+This behavior differs from other Quintessus lineages, as it comes from S-Qnt’s perceived lack of agency, rather than a feeling of accomplishment.
+
+#### Additional Information
+*Enneagram correlations:* SP1, SP8, SP9
+*Potential assignments:*
+
+### M-Qnt — “The Wanderer”
+#### Features — AP+ AT
+**Presence:** “I will present myself as someone who does not care.”
+**Blind Spot:** “I fail to recognize that people see me and what I do.”
+
+#### Description
+MQnt represents the archetype of “The Drifter.” They like to present themselves as someone who does not care about anything that happens and whether or not it benefits them. They often give people the answers they think they want to hear, and move on with their day. As a consequence, they fail to recognize that this outer persona which they give to others has a real affect on their lives and perceptions of them. A MQnt can go months talking to someone and then be surprised to find out the other actually likes them and thinks about them when they aren’t around.
+
+#### Additional Information
+*Enneagram correlations:*
+*Potential assignments:*
+
+---
+
 ## Template
 ### C-Exa
 #### Features — ??+ ??-
