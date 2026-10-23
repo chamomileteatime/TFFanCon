@@ -2,17 +2,19 @@
 ## The First — Prima
 **The First Bearer of the Matrix**
 
-Those who take after Prima in terms of personality tend to be strong, intuition-led leaders. Their failings, however, are often deeply tied to this sense of leadership—they often force themselves to take on burdens they cannot manage alone, or act in a way that limits harm to those under their protection, rather than splitting their burdens equally or trusting others. They also often react poorly to criticism, and are prone to doubling down and attempt to prove others wrong when their way is not working.
+The eldest of the Original Thirteen, and the first to bear the Matrix of Leadership. He and Megatronus frequently got in violent arguments about how to properly rule over Cybertron, arguments that only Solus could effectively quell. However, the two eventually went too far, Prima accidentally killing his brother-in-arms. Solus died shortly after, broken by the consequences of their infighting. 
+
+Shortly after this accident, Prima was murdered by Megatronus’ mentee, Liege Maximus, as revenge for the deaths of both Megatronus and Solus Prime. The Matrix of Leadership was then passed on to Prima’s own student, Vector Prime.
 
 ## The Second — Megatronus Prime
 **The Fallen**
 
-He and Prima got into a fight over something, which resulted in Prima accidentally killing him. The death of his spark also killed his Conjunx Endura, Solus Prime, resulting in great tragedy for the Thirteen, leaving them all to go their separate ways.
+Megatronus Prime was once the most respected of Prima’s brethren, offering his brother-in-arms advice wherever possible. However, the two had different visions for the future of Cybertron, leading them to fight constantly over their next moves. In one such fight, Prima accidentally killed Megatronus while attempting to defend himself from the other’s attack. Solus died shortly after.
 
 ## The Third — Solus Prime
 **The First to Love, “Endurus Prime”**
 
-As Prima’s Amica Endura, and the Conjunx Endura of Megatronus Prime, her “failure to keep the two in check” is used as the basis for pushback against personal relationships across Cybertron. 
+Solus Prime was just as much a core part of Cybertron’s leadership as Prima or Megatronus, both on her own merit and for being the one to keep the other two in check long enough for them to actually lead. However, as Prima’s Amica Endura, and the Conjunx Endura of Megatronus Prime, her “failure” to keep the two in check is used as the basis for pushback against personal relationships across Cybertron. 
 
 
 ## The Fourth — Quintessus Prime
