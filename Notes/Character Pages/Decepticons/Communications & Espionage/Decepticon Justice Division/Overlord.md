@@ -8,7 +8,7 @@
 
 <u><b>Medical Information:</b></u>
 *Method of Creation:* Forged
-*Age:* 2.5mil
+*Age:* 2.25mil
 *Altmode:* A... tank?
 *Sparktype:* 
 - [ ] #todo Overlord’s Sparktype
