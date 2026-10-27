@@ -2,7 +2,7 @@
 # Cyclonus
 <u><b>Relevant Background:</b></u>
 *Caste:* N/A (Principal Caste, Religious, Noble Caste)
-*Faction:* Quintessons
+*Faction:* Quintessons, Predacons (Youth)
 *Occupation:* Warrior
 *Polity of Origin:* Upper Tetrahex
 
@@ -22,3 +22,6 @@
 *Optic Color:* Yellow
 *Plating Colors:* Grey and Purple
 *Notable Features:* Skeletal Intake Structure, Large Horns
+
+## Background
+Spent her nascent years as a member of the Predacon Tribe.

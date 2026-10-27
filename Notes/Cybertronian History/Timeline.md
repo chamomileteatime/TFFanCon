@@ -1,15 +1,20 @@
 # Cybertronian Timeline
-## Ancient Era
+## The Era of Myth
+*Unknown - Unknown*
+## The Era of Ancients
 *Unknown—8mil BCE*
 ### List of Primes
-???mil BCE — ???mil BCE: Unknown
+Unknown — Unknown: Prima
+Unknown — Unknown: Vector Prime 
 #### Notable Historical Events
 1. Cybertronian Unification
+2. Death of Megatronus & Solus
+3. Separation of the Nine Tribes
 #### Notable Physical Traits
 More skeletal proto-forms alongside thicker armor plating and simplified designs.
 #### Notable Cybertronians
-Galvatron, Cyclonus, Scourge, Tailgate, Nova
-## Transition Era
+Galvatron, Cyclonus, Scourge, Tailgate, Nova Prime
+## Transition/Golden Era
 *8mil BCE—6.5 mil BCE*
 ### Golden Age
 ###  List of Primes
